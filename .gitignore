@@ -1,0 +1,23 @@
+# Python 虚拟环境
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# GitHub Actions
+.github/
+
+# 生成的文件
+nickelate_superconductivity_recent_papers.md
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
