@@ -9,7 +9,7 @@ permissions:
 
     
 env:
-  OUTPUT_FILE: "altermagnetic_recent_papers.md"
+  OUTPUT_FILE: "nickelate_superconductivity_recent_papers.md"
 
 jobs:
   build:
