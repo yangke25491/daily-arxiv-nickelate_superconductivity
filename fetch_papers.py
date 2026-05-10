@@ -14,7 +14,7 @@ TIME_RANGE_DAYS = 30
 CATEGORY1 = "cond-mat.supr-con"
 CATEGORY2 = "cond-mat.str-el"
 # 最大返回论文数量，避免结果过多
-MAX_RESULTS = 200
+MAX_RESULTS =  100
 # 输出的Markdown文件名
 OUTPUT_FILE = "nickelate_superconductivity_recent_papers.md"
 # ==========================================================
