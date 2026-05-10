@@ -62,46 +62,25 @@ if __name__ == "__main__":
         print(f"获取到论文数量: {total_papers}")
 
         # ===================== 生成 Markdown =====================
-        markdown_content = f"# 凝聚态物理-镍酸盐高温超导相关论文
-
-"
-        markdown_content += f"> 最后更新时间：**{END_DATE}**
-"
-        markdown_content += f"> 检索范围：过去 **{TIME_RANGE_DAYS}** 天
-"
-        markdown_content += f"> 论文数量：**{total_papers}** 篇
-
-"
-        markdown_content += "---
-
-"
+        markdown_content = f"# 凝聚态物理-镍酸盐高温超导相关论文\n\n"
+        markdown_content += f"> 最后更新时间：**{END_DATE}**\n"
+        markdown_content += f"> 检索范围：过去 **{TIME_RANGE_DAYS}** 天\n"
+        markdown_content += f"> 论文数量：**{total_papers}** 篇\n\n"
+        markdown_content += "---\n\n"
 
         for index, paper in enumerate(paper_entries, 1):
-            paper_title = paper.title.replace("
-", " ").strip()
+            paper_title = paper.title.replace("\n", " ").strip()
             author_list = ", ".join([author.name for author in paper.authors])
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
-            abstract = paper.summary.replace("
-", " ").strip()
+            abstract = paper.summary.replace("\n", " ").strip()
 
-            markdown_content += f"## {index}. {paper_title}
-
-"
-            markdown_content += f"- **提交日期**：{submit_date}
-"
-            markdown_content += f"- **作者**：{author_list}
-"
-            markdown_content += f"- **arXiv链接**：{arxiv_link}
-
-"
-            markdown_content += f"### 摘要
-{abstract}
-
-"
-            markdown_content += "---
-
-"
+            markdown_content += f"## {index}. {paper_title}\n\n"
+            markdown_content += f"- **提交日期**：{submit_date}\n"
+            markdown_content += f"- **作者**：{author_list}\n"
+            markdown_content += f"- **arXiv链接**：{arxiv_link}\n\n"
+            markdown_content += f"### 摘要\n{abstract}\n\n"
+            markdown_content += "---\n\n"
 
         # ===================== 保存文件 =====================
         output_dir = os.path.dirname(OUTPUT_FILE)
