@@ -37,7 +37,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add ${{ env.OUTPUT_FILE }}
-          if git diff --cached --quiet; then
+          if git -f diff --cached --quiet; then
             echo "没有发现新的变更，跳过提交步骤。"
           else
             git commit -m "Automated update: arXiv papers"
