@@ -9,12 +9,12 @@ import sys
 SEARCH_KEYWORD = "nickelate"
 SUPERCONDUCTIVITY_KEYWORD = "superconductivity"
 # 时间范围：最近N天，默认30天（一个月）
-TIME_RANGE_DAYS = 30
+TIME_RANGE_DAYS = 7
 # arXiv分类：凝聚态物理全部分类，无需修改
 CATEGORY1 = "cond-mat.supr-con"
 CATEGORY2 = "cond-mat.str-el"
 # 最大返回论文数量，避免结果过多
-MAX_RESULTS =  100
+MAX_RESULTS =  50
 # 输出的Markdown文件名
 OUTPUT_FILE = "nickelate_superconductivity_recent_papers.md"
 # ==========================================================
