@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
         if response.status_code != 200:
             print(f"错误响应内容预览: {response.text[:500]}")
-            response.raise_for_status()  # 这会抛出 HTTPError
+            response.raise_for_status()
 
         feed = feedparser.parse(response.content)
         if feed.bozo:
@@ -55,8 +55,30 @@ if __name__ == "__main__":
         total_papers = len(paper_entries)
         print(f"获取到论文数量: {total_papers}")
 
+        # ===================== KaTeX 头部 =====================
+        katex_header = """<!-- KaTeX for LaTeX rendering -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\\\(', right: '\\\\)', display: false},
+            {left: '\\\\[', right: '\\\\]', display: true}
+        ],
+        throwOnError: false
+    });
+});
+</script>
+
+"""
+
         # ===================== 生成 Markdown =====================
-        markdown_content = f"# 凝聚态物理-镍酸盐高温超导相关论文\n\n"
+        markdown_content = katex_header
+        markdown_content += f"# 凝聚态物理-镍酸盐高温超导相关论文\n\n"
         markdown_content += f"> 最后更新时间：**{END_DATE}**\n"
         markdown_content += f"> 检索范围：过去 **{TIME_RANGE_DAYS}** 天\n"
         markdown_content += f"> 论文数量：**{total_papers}** 篇\n\n"
@@ -73,7 +95,7 @@ if __name__ == "__main__":
             markdown_content += f"- **提交日期**：{submit_date}\n"
             markdown_content += f"- **作者**：{author_list}\n"
             markdown_content += f"- **arXiv链接**：{arxiv_link}\n\n"
-            markdown_content += f"### 摘要\n${abstract}$\n\n"
+            markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n"
             markdown_content += "---\n\n"
 
         # ===================== 保存文件 =====================
