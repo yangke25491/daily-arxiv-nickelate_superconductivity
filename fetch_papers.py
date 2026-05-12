@@ -3,6 +3,8 @@ import feedparser
 from datetime import date, timedelta
 import os
 import sys
+import time
+import random
 
 # ===================== 配置区域 =====================
 SEARCH_KEYWORD = "nickelate"
@@ -34,18 +36,29 @@ request_params = {
     "sortOrder": "descending"
 }
 
+
+def fetch_with_retry(url, params, max_retries=5):
+    """Fetch URL with 3s delay + exponential backoff on 429 errors."""
+    for attempt in range(max_retries):
+        time.sleep(3)
+        response = requests.get(url, params=params, timeout=30)
+        if response.status_code == 200:
+            return response
+        elif response.status_code == 429:
+            wait_time = (2 ** attempt) + random.uniform(0, 1)
+            print(f"[Attempt {attempt+1}] Rate limited (429), retrying in {wait_time:.1f}s...")
+            time.sleep(wait_time)
+        else:
+            response.raise_for_status()
+    response.raise_for_status()
+
+
 if __name__ == "__main__":
     try:
         print(f"正在检索 {START_DATE} 至 {END_DATE} 的论文...")
-        print(f"请求 URL: {ARXIV_API_URL}")
-        print(f"请求参数: {request_params}")
-
-        response = requests.get(ARXIV_API_URL, params=request_params, timeout=30)
+        response = fetch_with_retry(ARXIV_API_URL, request_params)
+        response.raise_for_status()
         print(f"HTTP 状态码: {response.status_code}")
-
-        if response.status_code != 200:
-            print(f"错误响应内容预览: {response.text[:500]}")
-            response.raise_for_status()
 
         feed = feedparser.parse(response.content)
         if feed.bozo:
@@ -55,7 +68,6 @@ if __name__ == "__main__":
         total_papers = len(paper_entries)
         print(f"获取到论文数量: {total_papers}")
 
-        # ===================== KaTeX 头部 =====================
         katex_header = """<!-- KaTeX for LaTeX rendering -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -76,7 +88,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 """
 
-        # ===================== 生成 Markdown =====================
         markdown_content = katex_header
         markdown_content += f"# 凝聚态物理-镍酸盐高温超导相关论文\n\n"
         markdown_content += f"> 最后更新时间：**{END_DATE}**\n"
@@ -98,7 +109,6 @@ document.addEventListener("DOMContentLoaded", function() {
             markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n"
             markdown_content += "---\n\n"
 
-        # ===================== 保存文件 =====================
         output_dir = os.path.dirname(OUTPUT_FILE)
         if output_dir and not os.path.exists(output_dir):
             os.makedirs(output_dir, exist_ok=True)
