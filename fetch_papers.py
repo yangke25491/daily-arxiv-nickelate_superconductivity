@@ -37,23 +37,15 @@ request_params = {
 
 def kramdown_safe_abstract(text):
     """Convert $...$ to \(...\) for Kramdown, escape _ outside math.
+    Handles $...$ that may span newlines.
     Kramdown recognizes \(...\) as inline math and won't corrupt underscores.
     MathJax v3 also processes \(...\) delimiters correctly."""
     result = []
     i = 0
     while i < len(text):
-        if text[i:i+2] == '$$':
-            j = i + 2
-            while j < len(text) - 1 and text[j:j+2] != '$$':
-                j += 1
-            if j < len(text) - 1:
-                result.append('\\[' + text[i+2:j] + '\\]')
-                i = j + 2
-            else:
-                result.append(text[i])
-                i += 1
-        elif text[i] == '$':
+        if text[i] == '$':
             j = i + 1
+            # Find matching closing $, allowing newlines
             while j < len(text) and text[j] != '$':
                 j += 1
             if j < len(text):
@@ -107,13 +99,11 @@ if __name__ == "__main__":
         markdown_content += f"> 论文数量：**{total_papers}** 篇\n\n---\n"
 
         for index, paper in enumerate(paper_entries, 1):
-            paper_title = paper.title.replace("\n", " ").strip()
-            paper_title = kramdown_safe_abstract(paper_title)
+            paper_title = kramdown_safe_abstract(paper.title.replace("\n", " ").strip())
             author_list = ", ".join([author.name for author in paper.authors])
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
-            abstract = paper.summary.replace("\n", " ").strip()
-            abstract = kramdown_safe_abstract(abstract)
+            abstract = kramdown_safe_abstract(paper.summary.replace("\n", " ").strip())
 
             markdown_content += f"## {index}. {paper_title}\n\n"
             markdown_content += f"- **提交日期**：{submit_date}\n"
