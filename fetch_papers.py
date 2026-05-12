@@ -41,19 +41,15 @@ def kramdown_safe_abstract(text):
     result = []
     i = 0
     while i < len(text):
-        # Found a $ that starts math mode
         if text[i] == '$':
             j = i + 1
-            # Find matching closing $
             while j < len(text) and text[j] != '$':
                 j += 1
-            # Copy everything from i to j+1 as-is (keep LaTeX math intact)
             result.append(text[i:j+1] if j < len(text) else text[i:])
             i = j + 1
         else:
-            # Outside $...$, escape underscores for Kramdown
             if text[i] == '_':
-                result.append(r'\-')
+                result.append(r'\_')
             else:
                 result.append(text[i])
             i += 1
