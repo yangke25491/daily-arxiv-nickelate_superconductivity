@@ -13,7 +13,7 @@ TIME_RANGE_DAYS = 7
 CATEGORY1 = "cond-mat.supr-con"
 CATEGORY2 = "cond-mat.str-el"
 MAX_RESULTS = 50
-OUTPUT_FILE = "nickelate_superconductivity_recent_papers.md"
+OUTPUT_FILE = "docs/index.md"
 # ====================================================
 
 END_DATE = date.today()
@@ -68,32 +68,14 @@ if __name__ == "__main__":
         total_papers = len(paper_entries)
         print(f"获取到论文数量: {total_papers}")
 
-        katex_header = """<!-- KaTeX for LaTeX rendering -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
-<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    renderMathInElement(document.body, {
-        delimiters: [
-            {left: '$$', right: '$$', display: true},
-            {left: '$', right: '$', display: false},
-            {left: '\\\\(', right: '\\\\)', display: false},
-            {left: '\\\\[', right: '\\\\]', display: true}
-        ],
-        throwOnError: false
-    });
-});
-</script>
+        markdown_content = f"""# 凝聚态物理-镍酸盐高温超导相关论文
 
+> 最后更新时间：**{END_DATE}**
+> 检索范围：过去 **{TIME_RANGE_DAYS}** 天
+> 论文数量：**{total_papers}** 篇
+
+---
 """
-
-        markdown_content = katex_header
-        markdown_content += f"# 凝聚态物理-镍酸盐高温超导相关论文\n\n"
-        markdown_content += f"> 最后更新时间：**{END_DATE}**\n"
-        markdown_content += f"> 检索范围：过去 **{TIME_RANGE_DAYS}** 天\n"
-        markdown_content += f"> 论文数量：**{total_papers}** 篇\n\n"
-        markdown_content += "---\n\n"
 
         for index, paper in enumerate(paper_entries, 1):
             paper_title = paper.title.replace("\n", " ").strip()
