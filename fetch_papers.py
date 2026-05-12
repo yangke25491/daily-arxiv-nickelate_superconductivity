@@ -35,15 +35,35 @@ request_params = {
 }
 
 
-def escape_underscores_in_math(text):
-    import re
-    def replacer(m):
-        inner = m.group(1)
-        # Replace _ with \+_ so Kramdown leaves it alone and MathJax renders it
-        inner = inner.replace('_', r'\-')
-        return m.group(0)[0] + inner + m.group(0)[-1]
-    text = re.sub(r'\$([^$]+)\$', replacer, text)
-    return text
+def escape_math_underscores(text):
+    result = []
+    i = 0
+    while i < len(text):
+        if text[i] == '$' and (i == 0 or text[i-1] != '\\'):
+            # Toggle math mode
+            math_start = i
+            i += 1
+            while i < len(text) and text[i] != '$':
+                if text[i] == '\\':
+                    result.append(text[i])
+                    i += 1
+                    if i < len(text):
+                        result.append(text[i])
+                        i += 1
+                elif text[i] == '_':
+                    result.append('\\')
+                    result.append('_')
+                    i += 1
+                else:
+                    result.append(text[i])
+                    i += 1
+            if i < len(text):
+                result.append(text[i])
+                i += 1
+        else:
+            result.append(text[i])
+            i += 1
+    return ''.join(result)
 
 
 def fetch_with_retry(url, params, max_retries=5):
@@ -86,7 +106,7 @@ if __name__ == "__main__":
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
             abstract = paper.summary.replace("\n", " ").strip()
-            abstract = escape_underscores_in_math(abstract)
+            abstract = escape_math_underscores(abstract)
 
             markdown_content += f"## {index}. {paper_title}\n\n"
             markdown_content += f"- **提交日期**：{submit_date}\n"
