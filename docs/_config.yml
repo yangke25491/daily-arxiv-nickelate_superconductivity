@@ -3,3 +3,4 @@ description: 自动抓取的镍酸盐高温超导相关论文
 show_downloads: true
 github_pages: true
 theme: minima
+mathjax: true
