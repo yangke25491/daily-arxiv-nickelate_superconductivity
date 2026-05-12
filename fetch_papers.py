@@ -38,9 +38,10 @@ request_params = {
 def escape_underscores_in_math(text):
     import re
     def replacer(m):
-        math_content = m.group(1)
-        math_content = math_content.replace('_', r'\-')
-        return m.group(0)[0] + math_content + m.group(0)[-1]
+        inner = m.group(1)
+        # Replace _ with \+_ so Kramdown leaves it alone and MathJax renders it
+        inner = inner.replace('_', r'\-')
+        return m.group(0)[0] + inner + m.group(0)[-1]
     text = re.sub(r'\$([^$]+)\$', replacer, text)
     return text
 
