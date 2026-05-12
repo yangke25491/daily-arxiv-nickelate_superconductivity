@@ -108,6 +108,7 @@ if __name__ == "__main__":
 
         for index, paper in enumerate(paper_entries, 1):
             paper_title = paper.title.replace("\n", " ").strip()
+            paper_title = kramdown_safe_abstract(paper_title)
             author_list = ", ".join([author.name for author in paper.authors])
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
