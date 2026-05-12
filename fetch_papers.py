@@ -35,33 +35,27 @@ request_params = {
 }
 
 
-def escape_math_underscores(text):
+def kramdown_safe_abstract(text):
+    """Escape underscores outside $...$ so Kramdown won't corrupt LaTeX math.
+    Inside $...$ keep underscores as-is so MathJax renders subscripts correctly."""
     result = []
     i = 0
     while i < len(text):
-        if text[i] == '$' and (i == 0 or text[i-1] != '\\'):
-            # Toggle math mode
-            math_start = i
-            i += 1
-            while i < len(text) and text[i] != '$':
-                if text[i] == '\\':
-                    result.append(text[i])
-                    i += 1
-                    if i < len(text):
-                        result.append(text[i])
-                        i += 1
-                elif text[i] == '_':
-                    result.append('\\')
-                    result.append('_')
-                    i += 1
-                else:
-                    result.append(text[i])
-                    i += 1
-            if i < len(text):
-                result.append(text[i])
-                i += 1
+        # Found a $ that starts math mode
+        if text[i] == '$':
+            j = i + 1
+            # Find matching closing $
+            while j < len(text) and text[j] != '$':
+                j += 1
+            # Copy everything from i to j+1 as-is (keep LaTeX math intact)
+            result.append(text[i:j+1] if j < len(text) else text[i:])
+            i = j + 1
         else:
-            result.append(text[i])
+            # Outside $...$, escape underscores for Kramdown
+            if text[i] == '_':
+                result.append(r'\-')
+            else:
+                result.append(text[i])
             i += 1
     return ''.join(result)
 
@@ -106,7 +100,7 @@ if __name__ == "__main__":
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
             abstract = paper.summary.replace("\n", " ").strip()
-            abstract = escape_math_underscores(abstract)
+            abstract = kramdown_safe_abstract(abstract)
 
             markdown_content += f"## {index}. {paper_title}\n\n"
             markdown_content += f"- **提交日期**：{submit_date}\n"
