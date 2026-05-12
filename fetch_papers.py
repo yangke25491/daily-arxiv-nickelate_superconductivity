@@ -98,15 +98,18 @@ if __name__ == "__main__":
         markdown_content += f"> 论文数量：**{total_papers}** 篇\n\n---\n"
 
         for index, paper in enumerate(paper_entries, 1):
-            paper_title = kramdown_safe_abstract(paper.title.replace("\n", " ").strip())
-            # Additional fix: handle La${N} patterns like La$_3$Ni$_2$O$_7$
+            paper_title = paper_title.replace("\n", " ").strip()
+            # Replace La${N}, Ni${N}, O${N} patterns in titles
             paper_title = paper_title.replace(r'La$_', r'La\(_').replace(r'Ni$_', r'Ni\(_').replace(r'O$_', r'O\(_')
-            # Also handle Ni$_{7+Î´}$ -> Ni\(_{7+Î´}\)
-            paper_title = paper_title.replace(r'Ni${', r'Ni\(_{').replace(r'O${', r'O\(_{')
+            paper_title = paper_title.replace(r'La${', r'La\(_{').replace(r'Ni${', r'Ni\(_{').replace(r'O${', r'O\(_{')
+            # Then convert remaining $...$ to \(...\)
+            paper_title = kramdown_safe_abstract(paper_title)
+            
             author_list = ", ".join([author.name for author in paper.authors])
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
-            abstract = kramdown_safe_abstract(paper.summary.replace("\n", " ").strip())
+            abstract = paper_summary.replace("\n", " ").strip()
+            abstract = kramdown_safe_abstract(abstract)
 
             markdown_content += f"## {index}. {paper_title}\n\n"
             markdown_content += f"- **提交日期**：{submit_date}\n"
