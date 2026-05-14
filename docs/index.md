@@ -19,7 +19,7 @@ layout: default
 Bilayer Ruddlesden-Popper nickelates display superconductivity near 80 K under high pressure, establishing a new nickelate platform for studying unconventional high-temperature superconductivity. The recent stabilization of superconducting RA3Ni2O7 (RA = rare earth or alkaline earth) films at ambient pressure has changed the experimental landscape: epitaxial strain can reproduce key structural ingredients of the high-pressure phase while making transport, spectroscopy, microscopy, and device-oriented measurements directly accessible. This Review summarizes the experimental progress on ambient-pressure superconducting bilayer nickelate films, with emphasis on synthesis routes, oxygen stoichiometry, substrate-induced strain, normal-state transport, superconducting properties, doping phase diagrams, and momentum-resolved electronic structure. We highlight several issues that remain unsettled, including the reproducibility of phase-pure ultrathin films, the microscopic origin of the two-step superconducting transition, the role of oxygen defects and substrate-derived doping, the position of the Ni 3dz2-derived γ band, and the pairing symmetry. We close by outlining experimental directions that could establish a more quantitative link among crystal structure, orbital reconstruction, and superconductivity in bilayer nickelate films.
 
 ---
-## 2. Correlation-Driven Orbital-Selective Fermiology and Superconductivity in the Bilayer Nickelate La\(\_3\(Ni\(_2\)O\(\_7$
+## 2. Correlation-Driven Orbital-Selective Fermiology and Superconductivity in the Bilayer Nickelate La\(_3\)Ni\(_2\)O\(_7\)
 
 - **提交日期**：2026-05-11
 - **作者**：Yong-Yue Zong, Shun-Li Yu, Jian-Xin Li
