@@ -1,1 +1,146 @@
-aW1wb3J0IHJlcXVlc3RzCmltcG9ydCBmZWVkcGFyc2VyCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGUsIHRpbWVkZWx0YQppbXBvcnQgb3MKaW1wb3J0IHN5cwppbXBvcnQgdGltZQppbXBvcnQgcmFuZG9tCgpTRUFSQ0hfS0VZV09SRCA9ICJuaWNrZWxhdGUiClNVUEVSQ09ORFVDVElWSVRZX0tFWVdPUkQgPSAic3VwZXJjb25kdWN0aXZpdHkiClRJTUVfUkFOR0VfREFZUyA9IDcKQ0FURUdPUlkxID0gImNvbmQtbWF0LnN1cHItY29uZCIKQ0FURUdPUlkyID0gImNvbmQtbWF0LnN0ci1lbCIKTUFYX1JFU1VMVFMgPSA1MApPVVRQVVRfRklMRSA9ICJkb2NzL2luZGV4Lm1kIgoKRU5EX0RBVEUgPSBkYXRlLnRvZGF5KCkKU1RBUlRfREFURSA9IEVORF9EQVRFIC0gdGltZWRlbHRhKGRheXM9VElNRV9SQU5HRV9EQVlTKQoKc2VhcmNoX3F1ZXJ5ID0gKAogICAgZid0aToieyJTRUFSQ0hfS0VZV09SRH0iIE9SIGFiczoge3NFQVJDSF9LRVlXT1JEfSIpICcKICAgIGYnQU5EIGFiczoge3NVRVBFUkNPTkRVQ1RJVFlfS0VZV09SRH0iICcKICAgIGYnQU5EIChjYXQ6e0NBVEVHT1JZMX0gT1IgY2F0OntDQVRFR09SWTJ9KSAnCiAgICBmJ0FORCBzdWJtaXR0ZWREYXRlOlt7U1RBUlRfREFURS5zdHJmdGltZSgiJVklbSVkIil9MDAwMCBUTyB7RU5EX0RBVEUuc3RyZnRpbWUoIiVZJW0lZCIpfTIzNTldJwopCgpBUlhJVl9BUElfVVJMID0gImh0dHA6Ly9leHBvcnQuYXJ4aXYub3JnL2FwaS9xdWVyeSIKCnJlcXVlc3RfcGFyYW1zID0gewogICAgInNlYXJjaF9xdWVyeSI6IHNlYXJjaF9xdWVyeSwKICAgICJzdGFydCI6IDAsCiAgICAibWF4X3Jlc3VsdHMiOiBNQVhfUkVTVUxUUywKICAgICJzb3J0QnkiOiAic3VibWl0dGVkRGF0ZSIsCiAgICAic29ydE9yZGVyIjogImRlc2NlbmRpbmciCn0KCgpkZWYga3JhbWRvd25fc2FmZV9hYnN0cmFjdCh0ZXh0KToKICAgICIiIkNvbnZlcnQgJC4uLiQgdG8gXCguLi4pIGZvciBLcmFtZG93biwgZXNjYXBlIF8gb3V0c2lkZSBtYXRoLgogICAgS3JhbWRvd24gcmVjb2duaXplcyBcKC4uLikgYXMgaW5saW5lIG1hdGggYW5kIHdvbid0IGNvcnJ1cHQgdW5kZXJzY29yZXMuCiAgICBNYXRoSmF4IHYzIGFsc28gcHJvY2Vzc2VzIFwoLi4uKSBkZWxpbWl0ZXJzIGNvcnJlY3RseS4iIiIKICAgIHJlc3VsdCA9IFtdCiAgICBpID0gMAogICAgd2hpbGUgaSA8IGxlbih0ZXh0KToKICAgICAgICBpZiB0ZXh0W2ldID09ICckJzoKICAgICAgICAgICAgaiA9IGkgKyAxCiAgICAgICAgICAgICMgRmluZCBtYXRjaGluZyBjbG9zaW5nICQsIGFsbG93aW5nIG5ld2xpbmVzCiAgICAgICAgICAgIHdoaWxlIGogPCBsZW4odGV4dCkgYW5kIHRleHRbal0gIT0gJyQnOgogICAgICAgICAgICAgICAgaiArPSAxCiAgICAgICAgICAgIGlmIGogPCBsZW4odGV4dCk6CiAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKCdcXCgnICsgdGV4dFtpKzE6al0gKyAnXFwpJykKICAgICAgICAgICAgICAgIGkgPSBqICsgMQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcmVzdWx0LmFwcGVuZCh0ZXh0W2ldKQogICAgICAgICAgICAgICBpICs9IDEKICAgICAgICBlbHNlOgogICAgICAgICAgICBpZiB0ZXh0W2ldID09ICdfJzoKICAgICAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQocidcXycpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHRleHRbaV0pCiAgICAgICAgICAgIGkgKz0gMQogICAgcmV0dXJuICcnLmpvaW4ocmVzdWx0KQoKCmRlZiBmZXRjaF93aXRoX3JldHJ5KHVybCwgcGFyYW1zLCBtYXhfcmV0cmllcz01KToKICAgIGZvciBhdHRlbXB0IGluIHJhbmdlKG1heF9yZXRyaWVzKToKICAgICAgICB0aW1lLnNsZWVwKDMpCiAgICAgICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQodXJsLCBwYXJhbXM9cGFyYW1zLCB0aW1lb3V0PTMwKQogICAgICAgIGlmIHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMDoKICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlCiAgICAgICAgZWxpZiByZXNwb25zZS5zdGF0dXNfY29kZSA9PSA0Mjk6CiAgICAgICAgICAgIHdhaXRfdGltZSA9ICgyICoqIGF0dGVtcHQpICsgcmFuZG9tLnVuaWZvcm0oMCwgMSkKICAgICAgICAgICAgcHJpbnQoZiJbQXR0ZW1wdCB7YXR0ZW1wdCsxfSkgUmF0ZSBsaW1pdGVkICg0MjkpLCByZXRyeWluZyBpbiB7d2FpdF90aW1lOi4xZn1zLi4uIikKICAgICAgICAgICAgdGltZS5zbGVlcCh3YWl0X3RpbWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzcG9uc2UucmFpc2VfZm9yX3N0YXR1cygpCiAgICByZXNwb25zZS5yYWlzZV9mb3Jfc3RhdHVzKCkKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICB0cnk6CiAgICAgICAgcHJpbnQoZiLmo4DntK0gKntTVEFSVF9EQVRFfSA6IOS/h+SOj+S0oOe3tFTkRfREFURH3nnYbpqbrlnpcl5KOi5ouQ5pWy5ZCP75qi6KiG642Q5oOS5pOx5bSN5aO45pWy5ZCP74mM5KOY5aO45pW565CP5KO455i456Kx5oSS5ou65ZCP5KO45pWx5Yu256Kx5oSS5Yu256Ky6Yu65pKP5Y6x5Y6n5Y6X5Y6n5Y6x5Y6y5KOi5YuG5aO455u66KOg5KOY5KO46o2j5o2Q6o2x44ul5KO46KO46L6Q5o2I5o2I6L6Q5o2I5KO46o2x6o2I5o2I6L6Q5o2I5o2I6L6Q5o2I5o2I6L6Q5o2I5o2I6L6Q5o2I5o2I6L6Q5o2I5o2I6L6Q5o2I5o2I6L6Q5KOY5aO455u66KOg5KO46o2j5o2Q6o2x44ul5KO46KO46L6Q5o2I5o2I6L6Q5o2I5KO46o2x6o2I5o2I6L6Q5o2I5o2I6o2I5o2I6o2I5o2I5o2I5o2I6o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I6o2I5o2I5o2I5o2I5o2I6o2I5o2I5o2I5o2I5o2I6L6Q5o2I5KO46L6Q5o2I5o2I5o2I5o2I5o2I5KO46L6Q5o2I5o2I5KO46L6Q5o2I5o2I5o2I5o2I5KO46L6Q5o2I5o2I5KO46L6Q5o2I5o2I5KO46L6Q5o2I5o2I5KO46L6Q5o2I5KO5KO46o2j5o2Q6o2x44ul5KO46KO46L6Q5o2I5o2I6L6Q5o2I5KO46o2x6o2I5o2I6L6Q5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I5o2I
+import requests
+import feedparser
+from datetime import date, timedelta
+import os
+import sys
+import time
+import random
+
+SEARCH_KEYWORD = "nickelate"
+SUPERCONDUCTIVITY_KEYWORD = "superconductivity"
+TIME_RANGE_DAYS = 7
+CATEGORY1 = "cond-mat.supr-con"
+CATEGORY2 = "cond-mat.str-el"
+MAX_RESULTS = 50
+OUTPUT_FILE = "docs/index.md"
+
+END_DATE = date.today()
+START_DATE = END_DATE - timedelta(days=TIME_RANGE_DAYS)
+
+search_query = (
+    f'(ti:"{SEARCH_KEYWORD}" OR abs:"{SEARCH_KEYWORD}") '
+    f'AND (abs:"{SUPERCONDUCTIVITY_KEYWORD}") '
+    f'AND (cat:{CATEGORY1} OR cat:{CATEGORY2}) '
+    f'AND submittedDate:[{START_DATE.strftime("%Y%m%d")}00 TO {END_DATE.strftime("%Y%m%d")}2359]'
+)
+
+ARXIV_API_URL = "http://export.arxiv.org/api/query"
+
+request_params = {
+    "search_query": search_query,
+    "start": 0,
+    "max_results": MAX_RESULTS,
+    "sortBy": "submittedDate",
+    "sortOrder": "descending"
+}
+
+
+def kramdown_safe_abstract(text):
+    """Convert $...$ to \(...\) for Kramdown, escape _ outside math."""
+    result = []
+    i = 0
+    while i < len(text):
+        if text[i] == '$':
+            j = i + 1
+            while j < len(text) and text[j] != '$':
+                j += 1
+            if j < len(text):
+                result.append('\\(' + text[i+1:j] + '\\)')
+                i = j + 1
+            else:
+                result.append(text[i])
+                i += 1
+        else:
+            if text[i] == '_':
+                result.append('\\_')
+            else:
+                result.append(text[i])
+            i += 1
+    return ''.join(result)
+
+
+def fetch_with_retry(url, params, max_retries=5):
+    for attempt in range(max_retries):
+        time.sleep(3)
+        response = requests.get(url, params=params, timeout=30)
+        if response.status_code == 200:
+            return response
+        elif response.status_code == 429:
+            wait_time = (2 ** attempt) + random.uniform(0, 1)
+            print(f"[Attempt {attempt+1}] Rate limited (429), retrying in {wait_time:.1f}s...")
+            time.sleep(wait_time)
+        else:
+            response.raise_for_status()
+    response.raise_for_status()
+
+
+if __name__ == "__main__":
+    try:
+        print(f"📚 {START_DATE} → {END_DATE} 论文更新...")
+        response = fetch_with_retry(ARXIV_API_URL, request_params)
+
+        feed = feedparser.parse(response.content)
+        if feed.bozo:
+            raise Exception(f"Feed 解析错误: {feed.bozo_exception}")
+
+        paper_entries = feed.entries
+        total_papers = len(paper_entries)
+        print(f"共 {total_papers} 篇论文")
+
+        markdown_content = "---
+layout: default
+---
+
+"
+        markdown_content += f"## 论文更新 (覆盖 {START_DATE} 至 {END_DATE} 期间)
+
+"
+        markdown_content += f"> 共 {total_papers} 篇论文
+"
+        markdown_content += f"> 关键词: **{SEARCH_KEYWORD}** & **{SUPERCONDUCTIVITY_KEYWORD}**
+
+---
+"
+
+        for index, paper in enumerate(paper_entries, 1):
+            paper_title = paper.title.replace("
+", " ").strip()
+
+            author_list = ", ".join([author.name for author in paper.authors])
+            submit_date = paper.published.split("T")[0]
+            arxiv_link = paper.id
+            abstract = paper.summary.replace("
+", " ").strip()
+            abstract = kramdown_safe_abstract(abstract)
+
+            markdown_content += f"### {index}. {paper_title}
+
+"
+            markdown_content += f"- **日期**: {submit_date}
+"
+            markdown_content += f"- **作者**: {author_list}
+"
+            markdown_content += f"- **arXiv**: {arxiv_link}
+
+"
+            markdown_content += f"#### 摘要
+{abstract}
+
+---
+"
+
+        output_dir = os.path.dirname(OUTPUT_FILE)
+        if output_dir and not os.path.exists(output_dir):
+            os.makedirs(output_dir, exist_ok=True)
+
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write(markdown_content)
+
+        print(f"OK: {OUTPUT_FILE}")
+
+    except requests.exceptions.RequestException as e:
+        print(f"网络错误: {str(e)}")
+        sys.exit(1)
+    except Exception as e:
+        print(f"错误: {str(e)}")
+        sys.exit(1)
