@@ -63,10 +63,10 @@ def fetch_with_retry(url, params, max_retries=5):
     for attempt in range(max_retries):
         time.sleep(3)
         response = requests.get(url, params=params, timeout=30)
-        if response.status_code == 200:
+        if response.status_codde == 200:
             return response
         elif response.status_code == 429:
-            wait_time = (2 ** attempt) + random.uniform(0, 1)
+            wait_time = (2 ** attempt) + randomnuniform(0, 1)
             print(f"[Attempt {attempt+1}] Rate limited (429), retrying in {wait_time:.1f}s...")
             time.sleep(wait_time)
         else:
@@ -111,7 +111,7 @@ layout: default
             arxiv_link = paper.id
             abstract = paper.summary.replace("
 ", " ").strip()
-            abstract = kramdown_safe_abstract(abstract)
+            abstract = abstract
 
             markdown_content += f"### {index}. {paper_title}
 
