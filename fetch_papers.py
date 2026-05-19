@@ -1,146 +1,97 @@
 import requests
 import feedparser
 from datetime import date, timedelta
-import os
-import sys
-import time
-import random
 
+# ===================== 可自定义配置区 =====================
+# 搜索关键词（镍酸盐）
 SEARCH_KEYWORD = "nickelate"
 SUPERCONDUCTIVITY_KEYWORD = "superconductivity"
-TIME_RANGE_DAYS = 7
+# 时间范围：最近N天，默认30天（一个月）
+TIME_RANGE_DAYS = 30
+# arXiv分类：凝聚态物理全部分类，无需修改
 CATEGORY1 = "cond-mat.supr-con"
 CATEGORY2 = "cond-mat.str-el"
-MAX_RESULTS = 50
-OUTPUT_FILE = "docs/index.md"
+# 最大返回论文数量，避免结果过多
+MAX_RESULTS = 100
+# 输出的Markdown文件名
+OUTPUT_FILE = "nickelate_superconductivity_recent_papers.md"
+# ==========================================================
 
+# 计算日期范围
 END_DATE = date.today()
 START_DATE = END_DATE - timedelta(days=TIME_RANGE_DAYS)
 
+# 构造arXiv API 搜索查询语句
+# 规则：标题/摘要包含关键词 + 凝聚态物理分类 + 指定提交日期范围
 search_query = (
-    f'(ti:"{SEARCH_KEYWORD}" OR abs:"{SEARCH_KEYWORD}") '
-    f'AND (abs:"{SUPERCONDUCTIVITY_KEYWORD}") '
-    f'AND (cat:{CATEGORY1} OR cat:{CATEGORY2}) '
-    f'AND submittedDate:[{START_DATE.strftime("%Y%m%d")}00 TO {END_DATE.strftime("%Y%m%d")}2359]'
+    f'(ti:"{SEARCH_KEYWORD}" OR abs:"{SEARCH_KEYWORD}") '  # 标题/摘要含关键词（更合理）
+    f'AND abs:"{SUPERCONDUCTIVITY_KEYWORD}" '
+    f'AND (cat:{CATEGORY1} OR cat:{CATEGORY2}) '  # 括号包裹分类，确保逻辑分组
+    f'AND submittedDate:[{START_DATE.strftime("%Y%m%d")}0000 TO {END_DATE.strftime("%Y%m%d")}2359]'
 )
 
+# arXiv API 官方接口地址
 ARXIV_API_URL = "http://export.arxiv.org/api/query"
 
+# 构造API请求参数
 request_params = {
     "search_query": search_query,
     "start": 0,
     "max_results": MAX_RESULTS,
-    "sortBy": "submittedDate",
-    "sortOrder": "descending"
+    "sortBy": "submittedDate",  # 按提交时间排序
+    "sortOrder": "descending"    # 最新的排在前面
 }
-
-
-def kramdown_safe_abstract(text):
-    """Convert $...$ to \(...\) for Kramdown, escape _ outside math."""
-    result = []
-    i = 0
-    while i < len(text):
-        if text[i] == '$':
-            j = i + 1
-            while j < len(text) and text[j] != '$':
-                j += 1
-            if j < len(text):
-                result.append('\\(' + text[i+1:j] + '\\)')
-                i = j + 1
-            else:
-                result.append(text[i])
-                i += 1
-        else:
-            if text[i] == '_':
-                result.append('\\_')
-            else:
-                result.append(text[i])
-            i += 1
-    return ''.join(result)
-
-
-def fetch_with_retry(url, params, max_retries=5):
-    for attempt in range(max_retries):
-        time.sleep(3)
-        response = requests.get(url, params=params, timeout=30)
-        if response.status_codde == 200:
-            return response
-        elif response.status_code == 429:
-            wait_time = (2 ** attempt) + randomnuniform(0, 1)
-            print(f"[Attempt {attempt+1}] Rate limited (429), retrying in {wait_time:.1f}s...")
-            time.sleep(wait_time)
-        else:
-            response.raise_for_status()
-    response.raise_for_status()
-
 
 if __name__ == "__main__":
     try:
-        print(f"📚 {START_DATE} → {END_DATE} 论文更新...")
-        response = fetch_with_retry(ARXIV_API_URL, request_params)
+        # 发送API请求
+        print(f"正在检索 {START_DATE} 至 {END_DATE} 的相关论文...")
+        response = requests.get(ARXIV_API_URL, params=request_params, timeout=30)
+        response.raise_for_status()  # 捕获HTTP请求错误
 
+        # 解析API返回的Atom格式数据
         feed = feedparser.parse(response.content)
         if feed.bozo:
-            raise Exception(f"Feed 解析错误: {feed.bozo_exception}")
-
+            raise Exception(f"数据解析失败: {feed.bozo_exception}")
+        
         paper_entries = feed.entries
         total_papers = len(paper_entries)
-        print(f"共 {total_papers} 篇论文")
 
-        markdown_content = "---
-layout: default
----
+        if total_papers == 0:
+            print(f"在指定时间范围内，未找到与{SEARCH_KEYWORD}相关的凝聚态物理论文")
+            exit()
 
-"
-        markdown_content += f"## 论文更新 (覆盖 {START_DATE} 至 {END_DATE} 期间)
+        # ===================== 生成Markdown格式内容 =====================
+        markdown_content = f"# 凝聚态物理-镍酸盐高温超导相关论文\n\n"
+        markdown_content += f"> 检索时间范围：**{START_DATE} 至 {END_DATE}**\n"
+        markdown_content += f"> 共检索到 **{total_papers}** 篇相关论文，按提交时间降序排列\n\n"
+        print(markdown_content)
+        markdown_content += "---\n\n"
 
-"
-        markdown_content += f"> 共 {total_papers} 篇论文
-"
-        markdown_content += f"> 关键词: **{SEARCH_KEYWORD}** & **{SUPERCONDUCTIVITY_KEYWORD}**
-
----
-"
-
+        # 遍历每篇论文，提取信息并格式化
         for index, paper in enumerate(paper_entries, 1):
-            paper_title = paper.title.replace("
-", " ").strip()
-
+            # 提取核心信息并处理换行、空格
+            paper_title = paper.title.replace("\n", " ").strip()
             author_list = ", ".join([author.name for author in paper.authors])
-            submit_date = paper.published.split("T")[0]
+            submit_date = paper.published.split("T")[0]  # 只保留日期，去掉时间
             arxiv_link = paper.id
-            abstract = paper.summary.replace("
-", " ").strip()
-            abstract = abstract
+            abstract = paper.summary.replace("\n", " ").strip()
 
-            markdown_content += f"### {index}. {paper_title}
+            # 拼接Markdown内容
+            markdown_content += f"## {index}. {paper_title}\n\n"
+            markdown_content += f"- **提交日期**：{submit_date}\n"
+            markdown_content += f"- **作者**：{author_list}\n"
+            markdown_content += f"- **arXiv链接**：[{arxiv_link}]({arxiv_link})\n\n"
+            markdown_content += f"### 摘要\n{abstract}\n\n"
+            markdown_content += "---\n\n"
 
-"
-            markdown_content += f"- **日期**: {submit_date}
-"
-            markdown_content += f"- **作者**: {author_list}
-"
-            markdown_content += f"- **arXiv**: {arxiv_link}
-
-"
-            markdown_content += f"#### 摘要
-{abstract}
-
----
-"
-
-        output_dir = os.path.dirname(OUTPUT_FILE)
-        if output_dir and not os.path.exists(output_dir):
-            os.makedirs(output_dir, exist_ok=True)
-
+        # 输出结果
+        # 1. 打印到控制台
+        #print(markdown_content)
+        # 2. 保存到Markdown文件
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(markdown_content)
+        print(f"\n✅ 检索完成！结果已保存到当前目录的 {OUTPUT_FILE} 文件中")
 
-        print(f"OK: {OUTPUT_FILE}")
-
-    except requests.exceptions.RequestException as e:
-        print(f"网络错误: {str(e)}")
-        sys.exit(1)
     except Exception as e:
-        print(f"错误: {str(e)}")
-        sys.exit(1)
+        print(f"❌ 运行出错：{str(e)}")
