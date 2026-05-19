@@ -5,9 +5,8 @@ on:
   schedule:
     - cron: '0 1 * * *'
 permissions:
-  contents: write   
+  contents: write
 
-    
 env:
   OUTPUT_FILE: "docs/index.md"
 
@@ -34,13 +33,15 @@ jobs:
 
       - name: Run fetch script
         run: python fetch_papers.py
+        env:
+          OUTPUT_FILE: "docs/index.md"
 
       - name: Commit and Push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -f docs/
-          if git  diff --cached --quiet; then
+          if git diff --cached --quiet; then
             echo "没有发现新的变更，跳过提交步骤。"
           else
             git commit -m "Automated update: arXiv papers"
