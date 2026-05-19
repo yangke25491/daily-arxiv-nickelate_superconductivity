@@ -2,28 +2,29 @@
 layout: none
 ---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: &quot;en&quot; }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!-- KaTeX CDN -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
+    <link rel="stylesheet" href="{{ &quot;/assets/css/style.css?v=&quot; | append: site.github.build_revision | relative_url }}">
+    <!-- KaTeX CDN (Cloudflare) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" integrity="sha512-fHwaWebuwA7NSF5Qg/af4UeDx9XqUpYpOGgubo3yWu+b2IQR4UeQwbb42Ti7gVAjNtVoI/I9TEoYeu9omwcC6g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js" integrity="sha512-LkfQmr1znL2TdnzXTs7HtPxJ9+nD3yE1zDrnGGoIL9mp4GRTDkKsRcB5ezzP8FckIq+lNgyXlT3hN5G6ieQnCA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js" integrity="sha512-iWiuBS5nt6r60fCz26Nd2Zqe0nbSTcrZkWp7T8Yx/mkD401Q9xv4VzNO+6sqCjIvS7/ZqZ0TGSKVA+Gn0a7L3Q==" crossorigin="anonymous" referrerpolicy="no-referrer"
       onload="renderMathInElement(document.body, {
         delimiters: [
-          {left: '$$', right: '$$', display: true},
-          {left: '$', right: '$', display: false}
-        ]
+          {left: &#39;$$&#39;, right: &#39;$$&#39;, display: true},
+          {left: &#39;$&#39;, right: &#39;$&#39;, display: false}
+        ],
+        strict: false
       });"></script>
   </head>
   <body>
     <div id="container">
       <header>
-        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ &quot;/&quot; | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
       </header>
       <section>
         {{ content }}
