@@ -1,11 +1,10 @@
-title: Daily arXiv Nickelate Superconductivity Papers
-description: 自动抓取的镍酸盐高温超导相关论文
-show_downloads: true
-github_pages: true
-#theme: minima
-mathjax: true
+title: Daily arXiv Papers - Nickelate Superconductivity
+description: Daily fetched arXiv papers on nickelate superconductivity
+show_downloads: false
 
+# Kramdown settings
 kramdown:
-  math_engine: mathjax
   syntax_highlighter: rouge
-  parse_block_html: true
+
+# GitHub Pages settings
+markdown: kramdown
