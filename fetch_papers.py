@@ -85,7 +85,12 @@ if __name__ == "__main__":
             print(f"在指定时间范围内，未找到与{SEARCH_KEYWORD}相关的凝聚态物理论文")
             exit()
 
-        markdown_content = f"# 凝聚态物理-镍酸盐高温超导相关论文\n\n"
+        markdown_content = f"""---
+layout: default
+title: 镍酸盐超导论文 - {{END_DATE}}
+---
+
+# 凝聚态物理-镍酸盐高温超导相关论文\n\n"
         markdown_content += f"> 检索时间范围：**{START_DATE} 至 {END_DATE}**\n"
         markdown_content += f"> 数据检索到 **{total_papers}** 篇相关论文，按提交时间降序排列\n\n"
         markdown_content += "---\n\n"
