@@ -87,7 +87,7 @@ if __name__ == "__main__":
 
         markdown_content = f"""---
 layout: default
-title: 镍酸盐超导论文 - {{END_DATE}}
+title: 镍酸盐超导论文
 ---
 
 # 凝聚态物理-镍酸盐高温超导相关论文\n\n"
