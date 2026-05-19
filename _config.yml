@@ -1,11 +1,10 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
+title: Daily arXiv Papers - Nickelate Superconductivity
+description: Daily fetched arXiv papers on nickelate superconductivity
+show_downloads: false
 
+# Kramdown settings
 kramdown:
-  math_engine: katex
   syntax_highlighter: rouge
 
-# KaTeX CDN for rendering LaTeX math
-katex:
-  enabled: true
+# GitHub Pages settings
+markdown: kramdown
