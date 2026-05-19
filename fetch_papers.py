@@ -19,9 +19,30 @@ MAX_RESULTS = 100
 OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "nickelate_superconductivity_recent_papers.md")
 # ===========================================================
 
-def escape_underscores_for_latex(text):
-    """转义LaTeX数学表达式前的下划线，防止Kramdown误解析为斜体"""
-    return re.sub(r'(?<!\\)\$_', r'\$_', text)
+def process_latex_math(text):
+    """处理 arXiv 摘要中的 LaTeX 数学公式，使其兼容 Kramdown + KaTeX 渲染
+
+    arXiv 使用 $...$ 作为行内数学公式定界符。
+    Kramdown 将 { } 解析为内联属性列表（IAL），会吞掉公式中的花括号。
+    本函数：
+    1. 保留 $...$ 定界符（KaTeX 可识别）
+    2. 对 $...$ 之外的花括号进行转义 \{ \}
+    3. 对 $...$ 之外的下划线进行转义 \_
+    """
+    result = []
+    # 分割文本：匹配 $...$ 数学公式块
+    parts = re.split(r'(\$[^\$]+\$)', text)
+
+    for part in parts:
+        if part.startswith('$') and part.endswith('$') and len(part) > 1:
+            # 数学公式内部：保持原样，KaTeX 会渲染
+            result.append(part)
+        else:
+            # 非数学公式区域：转义花括号和下划线
+            escaped = part.replace('{', '\\{').replace('}', '\\}').replace('_', '\\_')
+            result.append(escaped)
+
+    return ''.join(result)
 
 # 计算日期范围
 END_DATE = date.today()
@@ -70,11 +91,11 @@ if __name__ == "__main__":
         markdown_content += "---\n\n"
 
         for index, paper in enumerate(paper_entries, 1):
-            paper_title = escape_underscores_for_latex(paper.title.replace("\n", " ").strip())
+            paper_title = process_latex_math(paper.title.replace("\n", " ").strip())
             author_list = ", ".join([author.name for author in paper.authors])
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
-            abstract = escape_underscores_for_latex(paper.summary.replace("\n", " ").strip())
+            abstract = process_latex_math(paper.summary.replace("\n", " ").strip())
 
             markdown_content += f"## {index}. {paper_title}\n\n"
             markdown_content += f"- **提交日期**：{submit_date}\n"
