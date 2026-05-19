@@ -1,5 +1,6 @@
 import requests
 import feedparser
+import re
 from datetime import date, timedelta
 import os
 
@@ -17,6 +18,10 @@ MAX_RESULTS = 100
 # 输出的Markdown文件名（优先使用环境变量）
 OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "nickelate_superconductivity_recent_papers.md")
 # ===========================================================
+
+def escape_underscores_for_latex(text):
+    """转义LaTeX数学表达式前的下划线，防止Kramdown误解析为斜体"""
+    return re.sub(r'(?<!\\)\$_', r'\$_', text)
 
 # 计算日期范围
 END_DATE = date.today()
@@ -65,11 +70,11 @@ if __name__ == "__main__":
         markdown_content += "---\n\n"
 
         for index, paper in enumerate(paper_entries, 1):
-            paper_title = paper.title.replace("\n", " ").strip()
+            paper_title = escape_underscores_for_latex(paper.title.replace("\n", " ").strip())
             author_list = ", ".join([author.name for author in paper.authors])
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
-            abstract = paper.summary.replace("\n", " ").strip()
+            abstract = escape_underscores_for_latex(paper.summary.replace("\n", " ").strip())
 
             markdown_content += f"## {index}. {paper_title}\n\n"
             markdown_content += f"- **提交日期**：{submit_date}\n"
