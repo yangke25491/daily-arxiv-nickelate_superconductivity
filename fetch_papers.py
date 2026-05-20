@@ -19,7 +19,7 @@ def process_latex_math(text):
         if re.match(r'^\$[^$]+\$$', part):
             inner = part[1:-1]
             if re.match(r'^_[^$]+$', inner):
-                inner = '{}_' + inner
+                inner = '{}' + inner
             inner = inner.replace('_', '\\_').replace('*', '\\*')
             result.append('$' + inner + '$')
         else:
