@@ -20,7 +20,7 @@ def process_latex_math(text):
             inner = part[1:-1]
             if re.match(r'^_[^$]+$', inner):
                 inner = '{}' + inner
-            inner = inner.replace('_', '\\_').replace('*', '\\*')
+            inner = inner.replace('_', '\_').replace('*', '\*')
             result.append('$' + inner + '$')
         else:
             cleaned = re.sub(
@@ -28,7 +28,7 @@ def process_latex_math(text):
                 r'\1',
                 part
             )
-            escaped = cleaned.replace('{', '\\{').replace('}', '\\}').replace('_', '\\_').replace('*', '\\*')
+            escaped = cleaned.replace('{', '\{').replace('}', '\}').replace('_', '\_').replace('*', '\*')
             result.append(escaped)
     return ''.join(result)
 
