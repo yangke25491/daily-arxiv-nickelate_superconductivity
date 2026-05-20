@@ -20,9 +20,20 @@ def process_latex_math(text):
     parts = re.split(r'(\$[^$]+\$)', text)
     for part in parts:
         if re.match(r'^\$[^$]+\$$', part):
-            result.append(part)
+            # 修复：下标无基字符（如 $_3$）→ 补空组 ${}_3$
+            if re.match(r'^\$_[^$]+\$$', part):
+                inner = part[2:-1]
+                result.append('${}_' + inner + '$')
+            else:
+                result.append(part)
         else:
-            escaped = part.replace('{', '\\{').replace('}', '\\}').replace('_', '\\_')
+            # 剥离非数学部分中的 LaTeX 命令（如 \textit{...} → 保留内容）
+            cleaned = re.sub(
+                r'\\(?:text|textbf|textit|emph|mathrm|mathbf|mathit|mathcal|mathsf|mathtt|it|bf|rm|sl|sc|tt|cal)\s*\{([^}]*)\}',
+                r'\1',
+                part
+            )
+            escaped = cleaned.replace('{', '\\{').replace('}', '\\}').replace('_', '\\_')
             result.append(escaped)
     return ''.join(result)
 
@@ -86,7 +97,7 @@ if __name__ == "__main__":
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(markdown_content)
-        print(f"\n✅ 检索完成！结果已保存到当前目录的 {OUTPUT_FILE} 文件中")
+        print(f"\n检索完成！结果已保存到当前目录的 {OUTPUT_FILE} 文件中")
 
     except Exception as e:
-        print(f"❌ 运行出错：{str(e)}")
+        print(f"运行出错：{str(e)}")
