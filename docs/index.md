@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-04-19 至 2026-05-19**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-04-20 至 2026-05-20**
+> 数据检索到 **17** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Interlayer electronic coherence links magnetism and superconductivity in Ruddlesden-Popper nickelates
+## 1. Nearly perfect Fermi surface nesting in hole-doped La${}_3$Ni${}_2$O${}_7$ enables bulk superconductivity without pressure or strain
+
+- **提交日期**：2026-05-19
+- **作者**：Chengliang Xia, Jiale Chen, Hongquan Liu, Hanghui Chen
+- **arXiv链接**：[http://arxiv.org/abs/2605.19297v1](http://arxiv.org/abs/2605.19297v1)
+
+### 摘要
+The discovery of high-temperature superconductivity in Ruddlesden-Popper nickelates has drawn great attention. However, unlike cuprates and iron-based superconductors, Ruddlesden-Popper nickelates exhibit superconductivity either under high pressure in bulk samples or under compressive strain in thin films. Genuine bulk superconductivity under ambient pressure has remained elusive in these materials, precluding key measurements such as specific heat and superfluid density. In this work, we combine density-functional-theory, dynamical-mean-field-theory, and random-phase-approximation to solve the superconducting gap equation for bulk hole-doped bilayer nickelate La${}_{3-x}$Sr${}_x$Ni${}_2$O${}_7$ at ambient pressure. We find that hole doping induces a Ni-$d_{3z^2-r^2}$-derived $γ$ pocket on the Fermi surface, and serves as a tuning parameter for both its size and shape. As $x$ approaches 0.4, the $γ$ pocket evolves from circular to diamond-shaped and expands to span half of the Brillouin zone, resulting in nearly perfect Fermi surface nesting with the optimal nesting vector $\textbf{Q} = (π, π)$. This, in turn, strongly enhances antiferromagnetic spin fluctuations and substantially increases the leading superconducting eigenvalue to a level at which superconductivity becomes experimentally observable. Our work provides both a robust mechanism and an experimentally feasible route to inducing the long-sought bulk superconductivity in La${}_3$Ni${}_2$O${}_7$ without pressure or strain.
+
+---
+
+## 2. Imaging stripe dynamics in trilayer nickelate La${}_4$Ni${}_3$O${}_{10}$
+
+- **提交日期**：2026-05-18
+- **作者**：Uladzislau Mikhailau, Luke Rhodes, Siri A. Berge, Matthias Hepting, Masahiko Isobe, Carolina A. Marques, Pascal Puphal, Peter Wahl
+- **arXiv链接**：[http://arxiv.org/abs/2605.18954v1](http://arxiv.org/abs/2605.18954v1)
+
+### 摘要
+Since the discovery of high-temperature superconductivity in nickelate superconductors, it is an open question how closely the superconducting state resembles that of cuprate superconductors. One salient feature of the phase diagram of the high-temperature cuprate superconductors is stripe order. Despite their prevalence, real-space imaging has been limited to the charge sector. Here we use spin-polarised scanning tunnelling microscopy to visualize the local magnetic and charge distribution emerging due to a stripe order in the trilayer nickelate La${}_4$Ni${}_3$O${}_{10}$. The stripe order exhibits a four unit cell periodicity, closely resembling that seen in cuprates, and opens a near-complete $\sim66\mathrm{meV}$ gap at the Fermi level. Crucially, discrete phase slips can be triggered by tunneling electrons above a $\sim 20\mathrm{meV}$ threshold, allowing imaging of stripe dynamics at the atomic scale. These results highlight the importance of correlation physics driving stripe-like orders in lanthanum nickelates with striking similarities to the cuprates.
+
+---
+
+## 3. Interlayer electronic coherence links magnetism and superconductivity in Ruddlesden-Popper nickelates
 
 - **提交日期**：2026-05-18
 - **作者**：Feiyang Liu, Lixing Chen, Enkang Zhang, Ying-Jie Zhang, Jun Zhao
@@ -21,18 +43,18 @@ The extent to which electronic dimensionality influences magnetism and supercond
 
 ---
 
-## 2. Enhanced $s^\pm$-wave superconductivity in electron-doped La$_3$Ni$_2$O$_7$
+## 4. Enhanced $s^\pm$-wave superconductivity in electron-doped La${}_3$Ni${}_2$O${}_7$
 
 - **提交日期**：2026-05-17
 - **作者**：Xun Liu, Chao Deng, Wenfeng Wu, Liang Si, Mi Jiang
 - **arXiv链接**：[http://arxiv.org/abs/2605.17520v1](http://arxiv.org/abs/2605.17520v1)
 
 ### 摘要
-In cuprates, electron doping yields a much lower superconducting $T_c$ than hole doping. For recently discovered nickelate superconductors, the analogous doping strategies become more challenging. Consequently, while hole-doped Ruddlesden-Popper (RP) nickelates have been extensively studied, electron-doped RP nickelates remain rarely explored both experimentally and theoretically. Here we fill this gap by systematically investigating the two-orbital bilayer model for three representative systems: bulk La$_3$Ni$_2$O$_7$ at ambient pressure and 15\,GPa, and a heterostructure La$_3$Ni$_2$O$_7$:La$_3$Al$_2$O$_7$ that provides a feasible experimental route to electron doping. Using first-principle calculations and large-scale dynamical cluster quantum Monte Carlo simulations, we find that electron doping generically enhances $s^\pm$-wave pairing superconductivity (SC) in all three cases, with the heterostructure showing the highest $T_c$ in the underdoped regime. Furthermore, our results suggest an inter-orbital cooperative mechanism that the pairing on the $d_{x^2-y^2}$ orbital, induced by that on the $d_{z^2}$ orbital, plays vital role in the SC. This work provides the first theoretical prediction of enhanced SC in electron-doped RP nickelates and calls for future experimental verification.
+In cuprates, electron doping yields a much lower superconducting $T_c$ than hole doping. For recently discovered nickelate superconductors, the analogous doping strategies become more challenging. Consequently, while hole-doped Ruddlesden-Popper (RP) nickelates have been extensively studied, electron-doped RP nickelates remain rarely explored both experimentally and theoretically. Here we fill this gap by systematically investigating the two-orbital bilayer model for three representative systems: bulk La${}_3$Ni${}_2$O${}_7$ at ambient pressure and 15\,GPa, and a heterostructure La${}_3$Ni${}_2$O${}_7$:La${}_3$Al${}_2$O${}_7$ that provides a feasible experimental route to electron doping. Using first-principle calculations and large-scale dynamical cluster quantum Monte Carlo simulations, we find that electron doping generically enhances $s^\pm$-wave pairing superconductivity (SC) in all three cases, with the heterostructure showing the highest $T_c$ in the underdoped regime. Furthermore, our results suggest an inter-orbital cooperative mechanism that the pairing on the $d_{x^2-y^2}$ orbital, induced by that on the $d_{z^2}$ orbital, plays vital role in the SC. This work provides the first theoretical prediction of enhanced SC in electron-doped RP nickelates and calls for future experimental verification.
 
 ---
 
-## 3. Observation of flat-bottom U-shaped energy gap in high-Tc nickelate (La,Pr)3Ni2O7 thin films
+## 5. Observation of flat-bottom U-shaped energy gap in high-Tc nickelate (La,Pr)3Ni2O7 thin films
 
 - **提交日期**：2026-05-15
 - **作者**：Zhen Liang, Tianheng Wei, Wei Ren, Haoran Ji, Zheyuan Xie, Yanzhao Liu, Ziqiang Wang, Jian Wang
@@ -43,7 +65,7 @@ The discovery of high transition temperature (high-Tc) superconductivity in Rudd
 
 ---
 
-## 4. Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films
+## 6. Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films
 
 - **提交日期**：2026-05-14
 - **作者**：Xinxin Wang, Yaqi Chen, Cui Ding, Lizhi Xu, Jian-Jian Miao, Guangdi Zhou, Zhuoyu Chen, Yu-Jie Sun, Jin-Feng Jia, Qi-Kun Xue
@@ -54,7 +76,7 @@ Ruddlesden-Popper bilayer nickelates provide an emerging platform for studying h
 
 ---
 
-## 5. Shear-stress-constrained superconductivity in Ruddlesden-Popper nickelates
+## 7. Shear-stress-constrained superconductivity in Ruddlesden-Popper nickelates
 
 - **提交日期**：2026-05-14
 - **作者**：Liling Sun, Shu Cai, Jinyu Zhao, Qi Wu, Yang Ding, Tao Xiang, Ho-kwang Mao
@@ -65,7 +87,7 @@ Ruddlesden-Popper nickelates exhibit superconductivity under pressure in bulk cr
 
 ---
 
-## 6. Experimental Progress in Ambient-Pressure Superconducting Bilayer Nickelate Films
+## 8. Experimental Progress in Ambient-Pressure Superconducting Bilayer Nickelate Films
 
 - **提交日期**：2026-05-12
 - **作者**：Meng Zhang, Xi Yan
@@ -76,29 +98,29 @@ Bilayer Ruddlesden-Popper nickelates display superconductivity near 80 K under h
 
 ---
 
-## 7. Correlation-Driven Orbital-Selective Fermiology and Superconductivity in the Bilayer Nickelate La$_3$Ni$_2$O$_7$
+## 9. Correlation-Driven Orbital-Selective Fermiology and Superconductivity in the Bilayer Nickelate La${}_3$Ni${}_2$O${}_7$
 
 - **提交日期**：2026-05-11
 - **作者**：Yong-Yue Zong, Shun-Li Yu, Jian-Xin Li
 - **arXiv链接**：[http://arxiv.org/abs/2605.10101v1](http://arxiv.org/abs/2605.10101v1)
 
 ### 摘要
-Recent angle-resolved photoemission measurements on La$_3$Ni$_2$O$_7$ have challenged the density-functional-theory-based picture of three Fermi surfaces by revealing that the $d_{z^2}$-derived $γ$ band can reside below the Fermi level. Motivated by this discrepancy, we investigate a realistic bilayer two-orbital Hubbard model using time-dependent variational principle (TDVP)-based cluster perturbation theory (CPT), alongside large-scale density matrix renormalization group (DMRG) calculations. Our TDVP-CPT calculations, performed on clusters of up to 16 physical sites, reveal that electronic correlations drive a pronounced orbital-selective reconstruction of the low-energy spectrum: the $d_{z^2}$ spectral weight is progressively depleted, the $γ$ band sinks below the Fermi level, and pseudogaps open on the remaining $α$ and $β$ bands, leaving Fermi arcs dominated by the $d_{x^2-y^2}$ orbital at strong coupling. Furthermore, large-scale DMRG calculations demonstrate that the leading superconducting correlations evolve consistently with this Fermi surface reconstruction, transitioning from $d_{z^2}$-dominated to $d_{x^2-y^2}$-dominated interlayer spin-singlet pairing while retaining an $s_{\pm}$ structure. Consequently, our results indicate that the disappearance of the $γ$ pocket is not detrimental to superconductivity; rather, it signals a correlation-driven shift of the pairing channel mediated by interlayer antiferromagnetism, Hund's coupling, and inter-orbital hybridization.
+Recent angle-resolved photoemission measurements on La${}_3$Ni${}_2$O${}_7$ have challenged the density-functional-theory-based picture of three Fermi surfaces by revealing that the $d_{z^2}$-derived $γ$ band can reside below the Fermi level. Motivated by this discrepancy, we investigate a realistic bilayer two-orbital Hubbard model using time-dependent variational principle (TDVP)-based cluster perturbation theory (CPT), alongside large-scale density matrix renormalization group (DMRG) calculations. Our TDVP-CPT calculations, performed on clusters of up to 16 physical sites, reveal that electronic correlations drive a pronounced orbital-selective reconstruction of the low-energy spectrum: the $d_{z^2}$ spectral weight is progressively depleted, the $γ$ band sinks below the Fermi level, and pseudogaps open on the remaining $α$ and $β$ bands, leaving Fermi arcs dominated by the $d_{x^2-y^2}$ orbital at strong coupling. Furthermore, large-scale DMRG calculations demonstrate that the leading superconducting correlations evolve consistently with this Fermi surface reconstruction, transitioning from $d_{z^2}$-dominated to $d_{x^2-y^2}$-dominated interlayer spin-singlet pairing while retaining an $s_{\pm}$ structure. Consequently, our results indicate that the disappearance of the $γ$ pocket is not detrimental to superconductivity; rather, it signals a correlation-driven shift of the pairing channel mediated by interlayer antiferromagnetism, Hund's coupling, and inter-orbital hybridization.
 
 ---
 
-## 8. Regulating oxygen content and superconductivity in La$_3$Ni$_2$O$_{7+δ}$
+## 10. Regulating oxygen content and superconductivity in La${}_3$Ni${}_2$O${}_{7+δ}$
 
 - **提交日期**：2026-05-06
 - **作者**：Peiyue Ma, Jingyuan Li, Xing Huang, Yixing Zhao, Yifeng Han, Mengwu Huo, Deyuan Hu, Chaoxin Huang, Hengyuan Zhang, Sihao Deng, Lunhua He, Juan Rodriguez-Carvajal, Abhisek Bandyopadhyay, Alessandro Puri, Devashibhai Adroja, Xiang Chen, Tao Xie, Zhen Chen, Hualei Sun, Meng Wang
 - **arXiv链接**：[http://arxiv.org/abs/2605.04562v1](http://arxiv.org/abs/2605.04562v1)
 
 ### 摘要
-The synthesis of high-quality Ruddlesden-Popper (RP) nickelates remains challenging due to variations in oxygen content and the prevalence of intergrown RP phases. Precisely controlling the stoichiometry and characterizing the resulting physical properties are essential for understanding the mechanism of high-$T_c$ superconductivity in these materials. In this work, we synthesize a series of La$_3$Ni$_2$O$_{7+δ}$ samples with systematically controlled oxygen content and perform comprehensive structural and compositional analyses. Precise oxygen tuning enables us to tailor the microstructure, yielding a pure bilayer phase, a mixture of bilayer and hybrid single-layer-bilayer phases, and a predominantly bilayer phase containing trilayer intergrowths. High-pressure transport measurements reveal distinct superconducting transitions with contrasting $T_c$ values, corresponding to the bilayer phase, the hybrid phase, and trilayer inclusions. Notably, we find that oxygen content not only governs the phase purity$-$i.e., the presence of intergrowth phases$-$but also directly modulates the upper critical field ($H_{c2}$) of the bilayer superconductivity. By establishing a phase diagram of $T_c$ and $H_{c2}$ as functions of oxygen content in La$_3$Ni$_2$O$_{7+δ}$, this work advances synthetic control and provides new insights into the superconducting mechanism of RP nickelates.
+The synthesis of high-quality Ruddlesden-Popper (RP) nickelates remains challenging due to variations in oxygen content and the prevalence of intergrown RP phases. Precisely controlling the stoichiometry and characterizing the resulting physical properties are essential for understanding the mechanism of high-$T_c$ superconductivity in these materials. In this work, we synthesize a series of La${}_3$Ni${}_2$O${}_{7+δ}$ samples with systematically controlled oxygen content and perform comprehensive structural and compositional analyses. Precise oxygen tuning enables us to tailor the microstructure, yielding a pure bilayer phase, a mixture of bilayer and hybrid single-layer-bilayer phases, and a predominantly bilayer phase containing trilayer intergrowths. High-pressure transport measurements reveal distinct superconducting transitions with contrasting $T_c$ values, corresponding to the bilayer phase, the hybrid phase, and trilayer inclusions. Notably, we find that oxygen content not only governs the phase purity$-$i.e., the presence of intergrowth phases$-$but also directly modulates the upper critical field ($H_{c2}$) of the bilayer superconductivity. By establishing a phase diagram of $T_c$ and $H_{c2}$ as functions of oxygen content in La${}_3$Ni${}_2$O${}_{7+δ}$, this work advances synthetic control and provides new insights into the superconducting mechanism of RP nickelates.
 
 ---
 
-## 9. Nature of magnetism in bilayer nickelate La3Ni2O7 single crystals
+## 11. Nature of magnetism in bilayer nickelate La3Ni2O7 single crystals
 
 - **提交日期**：2026-05-05
 - **作者**：Lixing Chen, Enkang Zhang, Yiqing Hao, Yinghao Zhu, Bingkun Cui, Douglas L. Abernathy, Travis J. Williams, Yoichi Ikeda, Hao Zhang, Feiyang Liu, Wenbin Wang, Qisi Wang, Jun Zhao
@@ -109,18 +131,18 @@ The recent discovery of high-temperature superconductivity in pressurized and th
 
 ---
 
-## 10. Interlayer Five-Spin Polaron in Superconducting Bilayer Nickelates
+## 12. Interlayer Five-Spin Polaron in Superconducting Bilayer Nickelates
 
 - **提交日期**：2026-05-04
 - **作者**：Jiarui Li, Christopher T. Parzyck, Eder G. Lomeli, Yidi Liu, Taehun Kim, Heemin Lee, Zengqing Zhuo, Eun Kyo Ko, Yaoju Tarn, Cheng-Tai Kuo, Ronny Sutarto, Chunjing Jia, Vivek Thampy, Brian Moritz, Yijun Yu, Jun-Sik Lee, Valentina Bisogni, Thomas P. Devereaux, Harold Y. Hwang, Wei-Sheng Lee
 - **arXiv链接**：[http://arxiv.org/abs/2605.02891v1](http://arxiv.org/abs/2605.02891v1)
 
 ### 摘要
-The discovery of high-$T_c$ superconductivity in Ruddlesden-Popper nickelates has sparked substantial effort towards understanding unconventional electronic states beyond a traditional cuprate-like d^9 configurational ground state. An understanding of the interplay between magnetic ground states and multi-orbital physics is key for establishing a microscopic mechanism for superconductivity. In the bilayer nickelates, spin density wave (SDW) order is a prominent feature in the non-superconducting regime. However, its relation to superconducting pairing remains an open question. Here, we use resonant x-ray scattering to examine the existence of SDW order in superconducting bilayer nickelate thin films La$_2$PrNi$_2$O$_7$ (LPNO). Comparing superconducting and oxygen-deficient LPNO thin films, we find that superconductivity occurs in SDW-free, oxygen-stoichiometric regions, whereas oxygen-deficiency promotes SDW order, indicating phase segregation of SDW and superconductivity. Furthermore, Ni-$L_3$ and O-$K$ edge spectroscopy reveals distinct electronic structures - particularly along the $c$-axis - between the two domains. Our results identify oxygen stoichiometry as a key parameter controlling interlayer coupling and thus the electronic structure of bilayer nickelates. In concert with theory, we propose that a ligand hole primarily resides at the inter-bilayer apical oxygen, forming a robust interlayer five-spin polaron state, which serves as the ground state for superconducting bilayer nickelates.
+The discovery of high-$T_c$ superconductivity in Ruddlesden-Popper nickelates has sparked substantial effort towards understanding unconventional electronic states beyond a traditional cuprate-like d^9 configurational ground state. An understanding of the interplay between magnetic ground states and multi-orbital physics is key for establishing a microscopic mechanism for superconductivity. In the bilayer nickelates, spin density wave (SDW) order is a prominent feature in the non-superconducting regime. However, its relation to superconducting pairing remains an open question. Here, we use resonant x-ray scattering to examine the existence of SDW order in superconducting bilayer nickelate thin films La${}_2$PrNi${}_2$O${}_7$ (LPNO). Comparing superconducting and oxygen-deficient LPNO thin films, we find that superconductivity occurs in SDW-free, oxygen-stoichiometric regions, whereas oxygen-deficiency promotes SDW order, indicating phase segregation of SDW and superconductivity. Furthermore, Ni-$L_3$ and O-$K$ edge spectroscopy reveals distinct electronic structures - particularly along the $c$-axis - between the two domains. Our results identify oxygen stoichiometry as a key parameter controlling interlayer coupling and thus the electronic structure of bilayer nickelates. In concert with theory, we propose that a ligand hole primarily resides at the inter-bilayer apical oxygen, forming a robust interlayer five-spin polaron state, which serves as the ground state for superconducting bilayer nickelates.
 
 ---
 
-## 11. Vortex Transport in Ni/Bi Bilayer Superconductor with Strong Spin-Orbit and Exchange Interaction
+## 13. Vortex Transport in Ni/Bi Bilayer Superconductor with Strong Spin-Orbit and Exchange Interaction
 
 - **提交日期**：2026-05-04
 - **作者**：Laxmipriya Nanda, Sohini Guin, Yasen Hou, Rajib Sarkar, Naresh Shyaga, Souvik Banerjee, A. Sundaresan, N. S. Vidhyadhiraja, Jagadeesh S. Moodera, Dhavala Suri
@@ -131,40 +153,40 @@ Nickel/bismuth (Ni/Bi) bilayers are a promising platform for exploring unconvent
 
 ---
 
-## 12. Metallic crossover through the tilt-free transition in La$_3$Ni$_2$O$_7$ at high pressure and temperature
+## 14. Metallic crossover through the tilt-free transition in La${}_3$Ni${}_2$O${}_7$ at high pressure and temperature
 
 - **提交日期**：2026-05-03
 - **作者**：Bastien Michon, Yingpeng Yu, Beatrice D'Alò, Elena Stellino, Gergely Németh, Bosen Wang, Jianping Sun, Jinguang Cheng, Paolo Postorino, Ferenc Borondics, Francesco Capitani
 - **arXiv链接**：[http://arxiv.org/abs/2605.01651v1](http://arxiv.org/abs/2605.01651v1)
 
 ### 摘要
-La$_3$Ni$_2$O$_7$, a bilayer nickelate with Ruddlesden-Popper structure, undergoes a pressure-induced structural transition from a tilted Amam phase to an untilted Fmmm (or I4/mmm) phase near 10-15 GPa, concomitant with the emergence of high-T$_c$ superconductivity (T$_c$ $\sim$ 80 K). Despite intense interest, the phase boundaries and the impact of structural changes on the electronic properties remain unclear. Here, we combine high-pressure and high-temperature Raman and synchrotron-based infrared spectroscopies to map the structural and electronic evolutions. Raman measurements confirm the pressure-driven structural transition and reveal the emergence of Fano line shapes, indicating enhanced electron-phonon coupling. High-temperature data show analogous spectral signatures above 544 K, suggesting an unreported upper temperature limit of the Amam phase within the T-P phase diagram of this system. Infrared reflectivity measurements evidence a concomitant metallization, with a tremendous two-order-of-magnitude increase in carrier density, marking a crossover from a bad metal to a good metal. These results establish a unified picture of the structural transition and its strong coupling to the electronic properties.
+La${}_3$Ni${}_2$O${}_7$, a bilayer nickelate with Ruddlesden-Popper structure, undergoes a pressure-induced structural transition from a tilted Amam phase to an untilted Fmmm (or I4/mmm) phase near 10-15 GPa, concomitant with the emergence of high-T${}_c$ superconductivity (T${}_c$ $\sim$ 80 K). Despite intense interest, the phase boundaries and the impact of structural changes on the electronic properties remain unclear. Here, we combine high-pressure and high-temperature Raman and synchrotron-based infrared spectroscopies to map the structural and electronic evolutions. Raman measurements confirm the pressure-driven structural transition and reveal the emergence of Fano line shapes, indicating enhanced electron-phonon coupling. High-temperature data show analogous spectral signatures above 544 K, suggesting an unreported upper temperature limit of the Amam phase within the T-P phase diagram of this system. Infrared reflectivity measurements evidence a concomitant metallization, with a tremendous two-order-of-magnitude increase in carrier density, marking a crossover from a bad metal to a good metal. These results establish a unified picture of the structural transition and its strong coupling to the electronic properties.
 
 ---
 
-## 13. $3d_{z^2}$ orbital delocalization and magnetic collapse in superconducting (La,Pr)$_3$Ni$_2$O$_{7-δ}$ films
+## 15. $3d_{z^2}$ orbital delocalization and magnetic collapse in superconducting (La,Pr)${}_3$Ni${}_2$O${}_{7-δ}$ films
 
 - **提交日期**：2026-04-23
 - **作者**：Xiaoyang Chen, Wenliang Zhang, Fei Peng, Ting Cui, Guangdi Zhou, Zezhong Li, Jaewon Choi, Lizhi Xu, Yiu-Fung Chiu, Stefano Agrestini, Sahil Tippireddy, Haoliang Huang, Heng Wang, Xianfeng Wu, Peng Li, Jin-Feng Jia, Mirian Garcia-Fernandez, Yi Lu, Er-Jia Guo, Qi-Kun Xue, Zhuoyu Chen, Donglai Feng, Ke-Jin Zhou
 - **arXiv链接**：[http://arxiv.org/abs/2604.21899v2](http://arxiv.org/abs/2604.21899v2)
 
 ### 摘要
-The recent discovery of Ruddlesden--Popper (RP) nickelate thin-film superconductors has opened a new frontier in unconventional superconductivity. Its realization requires both compressive epitaxial strain and highly oxidative growth conditions, yet the microscopic pathway from the parent phase to the superconducting phase remains elusive. Here, X-ray absorption spectra and resonant inelastic X-ray scattering are employed to track this evolution by independently tuning strain and oxygen content in (La,Pr)$_3$Ni$_2$O$_{7-δ}$ thin films. We uncover a remarkable two-step narrative. First, signatures of delocalization emerge in the same way upon two independent tunings: Spectral weight transfers from a ''Upper Hubbard''-like peak to the hole-like peak associated with O $2p_z$ state, and in parallel, the initially localized Ni $3d_{z^2}$ orbital becomes more itinerant followed by the broadening and weakening of $dd$ orbital excitations. Second, as itinerancy increases, long-range spin-density-wave (SDW) order is suppressed in both intensity and correlation length, indicating direct competition with superconductivity. Yet, short-range magnons persist: they become damped but their bandwidth stays unchanged. Our results paint a coherent picture that both strain and oxygenation drive the RP bilayer nickelates towards the superconducting instability, where the O $2p_z$ and Ni $3d_{z^2}$ orbitals become delocalized. Concomitantly, the long-range magnetic order loses coherence and gets suppressed. These findings establish an orbital-selective route to RP nickelate superconductivity, in which the delocalization of the $2p_z$ and $3d_{z^2}$ orbitals and the robust short-range magnons upon the melting of SDW order are prerequisites, providing strong constraints for theory and the roadmap for designing nickelate superconductors.
+The recent discovery of Ruddlesden--Popper (RP) nickelate thin-film superconductors has opened a new frontier in unconventional superconductivity. Its realization requires both compressive epitaxial strain and highly oxidative growth conditions, yet the microscopic pathway from the parent phase to the superconducting phase remains elusive. Here, X-ray absorption spectra and resonant inelastic X-ray scattering are employed to track this evolution by independently tuning strain and oxygen content in (La,Pr)${}_3$Ni${}_2$O${}_{7-δ}$ thin films. We uncover a remarkable two-step narrative. First, signatures of delocalization emerge in the same way upon two independent tunings: Spectral weight transfers from a ''Upper Hubbard''-like peak to the hole-like peak associated with O $2p_z$ state, and in parallel, the initially localized Ni $3d_{z^2}$ orbital becomes more itinerant followed by the broadening and weakening of $dd$ orbital excitations. Second, as itinerancy increases, long-range spin-density-wave (SDW) order is suppressed in both intensity and correlation length, indicating direct competition with superconductivity. Yet, short-range magnons persist: they become damped but their bandwidth stays unchanged. Our results paint a coherent picture that both strain and oxygenation drive the RP bilayer nickelates towards the superconducting instability, where the O $2p_z$ and Ni $3d_{z^2}$ orbitals become delocalized. Concomitantly, the long-range magnetic order loses coherence and gets suppressed. These findings establish an orbital-selective route to RP nickelate superconductivity, in which the delocalization of the $2p_z$ and $3d_{z^2}$ orbitals and the robust short-range magnons upon the melting of SDW order are prerequisites, providing strong constraints for theory and the roadmap for designing nickelate superconductors.
 
 ---
 
-## 14. Superconductivity in bilayer La$_3$Ni$_2$O$_7$: A review focusing on the strong-coupling Hund's rule assisted pairing mechanism
+## 16. Superconductivity in bilayer La${}_3$Ni${}_2$O${}_7$: A review focusing on the strong-coupling Hund's rule assisted pairing mechanism
 
 - **提交日期**：2026-04-22
 - **作者**：Zhiming Pan, Chen Lu, Fan Yang, Congjun Wu
 - **arXiv链接**：[http://arxiv.org/abs/2604.20613v1](http://arxiv.org/abs/2604.20613v1)
 
 ### 摘要
-Discovery of high-$T_c$ superconductivity (SC) in the bilayer nickelate series La$_3$Ni$_2$O$_7$ have attracted substantial interest, providing a new platform for exploring unconventional SC. Certain experimental evidence has pointed to a correlated electronic nature, which is the driving force responsible for its high critical temperature ($T_c$). This work reviews the SC in La$_3$Ni$_2$O$_7$, with a particular focus on theoretical understanding of its pairing mechanism driven by this strong-coupling, Hund-assisted scenario. The electronic landscape is governed by two $E_g$-orbitals within the bilayer structure of NiO$_2$ planes. The $3d_{z^2}$ orbital is nearly half-filled and exhibits a stronger localized character, while the $3d_{x^2-y^2}$ is approximately quarter-filled and remains highly itinerant. The localized $3d_{z^2}$ orbitals experience robust interlayer hybridization, mediated by the $2p_z$ orbitals of the inner apical oxygen atoms. This hybridization generates a strong interlayer antiferromagnetic (AFM) exchange. In the strong coupling regime, Hund's rule coupling aligns the spins of the two $E_g$ orbitals on the same nickel site. The strong interlayer AFM exchange is effectively transferred to the itinerant $3d_{x^2-y^2}$ orbital, generating an effective coupling $J_{\perp}$ within this orbital. This mechanism is captured by a minimal strong-coupling bilayer $t$-$J$-$J_{\perp}$ model for the $3d_{x^2-y^2}$ band. Driven by $J_{\perp}$, $3d_{x^2-y^2}$ electrons can form interlayer Cooper pairs, leading to an extended $s$-wave pairing SC with high $T_c$. Meanwhile, the strongly localized $3d_{z^2}$ electrons tend to form interlayer rung singlets. Due to a lack of phase coherence, these singlets do not directly participate in the SC condensate, but instead give rise to a pseudogap phase.
+Discovery of high-$T_c$ superconductivity (SC) in the bilayer nickelate series La${}_3$Ni${}_2$O${}_7$ have attracted substantial interest, providing a new platform for exploring unconventional SC. Certain experimental evidence has pointed to a correlated electronic nature, which is the driving force responsible for its high critical temperature ($T_c$). This work reviews the SC in La${}_3$Ni${}_2$O${}_7$, with a particular focus on theoretical understanding of its pairing mechanism driven by this strong-coupling, Hund-assisted scenario. The electronic landscape is governed by two $E_g$-orbitals within the bilayer structure of NiO${}_2$ planes. The $3d_{z^2}$ orbital is nearly half-filled and exhibits a stronger localized character, while the $3d_{x^2-y^2}$ is approximately quarter-filled and remains highly itinerant. The localized $3d_{z^2}$ orbitals experience robust interlayer hybridization, mediated by the $2p_z$ orbitals of the inner apical oxygen atoms. This hybridization generates a strong interlayer antiferromagnetic (AFM) exchange. In the strong coupling regime, Hund's rule coupling aligns the spins of the two $E_g$ orbitals on the same nickel site. The strong interlayer AFM exchange is effectively transferred to the itinerant $3d_{x^2-y^2}$ orbital, generating an effective coupling $J_{\perp}$ within this orbital. This mechanism is captured by a minimal strong-coupling bilayer $t$-$J$-$J_{\perp}$ model for the $3d_{x^2-y^2}$ band. Driven by $J_{\perp}$, $3d_{x^2-y^2}$ electrons can form interlayer Cooper pairs, leading to an extended $s$-wave pairing SC with high $T_c$. Meanwhile, the strongly localized $3d_{z^2}$ electrons tend to form interlayer rung singlets. Due to a lack of phase coherence, these singlets do not directly participate in the SC condensate, but instead give rise to a pseudogap phase.
 
 ---
 
-## 15. Superconductivity in Ruddlesden-Popper nickelates: a review of recent progress, focusing on thin films
+## 17. Superconductivity in Ruddlesden-Popper nickelates: a review of recent progress, focusing on thin films
 
 - **提交日期**：2026-04-20
 - **作者**：Yang Zhang, Ling-Fang Lin, Thomas A. Maier, Elbio Dagotto
@@ -172,17 +194,6 @@ Discovery of high-$T_c$ superconductivity (SC) in the bilayer nickelate series L
 
 ### 摘要
 The discovery of superconductivity with Tc ~ 80 K in the nickelate Ruddlesden-Popper bilayer La3Ni2O7 at high pressure has opened a new platform for unconventional superconductivity, followed by the subsequent observation of superconductivity in trilayer La4Ni3O10, also at high pressure. Remarkably, ambient-pressure superconductivity was also observed recently in La3Ni2O7 ultra-thin films when grown on substrates that provide compressive strain. This discovery significantly extends the type of experimental techniques that can be used in nickelates, previously limited due to the high-pressure constraint. Discussing the similarities and differences among these nickel oxides will provide new insights into understanding the mechanism of high-Tc superconductivity in correlated electron systems. In this paper, we review the experimental and theoretical progress on RuddlesdenPopper nickelates, with emphasis on thin films, and discuss future perspectives and research directions.
-
----
-
-## 16. Pairing Mechanism in Bilayer Nickelate La$_3$Ni$_2$O$_7$ Superconductors
-
-- **提交日期**：2026-04-19
-- **作者**：Xianxin Wu, Tao Xiang, Jiangping Hu
-- **arXiv链接**：[http://arxiv.org/abs/2604.17181v1](http://arxiv.org/abs/2604.17181v1)
-
-### 摘要
-The recent discovery of superconductivity with $T_c \approx 80$~K in bilayer nickelate La$_3$Ni$_2$O$_7$ provides a new setting in which to test the organizing principles of unconventional high-temperature superconductivity. We show that the gene principle and the collaborative Fermi-surface rule which were previously proposed to unify unconventional high temperature superconductors, extend naturally to this bilayer, multi-orbital system. We identify that there are two antiferromagnetic exchange channels that can provide the dominant pairing force: an interlayer intra-orbital nearest-neighbour exchange $J_\perp$ between $d_{z^2}$ orbitals mediated by the inner apical oxygen, and an intralayer inter-orbital nearest-neighbour exchange $J_{xz}$ between $d_{z^2}$ and $d_{x^2-y^2}$ orbitals mediated by the in-plane oxygen. Owing to the bilayer bonding--antibonding splitting and the $B_{1g}$ symmetry of the $d_{x^2-y^2}$ orbital, these two channels cooperate to produce a robust $s^\pm$ superconducting state with an internal sign reversal between mirror-even and mirror-odd Fermi-surface pockets in momentum space. Both pairing channels maximize the superconducting gap on the $β$ pocket with a form factor $(cosk_x-cosk_y)^2$ in momentum space. The result places La$_3$Ni$_2$O$_7$ within a unified framework for unconventional superconductivity while revealing a distinct electronic environment for high-$T_c$ pairing.
 
 ---
 
