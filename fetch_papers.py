@@ -4,7 +4,6 @@ import re
 from datetime import date, timedelta
 import os
 
-# ===================== 可自定义配置区 =====================
 SEARCH_KEYWORD = "nickelate"
 SUPERCONDUCTIVITY_KEYWORD = "superconductivity"
 TIME_RANGE_DAYS = 30
@@ -12,7 +11,6 @@ CATEGORY1 = "cond-mat.supr-con"
 CATEGORY2 = "cond-mat.str-el"
 MAX_RESULTS = 100
 OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "nickelate_superconductivity_recent_papers.md")
-# ===========================================================
 
 def process_latex_math(text):
     """处理 arXiv 摘要中的 LaTeX 数学公式"""
@@ -20,20 +18,21 @@ def process_latex_math(text):
     parts = re.split(r'(\$[^$]+\$)', text)
     for part in parts:
         if re.match(r'^\$[^$]+\$$', part):
+            inner = part[1:-1]
             # 修复：下标无基字符（如 $_3$）→ 补空组 ${}_3$
-            if re.match(r'^\$_[^$]+\$$', part):
-                inner = part[2:-1]
-                result.append('${}_' + inner + '$')
-            else:
-                result.append(part)
+            if re.match(r'^_[^$]+$', inner):
+                inner = '{}_' + inner
+            # 转义 _ 和 *，防止 kramdown 解释为 Markdown 语法
+            inner = inner.replace('_', '\\_').replace('*', '\\*')
+            result.append('$' + inner + '$')
         else:
-            # 剥离非数学部分中的 LaTeX 命令（如 \textit{...} → 保留内容）
+            # 剥离非数学部分中的 LaTeX 命令
             cleaned = re.sub(
                 r'\\(?:text|textbf|textit|emph|mathrm|mathbf|mathit|mathcal|mathsf|mathtt|it|bf|rm|sl|sc|tt|cal)\s*\{([^}]*)\}',
                 r'\1',
                 part
             )
-            escaped = cleaned.replace('{', '\\{').replace('}', '\\}').replace('_', '\\_')
+            escaped = cleaned.replace('{', '\\{').replace('}', '\\}').replace('_', '\\_').replace('*', '\\*')
             result.append(escaped)
     return ''.join(result)
 
