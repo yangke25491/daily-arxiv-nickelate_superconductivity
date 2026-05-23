@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-04-22 至 2026-05-22**
-> 数据检索到 **18** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-04-23 至 2026-05-23**
+> 数据检索到 **17** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -194,17 +194,6 @@ La${}\_3$Ni${}\_2$O${}\_7$, a bilayer nickelate with Ruddlesden-Popper structure
 
 ### 摘要
 The recent discovery of Ruddlesden--Popper (RP) nickelate thin-film superconductors has opened a new frontier in unconventional superconductivity. Its realization requires both compressive epitaxial strain and highly oxidative growth conditions, yet the microscopic pathway from the parent phase to the superconducting phase remains elusive. Here, X-ray absorption spectra and resonant inelastic X-ray scattering are employed to track this evolution by independently tuning strain and oxygen content in (La,Pr)${}\_3$Ni${}\_2$O${}\_{7-δ}$ thin films. We uncover a remarkable two-step narrative. First, signatures of delocalization emerge in the same way upon two independent tunings: Spectral weight transfers from a ''Upper Hubbard''-like peak to the hole-like peak associated with O $2p\_z$ state, and in parallel, the initially localized Ni $3d\_{z^2}$ orbital becomes more itinerant followed by the broadening and weakening of $dd$ orbital excitations. Second, as itinerancy increases, long-range spin-density-wave (SDW) order is suppressed in both intensity and correlation length, indicating direct competition with superconductivity. Yet, short-range magnons persist: they become damped but their bandwidth stays unchanged. Our results paint a coherent picture that both strain and oxygenation drive the RP bilayer nickelates towards the superconducting instability, where the O $2p\_z$ and Ni $3d\_{z^2}$ orbitals become delocalized. Concomitantly, the long-range magnetic order loses coherence and gets suppressed. These findings establish an orbital-selective route to RP nickelate superconductivity, in which the delocalization of the $2p\_z$ and $3d\_{z^2}$ orbitals and the robust short-range magnons upon the melting of SDW order are prerequisites, providing strong constraints for theory and the roadmap for designing nickelate superconductors.
-
----
-
-## 18. Superconductivity in bilayer La${}\_3$Ni${}\_2$O${}\_7$: A review focusing on the strong-coupling Hund's rule assisted pairing mechanism
-
-- **提交日期**：2026-04-22
-- **作者**：Zhiming Pan, Chen Lu, Fan Yang, Congjun Wu
-- **arXiv链接**：[http://arxiv.org/abs/2604.20613v1](http://arxiv.org/abs/2604.20613v1)
-
-### 摘要
-Discovery of high-$T\_c$ superconductivity (SC) in the bilayer nickelate series La${}\_3$Ni${}\_2$O${}\_7$ have attracted substantial interest, providing a new platform for exploring unconventional SC. Certain experimental evidence has pointed to a correlated electronic nature, which is the driving force responsible for its high critical temperature ($T\_c$). This work reviews the SC in La${}\_3$Ni${}\_2$O${}\_7$, with a particular focus on theoretical understanding of its pairing mechanism driven by this strong-coupling, Hund-assisted scenario. The electronic landscape is governed by two $E\_g$-orbitals within the bilayer structure of NiO${}\_2$ planes. The $3d\_{z^2}$ orbital is nearly half-filled and exhibits a stronger localized character, while the $3d\_{x^2-y^2}$ is approximately quarter-filled and remains highly itinerant. The localized $3d\_{z^2}$ orbitals experience robust interlayer hybridization, mediated by the $2p\_z$ orbitals of the inner apical oxygen atoms. This hybridization generates a strong interlayer antiferromagnetic (AFM) exchange. In the strong coupling regime, Hund's rule coupling aligns the spins of the two $E\_g$ orbitals on the same nickel site. The strong interlayer AFM exchange is effectively transferred to the itinerant $3d\_{x^2-y^2}$ orbital, generating an effective coupling $J\_{\perp}$ within this orbital. This mechanism is captured by a minimal strong-coupling bilayer $t$-$J$-$J\_{\perp}$ model for the $3d\_{x^2-y^2}$ band. Driven by $J\_{\perp}$, $3d\_{x^2-y^2}$ electrons can form interlayer Cooper pairs, leading to an extended $s$-wave pairing SC with high $T\_c$. Meanwhile, the strongly localized $3d\_{z^2}$ electrons tend to form interlayer rung singlets. Due to a lack of phase coherence, these singlets do not directly participate in the SC condensate, but instead give rise to a pseudogap phase.
 
 ---
 
