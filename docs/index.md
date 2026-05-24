@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-04-23 至 2026-05-23**
-> 数据检索到 **17** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-04-24 至 2026-05-24**
+> 数据检索到 **16** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -183,17 +183,6 @@ Nickel/bismuth (Ni/Bi) bilayers are a promising platform for exploring unconvent
 
 ### 摘要
 La${}\_3$Ni${}\_2$O${}\_7$, a bilayer nickelate with Ruddlesden-Popper structure, undergoes a pressure-induced structural transition from a tilted Amam phase to an untilted Fmmm (or I4/mmm) phase near 10-15 GPa, concomitant with the emergence of high-T${}\_c$ superconductivity (T${}\_c$ $\sim$ 80 K). Despite intense interest, the phase boundaries and the impact of structural changes on the electronic properties remain unclear. Here, we combine high-pressure and high-temperature Raman and synchrotron-based infrared spectroscopies to map the structural and electronic evolutions. Raman measurements confirm the pressure-driven structural transition and reveal the emergence of Fano line shapes, indicating enhanced electron-phonon coupling. High-temperature data show analogous spectral signatures above 544 K, suggesting an unreported upper temperature limit of the Amam phase within the T-P phase diagram of this system. Infrared reflectivity measurements evidence a concomitant metallization, with a tremendous two-order-of-magnitude increase in carrier density, marking a crossover from a bad metal to a good metal. These results establish a unified picture of the structural transition and its strong coupling to the electronic properties.
-
----
-
-## 17. $3d\_{z^2}$ orbital delocalization and magnetic collapse in superconducting (La,Pr)${}\_3$Ni${}\_2$O${}\_{7-δ}$ films
-
-- **提交日期**：2026-04-23
-- **作者**：Xiaoyang Chen, Wenliang Zhang, Fei Peng, Ting Cui, Guangdi Zhou, Zezhong Li, Jaewon Choi, Lizhi Xu, Yiu-Fung Chiu, Stefano Agrestini, Sahil Tippireddy, Haoliang Huang, Heng Wang, Xianfeng Wu, Peng Li, Jin-Feng Jia, Mirian Garcia-Fernandez, Yi Lu, Er-Jia Guo, Qi-Kun Xue, Zhuoyu Chen, Donglai Feng, Ke-Jin Zhou
-- **arXiv链接**：[http://arxiv.org/abs/2604.21899v2](http://arxiv.org/abs/2604.21899v2)
-
-### 摘要
-The recent discovery of Ruddlesden--Popper (RP) nickelate thin-film superconductors has opened a new frontier in unconventional superconductivity. Its realization requires both compressive epitaxial strain and highly oxidative growth conditions, yet the microscopic pathway from the parent phase to the superconducting phase remains elusive. Here, X-ray absorption spectra and resonant inelastic X-ray scattering are employed to track this evolution by independently tuning strain and oxygen content in (La,Pr)${}\_3$Ni${}\_2$O${}\_{7-δ}$ thin films. We uncover a remarkable two-step narrative. First, signatures of delocalization emerge in the same way upon two independent tunings: Spectral weight transfers from a ''Upper Hubbard''-like peak to the hole-like peak associated with O $2p\_z$ state, and in parallel, the initially localized Ni $3d\_{z^2}$ orbital becomes more itinerant followed by the broadening and weakening of $dd$ orbital excitations. Second, as itinerancy increases, long-range spin-density-wave (SDW) order is suppressed in both intensity and correlation length, indicating direct competition with superconductivity. Yet, short-range magnons persist: they become damped but their bandwidth stays unchanged. Our results paint a coherent picture that both strain and oxygenation drive the RP bilayer nickelates towards the superconducting instability, where the O $2p\_z$ and Ni $3d\_{z^2}$ orbitals become delocalized. Concomitantly, the long-range magnetic order loses coherence and gets suppressed. These findings establish an orbital-selective route to RP nickelate superconductivity, in which the delocalization of the $2p\_z$ and $3d\_{z^2}$ orbitals and the robust short-range magnons upon the melting of SDW order are prerequisites, providing strong constraints for theory and the roadmap for designing nickelate superconductors.
 
 ---
 
