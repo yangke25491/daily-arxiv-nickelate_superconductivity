@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-04-25 至 2026-05-25**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-04-26 至 2026-05-26**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Hubbard-$U$-corrected electron-phonon interactions in strongly correlated materials via the finite-displacement method
+## 1. The evolution of pairing correlation with $3d\_{z^{2}}$ electron filling in a bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$
+
+- **提交日期**：2026-05-25
+- **作者**：Y. F. Chen, Y. Shen, X. J. Qian, G. M. Zhang, M. P. Qin
+- **arXiv链接**：[http://arxiv.org/abs/2605.25654v1](http://arxiv.org/abs/2605.25654v1)
+
+### 摘要
+The discovery of high-${T\_c}$ superconductivity in pressurized bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$ presents a new arena for exploring unconventional pairing mechanisms. A pivotal yet unresolved issue is the specific role of the $3d\_{z^{2}}$ orbital of Ni. While its inter-layer super-exchange antiferromagnetic coupling is widely considered crucial for superconductivity, the role of its itinerancy remains undetermined. Early studies showed that the superconductivity is accompanied by the emergence of a small Fermi pocket of the $3d\_{z^{2}}$ orbitals. However, recent experiments show controversial results on the role of the $3d\_{z^{2}}$ Fermi pocket on superconductivity. Motivated by these experimental results, we investigate an effective bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$ using density-matrix renormalization group (DMRG) on a minimal one-dimensional geometry. By systematically varying the $3d\_{z^{2}}$ orbital filling from $1/12$ doping to half-filling, we observe a pronounced suppression of superconducting correlations near half-filling. Our results demonstrate the itinerancy of $3d\_{z^{2}}$ orbital is favorable for the pairing in the bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$. Moreover, we observe that the pairing correlation is enhanced in regions where charge fluctuations are large, suggesting a competition between charge order and superconductivity in the model.
+
+---
+
+## 2. Theoretical study of superconductivity in freestanding infinite-layer nickelate membranes under pressure: mitigation of excess correlation enhances $T\_c$
+
+- **提交日期**：2026-05-23
+- **作者**：Mahiru Seki, Reo Kono, Naotaka Tanaka, Kensei Ushio, Daiki Nakaoka, Masayuki Ochi, Kazuhiko Kuroki, Hirofumi Sakakibara
+- **arXiv链接**：[http://arxiv.org/abs/2605.24565v1](http://arxiv.org/abs/2605.24565v1)
+
+### 摘要
+We theoretically investigate a freestanding membrane of infinite-layer nickelate Nd${}\_{0.85}$Sr${}\_{0.15}$NiO${}\_2$ under pressure by constructing a seven-orbital effective model based on first-principles calculations.   By performing the fluctuation exchange (FLEX) approximation, we demonstrate that the seven-orbital model explains a monotonic increase in $T\_c$ reported in a recent experiment. This enhancement of superconductivity is attributed to the mitigation of excessively strong electron correlations caused by exceptionally low valence of Ni atom. Furthermore, we examine the dynamical stability of the crystal structure under pressure through phonon calculation.
+
+---
+
+## 3. Hubbard-$U$-corrected electron-phonon interactions in strongly correlated materials via the finite-displacement method
 
 - **提交日期**：2026-05-20
 - **作者**：Jiale Chen, Youyou Tu, Chengliang Xia, Jin Zhao, Hanghui Chen
@@ -21,7 +43,7 @@ Although the density functional theory plus Hubbard $U$ correction method (DFT+U
 
 ---
 
-## 2. Pressure-induced superconductivity in epitaxially-stabilized Pr${}\_3$Ni${}\_2$O${}\_7$ films
+## 4. Pressure-induced superconductivity in epitaxially-stabilized Pr${}\_3$Ni${}\_2$O${}\_7$ films
 
 - **提交日期**：2026-05-20
 - **作者**：Motoki Osada, Chieko Terakura, Hsiao-Yi Chen, Akiko Kikkawa, Masamichi Nakajima, Ryoma Asai, Jean-Baptiste Morée, Yusuke Nomura, Ryotaro Arita, Yoshinori Tokura, Atsushi Tsukazaki
@@ -32,7 +54,7 @@ The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity i
 
 ---
 
-## 3. Nearly perfect Fermi surface nesting in hole-doped La${}\_3$Ni${}\_2$O${}\_7$ enables bulk superconductivity without pressure or strain
+## 5. Nearly perfect Fermi surface nesting in hole-doped La${}\_3$Ni${}\_2$O${}\_7$ enables bulk superconductivity without pressure or strain
 
 - **提交日期**：2026-05-19
 - **作者**：Chengliang Xia, Jiale Chen, Hongquan Liu, Hanghui Chen
@@ -43,7 +65,7 @@ The discovery of high-temperature superconductivity in Ruddlesden-Popper nickela
 
 ---
 
-## 4. Imaging stripe dynamics in trilayer nickelate La${}\_4$Ni${}\_3$O${}\_{10}$
+## 6. Imaging stripe dynamics in trilayer nickelate La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-05-18
 - **作者**：Uladzislau Mikhailau, Luke Rhodes, Siri A. Berge, Matthias Hepting, Masahiko Isobe, Carolina A. Marques, Pascal Puphal, Peter Wahl
@@ -54,7 +76,7 @@ Since the discovery of high-temperature superconductivity in nickelate supercond
 
 ---
 
-## 5. Interlayer electronic coherence links magnetism and superconductivity in Ruddlesden-Popper nickelates
+## 7. Interlayer electronic coherence links magnetism and superconductivity in Ruddlesden-Popper nickelates
 
 - **提交日期**：2026-05-18
 - **作者**：Feiyang Liu, Lixing Chen, Enkang Zhang, Ying-Jie Zhang, Jun Zhao
@@ -65,7 +87,7 @@ The extent to which electronic dimensionality influences magnetism and supercond
 
 ---
 
-## 6. Enhanced $s^\pm$-wave superconductivity in electron-doped La${}\_3$Ni${}\_2$O${}\_7$
+## 8. Enhanced $s^\pm$-wave superconductivity in electron-doped La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-05-17
 - **作者**：Xun Liu, Chao Deng, Wenfeng Wu, Liang Si, Mi Jiang
@@ -76,7 +98,7 @@ In cuprates, electron doping yields a much lower superconducting $T\_c$ than hol
 
 ---
 
-## 7. Observation of flat-bottom U-shaped energy gap in high-Tc nickelate (La,Pr)3Ni2O7 thin films
+## 9. Observation of flat-bottom U-shaped energy gap in high-Tc nickelate (La,Pr)3Ni2O7 thin films
 
 - **提交日期**：2026-05-15
 - **作者**：Zhen Liang, Tianheng Wei, Wei Ren, Haoran Ji, Zheyuan Xie, Yanzhao Liu, Ziqiang Wang, Jian Wang
@@ -87,7 +109,7 @@ The discovery of high transition temperature (high-Tc) superconductivity in Rudd
 
 ---
 
-## 8. Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films
+## 10. Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films
 
 - **提交日期**：2026-05-14
 - **作者**：Xinxin Wang, Yaqi Chen, Cui Ding, Lizhi Xu, Jian-Jian Miao, Guangdi Zhou, Zhuoyu Chen, Yu-Jie Sun, Jin-Feng Jia, Qi-Kun Xue
@@ -98,7 +120,7 @@ Ruddlesden-Popper bilayer nickelates provide an emerging platform for studying h
 
 ---
 
-## 9. Shear-stress-constrained superconductivity in Ruddlesden-Popper nickelates
+## 11. Shear-stress-constrained superconductivity in Ruddlesden-Popper nickelates
 
 - **提交日期**：2026-05-14
 - **作者**：Liling Sun, Shu Cai, Jinyu Zhao, Qi Wu, Yang Ding, Tao Xiang, Ho-kwang Mao
@@ -109,7 +131,7 @@ Ruddlesden-Popper nickelates exhibit superconductivity under pressure in bulk cr
 
 ---
 
-## 10. Experimental Progress in Ambient-Pressure Superconducting Bilayer Nickelate Films
+## 12. Experimental Progress in Ambient-Pressure Superconducting Bilayer Nickelate Films
 
 - **提交日期**：2026-05-12
 - **作者**：Meng Zhang, Xi Yan
@@ -120,7 +142,7 @@ Bilayer Ruddlesden-Popper nickelates display superconductivity near 80 K under h
 
 ---
 
-## 11. Correlation-Driven Orbital-Selective Fermiology and Superconductivity in the Bilayer Nickelate La${}\_3$Ni${}\_2$O${}\_7$
+## 13. Correlation-Driven Orbital-Selective Fermiology and Superconductivity in the Bilayer Nickelate La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-05-11
 - **作者**：Yong-Yue Zong, Shun-Li Yu, Jian-Xin Li
@@ -131,7 +153,7 @@ Recent angle-resolved photoemission measurements on La${}\_3$Ni${}\_2$O${}\_7$ h
 
 ---
 
-## 12. Regulating oxygen content and superconductivity in La${}\_3$Ni${}\_2$O${}\_{7+δ}$
+## 14. Regulating oxygen content and superconductivity in La${}\_3$Ni${}\_2$O${}\_{7+δ}$
 
 - **提交日期**：2026-05-06
 - **作者**：Peiyue Ma, Jingyuan Li, Xing Huang, Yixing Zhao, Yifeng Han, Mengwu Huo, Deyuan Hu, Chaoxin Huang, Hengyuan Zhang, Sihao Deng, Lunhua He, Juan Rodriguez-Carvajal, Abhisek Bandyopadhyay, Alessandro Puri, Devashibhai Adroja, Xiang Chen, Tao Xie, Zhen Chen, Hualei Sun, Meng Wang
@@ -142,7 +164,7 @@ The synthesis of high-quality Ruddlesden-Popper (RP) nickelates remains challeng
 
 ---
 
-## 13. Nature of magnetism in bilayer nickelate La3Ni2O7 single crystals
+## 15. Nature of magnetism in bilayer nickelate La3Ni2O7 single crystals
 
 - **提交日期**：2026-05-05
 - **作者**：Lixing Chen, Enkang Zhang, Yiqing Hao, Yinghao Zhu, Bingkun Cui, Douglas L. Abernathy, Travis J. Williams, Yoichi Ikeda, Hao Zhang, Feiyang Liu, Wenbin Wang, Qisi Wang, Jun Zhao
@@ -153,7 +175,7 @@ The recent discovery of high-temperature superconductivity in pressurized and th
 
 ---
 
-## 14. Interlayer Five-Spin Polaron in Superconducting Bilayer Nickelates
+## 16. Interlayer Five-Spin Polaron in Superconducting Bilayer Nickelates
 
 - **提交日期**：2026-05-04
 - **作者**：Jiarui Li, Christopher T. Parzyck, Eder G. Lomeli, Yidi Liu, Taehun Kim, Heemin Lee, Zengqing Zhuo, Eun Kyo Ko, Yaoju Tarn, Cheng-Tai Kuo, Ronny Sutarto, Chunjing Jia, Vivek Thampy, Brian Moritz, Yijun Yu, Jun-Sik Lee, Valentina Bisogni, Thomas P. Devereaux, Harold Y. Hwang, Wei-Sheng Lee
@@ -164,7 +186,7 @@ The discovery of high-$T\_c$ superconductivity in Ruddlesden-Popper nickelates h
 
 ---
 
-## 15. Vortex Transport in Ni/Bi Bilayer Superconductor with Strong Spin-Orbit and Exchange Interaction
+## 17. Vortex Transport in Ni/Bi Bilayer Superconductor with Strong Spin-Orbit and Exchange Interaction
 
 - **提交日期**：2026-05-04
 - **作者**：Laxmipriya Nanda, Sohini Guin, Yasen Hou, Rajib Sarkar, Naresh Shyaga, Souvik Banerjee, A. Sundaresan, N. S. Vidhyadhiraja, Jagadeesh S. Moodera, Dhavala Suri
@@ -175,14 +197,14 @@ Nickel/bismuth (Ni/Bi) bilayers are a promising platform for exploring unconvent
 
 ---
 
-## 16. Metallic crossover through the tilt-free transition in La${}\_3$Ni${}\_2$O${}\_7$ at high pressure and temperature
+## 18. Metallic crossover through the tilt-free transition in La${}\_3$Ni${}\_2$O${}\_7$ at high pressure and temperature
 
 - **提交日期**：2026-05-03
 - **作者**：Bastien Michon, Yingpeng Yu, Beatrice D'Alò, Elena Stellino, Gergely Németh, Bosen Wang, Jianping Sun, Jinguang Cheng, Paolo Postorino, Ferenc Borondics, Francesco Capitani
-- **arXiv链接**：[http://arxiv.org/abs/2605.01651v1](http://arxiv.org/abs/2605.01651v1)
+- **arXiv链接**：[http://arxiv.org/abs/2605.01651v2](http://arxiv.org/abs/2605.01651v2)
 
 ### 摘要
-La${}\_3$Ni${}\_2$O${}\_7$, a bilayer nickelate with Ruddlesden-Popper structure, undergoes a pressure-induced structural transition from a tilted Amam phase to an untilted Fmmm (or I4/mmm) phase near 10-15 GPa, concomitant with the emergence of high-T${}\_c$ superconductivity (T${}\_c$ $\sim$ 80 K). Despite intense interest, the phase boundaries and the impact of structural changes on the electronic properties remain unclear. Here, we combine high-pressure and high-temperature Raman and synchrotron-based infrared spectroscopies to map the structural and electronic evolutions. Raman measurements confirm the pressure-driven structural transition and reveal the emergence of Fano line shapes, indicating enhanced electron-phonon coupling. High-temperature data show analogous spectral signatures above 544 K, suggesting an unreported upper temperature limit of the Amam phase within the T-P phase diagram of this system. Infrared reflectivity measurements evidence a concomitant metallization, with a tremendous two-order-of-magnitude increase in carrier density, marking a crossover from a bad metal to a good metal. These results establish a unified picture of the structural transition and its strong coupling to the electronic properties.
+La${}\_3$Ni${}\_2$O${}\_7$, a bilayer nickelate with Ruddlesden-Popper structure, undergoes a pressure-induced structural transition from a tilted Amam phase to an untilted Fmmm (or I4/mmm) phase near 10-15 GPa, concomitant with the emergence of high-T${}\_c$ superconductivity ($T\_c \sim 80$ K). Despite intense interest, the phase boundaries and the impact of structural changes on the electronic properties remain unclear. Here, we combine high-pressure and high-temperature Raman and synchrotron-based infrared spectroscopies to map the structural and electronic evolutions. Raman measurements confirm the pressure-driven structural transition and reveal the emergence of Fano line shapes, indicating enhanced electron-phonon coupling. High-temperature data show analogous spectral signatures above 544 K, suggesting an unreported upper temperature limit of the Amam phase within the T-P phase diagram of this system. Infrared reflectivity measurements evidence a concomitant enhanced metallicity, with a tremendous two-order-of-magnitude increase in carrier density, marking a crossover from a weakly to highly metallic state. These results establish a unified picture of the structural transition and its strong coupling to the electronic properties.
 
 ---
 
