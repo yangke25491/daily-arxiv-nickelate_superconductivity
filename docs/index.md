@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-04-28 至 2026-05-28**
-> 数据检索到 **18** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-04-30 至 2026-05-30**
+> 数据检索到 **20** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. The evolution of pairing correlation with $3d\_{z^{2}}$ electron filling in a bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$
+## 1. Electron Doping of $\mathrm{La\_3Ni\_2O\_7}$ Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity
+
+- **提交日期**：2026-05-28
+- **作者**：Shi-Cong Mo, Wéi Wú
+- **arXiv链接**：[http://arxiv.org/abs/2605.30297v1](http://arxiv.org/abs/2605.30297v1)
+
+### 摘要
+The bilayer Ruddlesden-Popper nickelate $\mathrm{La\_3Ni\_2O\_7}$ has emerged as a promising platform for exploring and understanding high-temperature superconductivities. While most prior doping studies   have focused on hole doping via strontium (Sr) substitution or by tuning oxygen content, electron doping remains largely unexplored. In this work,we systematically investigate electron doping in $\mathrm{La\_3Ni\_2O\_7}$ thin films through   tetravalent element substitution, employing first-principles density functional theory calculations.   Our results reveal that, unlike in cuprates, $\mathrm{cerium}$ (Ce) doping is difficult to effectively introduce electron carriers into the low-energy bands. In contrast, zirconium (Zr), hafnium (Hf), and thorium (Th) can act as efficient electron dopants. These element substitutions can significantly increase the interlayer hopping $t\_{\perp}$ between $d\_{z^2}$ orbitals, which may lead to enhanced superexchange coupling $J\_{\perp}$ , and thereby potentially elevated superconducting $T\_c$. We evaluate the interaction parameters using constrained random phase approximation. Our results identify candidate dopants for achieving electron-doped $\mathrm{La\_3Ni\_2O\_7}$, offering a route to clarify the ongoing debate on pairing mechanisms in this system.
+
+---
+
+## 2. Hole-doped superconductivity above 100 K in infinite-layer cuprate thin films
+
+- **提交日期**：2026-05-28
+- **作者**：Biemeng Jin, Saurav Prakash, Zhaoyang Luo, Shengwei Zeng, Jing-Yang Chung, Xing Gao, Zhi Shiuh Lim, Jiangbo Luo, King Yip, Wei Zhang, Nurul Fitriyah, Shuhan Lu, Taiyu An, Ping Yang, Qian He, Silvija Gradečak, Huajun Liu, A. Ariando
+- **arXiv链接**：[http://arxiv.org/abs/2605.29352v1](http://arxiv.org/abs/2605.29352v1)
+
+### 摘要
+Since the discovery of superconductivity in (La,Ba)2CuO2 (Ref.~\cite\{bednorz1986possible\}), a broad family of structurally distinct cuprate superconductors has been proposed or engineered to elucidate the physics of high-temperature superconductivity~\cite\{chu2015hole,plakida2010high\}. Among them, the infinite-layer cuprate has the simplest structure, consisting only of the essential ingredients for superconductivity: CuO${}\_2$ square planes separated by spacer ions~\cite\{siegrist1988parent\}. Despite being proposed nearly 40 years ago, the hole-doped superconductivity via chemical substitution in this compound has not yet been achieved, a fundamental open question in the field. Here, we report the observation of superconductivity in the hole-doped infinite-layer cuprate thin film. Measurements of resistivity and magnetic-field response in Sr1-xRbxCuO2 single-crystal thin films show superconducting transitions with a high onset temperature of 100 K. Hole doping is achieved via the synergistic effect of rubidium substitution and apical oxygen incorporation, as evidenced by structural analysis and transport measurements. As the parent structure of the cuprate family~\cite\{chu2015hole\}, hole-doped infinite-layer cuprate provides a unique platform for revisiting key puzzles in cuprate superconductors~\cite\{keimer2015quantum,tsuei2000pairing,armitage2010progress,dagotto1994correlated\}, including strange metal~\cite\{proust2019remarkable,taillefer2010scattering\} and electron-hole symmetry~\cite\{tohyama2004asymmetry,segawa2010zero,lee2014asymmetry\}, while bridging to cuprate-nickelate symmetry~\cite\{li2019superconductivity,zeng2022superconductivity,chow2025bulk,lechermann2020late\}.
+
+---
+
+## 3. The evolution of pairing correlation with $3d\_{z^{2}}$ electron filling in a bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-05-25
 - **作者**：Y. F. Chen, Y. Shen, X. J. Qian, G. M. Zhang, M. P. Qin
@@ -21,7 +43,7 @@ The discovery of high-${T\_c}$ superconductivity in pressurized bilayer nickelat
 
 ---
 
-## 2. Theoretical study of superconductivity in freestanding infinite-layer nickelate membranes under pressure: mitigation of excess correlation enhances $T\_c$
+## 4. Theoretical study of superconductivity in freestanding infinite-layer nickelate membranes under pressure: mitigation of excess correlation enhances $T\_c$
 
 - **提交日期**：2026-05-23
 - **作者**：Mahiru Seki, Reo Kono, Naotaka Tanaka, Kensei Ushio, Daiki Nakaoka, Masayuki Ochi, Kazuhiko Kuroki, Hirofumi Sakakibara
@@ -32,7 +54,7 @@ We theoretically investigate a freestanding membrane of infinite-layer nickelate
 
 ---
 
-## 3. Hubbard-$U$-corrected electron-phonon interactions in strongly correlated materials via the finite-displacement method
+## 5. Hubbard-$U$-corrected electron-phonon interactions in strongly correlated materials via the finite-displacement method
 
 - **提交日期**：2026-05-20
 - **作者**：Jiale Chen, Youyou Tu, Chengliang Xia, Jin Zhao, Hanghui Chen
@@ -43,7 +65,7 @@ Although the density functional theory plus Hubbard $U$ correction method (DFT+U
 
 ---
 
-## 4. Pressure-induced superconductivity in epitaxially-stabilized Pr${}\_3$Ni${}\_2$O${}\_7$ films
+## 6. Pressure-induced superconductivity in epitaxially-stabilized Pr${}\_3$Ni${}\_2$O${}\_7$ films
 
 - **提交日期**：2026-05-20
 - **作者**：Motoki Osada, Chieko Terakura, Hsiao-Yi Chen, Akiko Kikkawa, Masamichi Nakajima, Ryoma Asai, Jean-Baptiste Morée, Yusuke Nomura, Ryotaro Arita, Yoshinori Tokura, Atsushi Tsukazaki
@@ -54,7 +76,7 @@ The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity i
 
 ---
 
-## 5. Nearly perfect Fermi surface nesting in hole-doped La${}\_3$Ni${}\_2$O${}\_7$ enables bulk superconductivity without pressure or strain
+## 7. Nearly perfect Fermi surface nesting in hole-doped La${}\_3$Ni${}\_2$O${}\_7$ enables bulk superconductivity without pressure or strain
 
 - **提交日期**：2026-05-19
 - **作者**：Chengliang Xia, Jiale Chen, Hongquan Liu, Hanghui Chen
@@ -65,7 +87,7 @@ The discovery of high-temperature superconductivity in Ruddlesden-Popper nickela
 
 ---
 
-## 6. Imaging stripe dynamics in trilayer nickelate La${}\_4$Ni${}\_3$O${}\_{10}$
+## 8. Imaging stripe dynamics in trilayer nickelate La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-05-18
 - **作者**：Uladzislau Mikhailau, Luke Rhodes, Siri A. Berge, Matthias Hepting, Masahiko Isobe, Carolina A. Marques, Pascal Puphal, Peter Wahl
@@ -76,7 +98,7 @@ Since the discovery of high-temperature superconductivity in nickelate supercond
 
 ---
 
-## 7. Interlayer electronic coherence links magnetism and superconductivity in Ruddlesden-Popper nickelates
+## 9. Interlayer electronic coherence links magnetism and superconductivity in Ruddlesden-Popper nickelates
 
 - **提交日期**：2026-05-18
 - **作者**：Feiyang Liu, Lixing Chen, Enkang Zhang, Ying-Jie Zhang, Jun Zhao
@@ -87,7 +109,7 @@ The extent to which electronic dimensionality influences magnetism and supercond
 
 ---
 
-## 8. Enhanced $s^\pm$-wave superconductivity in electron-doped La${}\_3$Ni${}\_2$O${}\_7$
+## 10. Enhanced $s^\pm$-wave superconductivity in electron-doped La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-05-17
 - **作者**：Xun Liu, Chao Deng, Wenfeng Wu, Liang Si, Mi Jiang
@@ -98,7 +120,7 @@ In cuprates, electron doping yields a much lower superconducting $T\_c$ than hol
 
 ---
 
-## 9. Observation of flat-bottom U-shaped energy gap in high-Tc nickelate (La,Pr)3Ni2O7 thin films
+## 11. Observation of flat-bottom U-shaped energy gap in high-Tc nickelate (La,Pr)3Ni2O7 thin films
 
 - **提交日期**：2026-05-15
 - **作者**：Zhen Liang, Tianheng Wei, Wei Ren, Haoran Ji, Zheyuan Xie, Yanzhao Liu, Ziqiang Wang, Jian Wang
@@ -109,7 +131,7 @@ The discovery of high transition temperature (high-Tc) superconductivity in Rudd
 
 ---
 
-## 10. Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films
+## 12. Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films
 
 - **提交日期**：2026-05-14
 - **作者**：Xinxin Wang, Yaqi Chen, Cui Ding, Lizhi Xu, Jian-Jian Miao, Guangdi Zhou, Zhuoyu Chen, Yu-Jie Sun, Jin-Feng Jia, Qi-Kun Xue
@@ -120,7 +142,7 @@ Ruddlesden-Popper bilayer nickelates provide an emerging platform for studying h
 
 ---
 
-## 11. Shear-stress-constrained superconductivity in Ruddlesden-Popper nickelates
+## 13. Shear-stress-constrained superconductivity in Ruddlesden-Popper nickelates
 
 - **提交日期**：2026-05-14
 - **作者**：Liling Sun, Shu Cai, Jinyu Zhao, Qi Wu, Yang Ding, Tao Xiang, Ho-kwang Mao
@@ -131,7 +153,7 @@ Ruddlesden-Popper nickelates exhibit superconductivity under pressure in bulk cr
 
 ---
 
-## 12. Experimental Progress in Ambient-Pressure Superconducting Bilayer Nickelate Films
+## 14. Experimental Progress in Ambient-Pressure Superconducting Bilayer Nickelate Films
 
 - **提交日期**：2026-05-12
 - **作者**：Meng Zhang, Xi Yan
@@ -142,7 +164,7 @@ Bilayer Ruddlesden-Popper nickelates display superconductivity near 80 K under h
 
 ---
 
-## 13. Correlation-Driven Orbital-Selective Fermiology and Superconductivity in the Bilayer Nickelate La${}\_3$Ni${}\_2$O${}\_7$
+## 15. Correlation-Driven Orbital-Selective Fermiology and Superconductivity in the Bilayer Nickelate La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-05-11
 - **作者**：Yong-Yue Zong, Shun-Li Yu, Jian-Xin Li
@@ -153,7 +175,7 @@ Recent angle-resolved photoemission measurements on La${}\_3$Ni${}\_2$O${}\_7$ h
 
 ---
 
-## 14. Regulating oxygen content and superconductivity in La${}\_3$Ni${}\_2$O${}\_{7+δ}$
+## 16. Regulating oxygen content and superconductivity in La${}\_3$Ni${}\_2$O${}\_{7+δ}$
 
 - **提交日期**：2026-05-06
 - **作者**：Peiyue Ma, Jingyuan Li, Xing Huang, Yixing Zhao, Yifeng Han, Mengwu Huo, Deyuan Hu, Chaoxin Huang, Hengyuan Zhang, Sihao Deng, Lunhua He, Juan Rodriguez-Carvajal, Abhisek Bandyopadhyay, Alessandro Puri, Devashibhai Adroja, Xiang Chen, Tao Xie, Zhen Chen, Hualei Sun, Meng Wang
@@ -164,7 +186,7 @@ The synthesis of high-quality Ruddlesden-Popper (RP) nickelates remains challeng
 
 ---
 
-## 15. Nature of magnetism in bilayer nickelate La3Ni2O7 single crystals
+## 17. Nature of magnetism in bilayer nickelate La3Ni2O7 single crystals
 
 - **提交日期**：2026-05-05
 - **作者**：Lixing Chen, Enkang Zhang, Yiqing Hao, Yinghao Zhu, Bingkun Cui, Douglas L. Abernathy, Travis J. Williams, Yoichi Ikeda, Hao Zhang, Feiyang Liu, Wenbin Wang, Qisi Wang, Jun Zhao
@@ -175,7 +197,7 @@ The recent discovery of high-temperature superconductivity in pressurized and th
 
 ---
 
-## 16. Interlayer Five-Spin Polaron in Superconducting Bilayer Nickelates
+## 18. Interlayer Five-Spin Polaron in Superconducting Bilayer Nickelates
 
 - **提交日期**：2026-05-04
 - **作者**：Jiarui Li, Christopher T. Parzyck, Eder G. Lomeli, Yidi Liu, Taehun Kim, Heemin Lee, Zengqing Zhuo, Eun Kyo Ko, Yaoju Tarn, Cheng-Tai Kuo, Ronny Sutarto, Chunjing Jia, Vivek Thampy, Brian Moritz, Yijun Yu, Jun-Sik Lee, Valentina Bisogni, Thomas P. Devereaux, Harold Y. Hwang, Wei-Sheng Lee
@@ -186,7 +208,7 @@ The discovery of high-$T\_c$ superconductivity in Ruddlesden-Popper nickelates h
 
 ---
 
-## 17. Vortex Transport in Ni/Bi Bilayer Superconductor with Strong Spin-Orbit and Exchange Interaction
+## 19. Vortex Transport in Ni/Bi Bilayer Superconductor with Strong Spin-Orbit and Exchange Interaction
 
 - **提交日期**：2026-05-04
 - **作者**：Laxmipriya Nanda, Sohini Guin, Yasen Hou, Rajib Sarkar, Naresh Shyaga, Souvik Banerjee, A. Sundaresan, N. S. Vidhyadhiraja, Jagadeesh S. Moodera, Dhavala Suri
@@ -197,7 +219,7 @@ Nickel/bismuth (Ni/Bi) bilayers are a promising platform for exploring unconvent
 
 ---
 
-## 18. Metallic crossover through the tilt-free transition in La${}\_3$Ni${}\_2$O${}\_7$ at high pressure and temperature
+## 20. Metallic crossover through the tilt-free transition in La${}\_3$Ni${}\_2$O${}\_7$ at high pressure and temperature
 
 - **提交日期**：2026-05-03
 - **作者**：Bastien Michon, Yingpeng Yu, Beatrice D'Alò, Elena Stellino, Gergely Németh, Bosen Wang, Jianping Sun, Jinguang Cheng, Paolo Postorino, Ferenc Borondics, Francesco Capitani
