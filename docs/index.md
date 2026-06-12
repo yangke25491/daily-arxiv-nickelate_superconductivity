@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-05-12 至 2026-06-11**
-> 数据检索到 **19** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-13 至 2026-06-12**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -205,17 +205,6 @@ Ruddlesden-Popper bilayer nickelates provide an emerging platform for studying h
 
 ### 摘要
 Ruddlesden-Popper nickelates exhibit superconductivity under pressure in bulk crystals and under epitaxial constraint in thin films, while remaining highly sensitive to sample quality, oxygen content, defects, and stress conditions. We propose that the metastable RP lattice becomes superconducting only when the local constrained deformation of the Ni-O framework falls within a bounded shear-strain window. This deformation controls octahedral rotations, the interlayer Ni-O-Ni bond angle, and coupling between Ni dz2 and dx2-y2 orbitals. This shear-stress-constrained superconductivity scenario unifies the understanding of the pressure threshold, reversibility, spatial inhomogeneity, pressure-medium dependence, film-substrate sensitivity, and reproducibility.
-
----
-
-## 19. Experimental Progress in Ambient-Pressure Superconducting Bilayer Nickelate Films
-
-- **提交日期**：2026-05-12
-- **作者**：Meng Zhang, Xi Yan
-- **arXiv链接**：[http://arxiv.org/abs/2605.11584v1](http://arxiv.org/abs/2605.11584v1)
-
-### 摘要
-Bilayer Ruddlesden-Popper nickelates display superconductivity near 80 K under high pressure, establishing a new nickelate platform for studying unconventional high-temperature superconductivity. The recent stabilization of superconducting RA3Ni2O7 (RA = rare earth or alkaline earth) films at ambient pressure has changed the experimental landscape: epitaxial strain can reproduce key structural ingredients of the high-pressure phase while making transport, spectroscopy, microscopy, and device-oriented measurements directly accessible. This Review summarizes the experimental progress on ambient-pressure superconducting bilayer nickelate films, with emphasis on synthesis routes, oxygen stoichiometry, substrate-induced strain, normal-state transport, superconducting properties, doping phase diagrams, and momentum-resolved electronic structure. We highlight several issues that remain unsettled, including the reproducibility of phase-pure ultrathin films, the microscopic origin of the two-step superconducting transition, the role of oxygen defects and substrate-derived doping, the position of the Ni 3dz2-derived γ band, and the pairing symmetry. We close by outlining experimental directions that could establish a more quantitative link among crystal structure, orbital reconstruction, and superconductivity in bilayer nickelate films.
 
 ---
 
