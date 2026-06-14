@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-05-14 至 2026-06-13**
-> 数据检索到 **18** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-15 至 2026-06-14**
+> 数据检索到 **16** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -183,28 +183,6 @@ In cuprates, electron doping yields a much lower superconducting $T\_c$ than hol
 
 ### 摘要
 The discovery of high transition temperature (high-Tc) superconductivity in Ruddlesden-Popper (R-P) bilayer nickelates under high pressure has stimulated extensive work to understand the underlying mechanism and search for superconductors with higher Tc. The recent realization of superconductivity in R-P bilayer nickelate thin films with onset Tc above 40 K at ambient-pressure enables the use of a wide array of powerful experimental tools to investigate the unconventional high-Tc superconductivity in bilayer nickelates. Here, using ultra-low temperature scanning tunneling microscopy/spectroscopy (STM/S) and electrical transport study, we report the first successful observation of an energy-symmetric, flat-bottom U-shaped gap with zero residual density of states around the Fermi level in the high-Tc nickelate (La,Pr)3Ni2O7 thin film grown on SrLaAlO4 substrate. Before and after STM/S studies, transport measurements on the same sample reveal consistent superconducting behaviors showing zero resistance, with an onset Tc above 40 K and zero resistance Tc above 20 K. The tunneling spectra exhibit highly unconventional temperature evolution, characterized by a rapid filling of the U-shaped energy gap to a V-shaped gap as the temperature increases. Furthermore, the U-shaped energy gap is reduced under a c-axis magnetic field of 14 T. The energy-symmetric U-shaped gap, taken together with its dependence on magnetic field and temperature, is consistent with the behavior of a superconducting gap, suggesting a nodeless gap function at ultra-low temperatures. Our findings shed new lights on the nature of high-Tc superconductivity and provide an encouraging and thought-provoking hint for a local superconductivity with Tc above liquid nitrogen boiling temperature in nickelate superconductors at ambient or zero pressure.
-
----
-
-## 17. Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films
-
-- **提交日期**：2026-05-14
-- **作者**：Xinxin Wang, Yaqi Chen, Cui Ding, Lizhi Xu, Jian-Jian Miao, Guangdi Zhou, Zhuoyu Chen, Yu-Jie Sun, Jin-Feng Jia, Qi-Kun Xue
-- **arXiv链接**：[http://arxiv.org/abs/2605.14806v1](http://arxiv.org/abs/2605.14806v1)
-
-### 摘要
-Ruddlesden-Popper bilayer nickelates provide an emerging platform for studying high-temperature superconductivity, yet the superconducting pairing symmetry remains under debate. Here, we use atomic-resolution scanning tunnelling microscopy and spectroscopy to investigate superconducting 1.5-unit-cell (La,Pr)3Ni2O7 films grown on SrLaAlO4. A cryogenic ultrahigh-vacuum (UHV) sample transfer preserves an ordered sqrt(2) \* sqrt(2) surface and yields reproducible U-shaped spectra with two gap scales of ~14 and ~20 meV and extended flat zero-conductance bottoms. By contrast, samples exposed for a longer time in UHV without cooling during transfer show V-shaped spectra despite retaining the surface reconstruction and a transport superconducting transition onset above 40 K. Wide-energy-range spectra indicate that oxygen loss can mix density-wave-related spectral weight. Our measurements provide an atomic-scale observation of the intrinsic nodeless superconducting gap in bilayer nickelate ultrathin films.
-
----
-
-## 18. Shear-stress-constrained superconductivity in Ruddlesden-Popper nickelates
-
-- **提交日期**：2026-05-14
-- **作者**：Liling Sun, Shu Cai, Jinyu Zhao, Qi Wu, Yang Ding, Tao Xiang, Ho-kwang Mao
-- **arXiv链接**：[http://arxiv.org/abs/2605.14265v1](http://arxiv.org/abs/2605.14265v1)
-
-### 摘要
-Ruddlesden-Popper nickelates exhibit superconductivity under pressure in bulk crystals and under epitaxial constraint in thin films, while remaining highly sensitive to sample quality, oxygen content, defects, and stress conditions. We propose that the metastable RP lattice becomes superconducting only when the local constrained deformation of the Ni-O framework falls within a bounded shear-strain window. This deformation controls octahedral rotations, the interlayer Ni-O-Ni bond angle, and coupling between Ni dz2 and dx2-y2 orbitals. This shear-stress-constrained superconductivity scenario unifies the understanding of the pressure threshold, reversibility, spatial inhomogeneity, pressure-medium dependence, film-substrate sensitivity, and reproducibility.
 
 ---
 
