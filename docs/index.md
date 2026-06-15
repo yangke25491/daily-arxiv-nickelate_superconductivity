@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-05-15 至 2026-06-14**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-16 至 2026-06-15**
+> 数据检索到 **15** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -172,17 +172,6 @@ The extent to which electronic dimensionality influences magnetism and supercond
 
 ### 摘要
 In cuprates, electron doping yields a much lower superconducting $T\_c$ than hole doping. For recently discovered nickelate superconductors, the analogous doping strategies become more challenging. Consequently, while hole-doped Ruddlesden-Popper (RP) nickelates have been extensively studied, electron-doped RP nickelates remain rarely explored both experimentally and theoretically. Here we fill this gap by systematically investigating the two-orbital bilayer model for three representative systems: bulk La${}\_3$Ni${}\_2$O${}\_7$ at ambient pressure and 15\,GPa, and a heterostructure La${}\_3$Ni${}\_2$O${}\_7$:La${}\_3$Al${}\_2$O${}\_7$ that provides a feasible experimental route to electron doping. Using first-principle calculations and large-scale dynamical cluster quantum Monte Carlo simulations, we find that electron doping generically enhances $s^\pm$-wave pairing superconductivity (SC) in all three cases, with the heterostructure showing the highest $T\_c$ in the underdoped regime. Furthermore, our results suggest an inter-orbital cooperative mechanism that the pairing on the $d\_{x^2-y^2}$ orbital, induced by that on the $d\_{z^2}$ orbital, plays a vital role in the SC. This work provides the theoretical prediction of enhanced SC in electron-doped RP nickelates and calls for future experimental verification.
-
----
-
-## 16. Observation of flat-bottom U-shaped energy gap in high-Tc nickelate (La,Pr)3Ni2O7 thin films
-
-- **提交日期**：2026-05-15
-- **作者**：Zhen Liang, Tianheng Wei, Wei Ren, Haoran Ji, Zheyuan Xie, Yanzhao Liu, Ziqiang Wang, Jian Wang
-- **arXiv链接**：[http://arxiv.org/abs/2605.15703v1](http://arxiv.org/abs/2605.15703v1)
-
-### 摘要
-The discovery of high transition temperature (high-Tc) superconductivity in Ruddlesden-Popper (R-P) bilayer nickelates under high pressure has stimulated extensive work to understand the underlying mechanism and search for superconductors with higher Tc. The recent realization of superconductivity in R-P bilayer nickelate thin films with onset Tc above 40 K at ambient-pressure enables the use of a wide array of powerful experimental tools to investigate the unconventional high-Tc superconductivity in bilayer nickelates. Here, using ultra-low temperature scanning tunneling microscopy/spectroscopy (STM/S) and electrical transport study, we report the first successful observation of an energy-symmetric, flat-bottom U-shaped gap with zero residual density of states around the Fermi level in the high-Tc nickelate (La,Pr)3Ni2O7 thin film grown on SrLaAlO4 substrate. Before and after STM/S studies, transport measurements on the same sample reveal consistent superconducting behaviors showing zero resistance, with an onset Tc above 40 K and zero resistance Tc above 20 K. The tunneling spectra exhibit highly unconventional temperature evolution, characterized by a rapid filling of the U-shaped energy gap to a V-shaped gap as the temperature increases. Furthermore, the U-shaped energy gap is reduced under a c-axis magnetic field of 14 T. The energy-symmetric U-shaped gap, taken together with its dependence on magnetic field and temperature, is consistent with the behavior of a superconducting gap, suggesting a nodeless gap function at ultra-low temperatures. Our findings shed new lights on the nature of high-Tc superconductivity and provide an encouraging and thought-provoking hint for a local superconductivity with Tc above liquid nitrogen boiling temperature in nickelate superconductors at ambient or zero pressure.
 
 ---
 
