@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-05-16 至 2026-06-15**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-17 至 2026-06-16**
+> 数据检索到 **17** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Dichotomous electronic system in a bilayer Ni$^{1+}$ nickelate
+## 1. Electronic structure trends in La${}\_{2}R$Ni${}\_2$O${}\_7$ ($R=$ Pr, Nd, Sm) from first-principles
+
+- **提交日期**：2026-06-15
+- **作者**：Yi-Feng Zhao, Antia S. Botana
+- **arXiv链接**：[http://arxiv.org/abs/2606.16195v1](http://arxiv.org/abs/2606.16195v1)
+
+### 摘要
+The discovery of superconductivity in bilayer La${}\_3$Ni${}\_2$O${}\_7$ under pressure has sparked tremendous attention on Ruddlesden-Popper (RP) nickelates. Recently, a higher superconducting transition temperature of 96 K was reported in Sm-doped La${}\_3$Ni${}\_2$O${}\_7$ single crystals at $\sim$ 22 GPa. Motivated by this experimental observation, we systematically explore the crystal structure and electronic properties of La${}\_3$Ni${}\_2$O${}\_7$ doped with different rare-earth elements in comparison to the undoped counterpart. As expected due to the effect of chemical pressure, we find that the volume of La${}\_{2}$$R$Ni${}\_2$O${}\_7$ ($R=$ Pr, Nd, Sm) progressively decreases with doping from Pr to Sm. We further find a pressure-induced structural transition to tetragonal symmetry that approximately coincides with the emergence of superconductivity in all cases. This transition is characterized by the emergence of flat $d\_{z^2}$ bands at the Fermi level in the electronic structure. Despite subtle distinctions in the electronic structure between undoped and $R$-doped La${}\_3$Ni${}\_2$O${}\_7$, an increase in the dominant planar hopping is obtained as the $R$ size decreases. In contrast, the out-of-plane hopping decreases (in spite of the $c$ lattice constant compression), due to the decrease in the apical Ni-O${}\_{\rm rocksalt}$ bond length. Our findings provide further microscopic insights into the effects of $R$-doping in the electronic structure of RP nickelate superconductors in connection to $T\_c$.
+
+---
+
+## 2. Interlayer pairing mechanism for bilayer nickelate superconductors
+
+- **提交日期**：2026-06-13
+- **作者**：Jiangfan Wang, Yi-feng Yang
+- **arXiv链接**：[http://arxiv.org/abs/2606.15298v1](http://arxiv.org/abs/2606.15298v1)
+
+### 摘要
+The discovery of superconductivity in Ruddlesden-Popper bilayer nickelates under both high pressure and ambient conditions has opened a new paradigm for exploring unconventional superconductivity. This review provides a brief survey of theoretical progress on bilayer nickelate superconductors. Drawing from the key experimental observations, we summarize essential physical ingredients including the hybridized Ni-3$d\_{x^2-y^2}$ and 3$d\_{z^2}$ electronic structure, orbital-dependent electronic correlation, Hund's coupling, and strong interlayer magnetic coupling. The fundamental theoretical models including the bilayer two-orbital Hubbard model and its minimal $t$-$J$ variants are introduced. Starting from the atomic-limit interlayer valence bond picture of the half-filled $d\_{z^2}$ orbital, we elaborate on strong correlation interlayer pairing mechanisms based on different limiting considerations. Specific emphasis is placed on the hybridization mechanism, where the $d\_{z^2}$ local singlet pairs provide the pairing energy and their hybridization with itinerant $d\_{x^2-y^2}$ promotes superconducting phase coherence. We further analyze the pairing symmetry, the dependence of $T\_c$ on various internal and external parameters, the nontrivial normal state properties including the Fermi liquid, non-Fermi liquid, weakly insulating and pseudogap behaviors. Effects of pressure tuning, oxygen content, and Kondo scattering induced by oxygen vacancies are also discussed. Finally, weak correlation theories based on spin fluctuations associated with Fermi surface nesting are briefly covered.
+
+---
+
+## 3. Dichotomous electronic system in a bilayer Ni$^{1+}$ nickelate
 
 - **提交日期**：2026-06-09
 - **作者**：Young-Joon Song, W. E. Pickett, K. -W. Lee
@@ -21,7 +43,7 @@ title: 镍酸盐超导论文
 
 ---
 
-## 2. Dynamic structural inhomogeneity in strontium ruthenate
+## 4. Dynamic structural inhomogeneity in strontium ruthenate
 
 - **提交日期**：2026-06-04
 - **作者**：M. Spaić, R. Spieker, I. Bilonić, A. Paul, B. Krohnke Orquera, X. He, E. Topić, A. Minelli, F. Ye, N. Kikugawa, D. Sokolov, M. J. Krogstad, S. Rosenkranz, R. Osborn, T. Birol, M. Greven, D. Pelc
@@ -32,18 +54,18 @@ Strontium ruthenate (Sr${}\_2$RuO${}\_4$, SRO) has been the subject of intense r
 
 ---
 
-## 3. A unified theory of thin film and bulk bilayer nickelates
+## 5. A unified theory of thin film and bulk bilayer nickelates
 
 - **提交日期**：2026-06-03
 - **作者**：Jiangfan Wang, Yi-feng Yang
-- **arXiv链接**：[http://arxiv.org/abs/2606.04821v1](http://arxiv.org/abs/2606.04821v1)
+- **arXiv链接**：[http://arxiv.org/abs/2606.04821v2](http://arxiv.org/abs/2606.04821v2)
 
 ### 摘要
 The discovery of bilayer nickelate superconductivity in both pressurized bulk and thin films has drawn enormous attention on their similarity and distinction. Here we provide a unified explanation based on the two-component scenario for a number of key experimental observations reported recently. Our theory predicts two superconducting domes upon electron or hole doping, separated by a valence bond state near $d\_{z^2}$ half filling for strong interlayer superexchange coupling $J$, and a single dome across half filling with a lower $T\_c$ for weak or moderate $J$. Increasing doping drives the normal state from a Fermi liquid to non-Fermi liquid or weak insulating behaviors, with quasi-linear-in-$T$ scattering rate near optimal $T\_c$, while breaking the interlayer valence bonds by oxygen vacancies or chemical substitution simultaneously suppresses the superconductivity and causes local Kondo scattering of $d\_{x^2-y^2}$ electrons. These explain the different superconducting transitions and normal states in bulk and thin films, the effect of $d\_{z^2}$ hole or electron doping, and the Kondo effect in non-superconducting samples. We propose bulk superconductivity at ambient pressure by doping or reducing the interlayer magnetic coupling and predict even higher $T\_c$ upon electron doping.
 
 ---
 
-## 4. Electron vs. hole doping in infinite-layer nickelates: electronic structure, magnetism and correlations
+## 6. Electron vs. hole doping in infinite-layer nickelates: electronic structure, magnetism and correlations
 
 - **提交日期**：2026-05-29
 - **作者**：Ezra Day-Roberts, Fabio Bernardini, Harrison LaBollita, Yi-Feng Zhao, Andres Cano, Antia S. Botana
@@ -54,7 +76,7 @@ The observation of superconductivity in undoped infinite-layer nickelates $R$NiO
 
 ---
 
-## 5. Ni-O hybridization-driven electronic reconstruction across the superconducting dome in an infinite-layer nickelate
+## 7. Ni-O hybridization-driven electronic reconstruction across the superconducting dome in an infinite-layer nickelate
 
 - **提交日期**：2026-05-29
 - **作者**：Chi Sin Tang, Shengwei Zeng, Xing Gao, Zhaoyang Luo, Xiongfang Liu, Zhi Shiuh Lim, Saurav Prakash, Ping Yang, Caozheng Diao, Xinmao Yin, Changjian Li, Huajun Liu, Mark B. H. Breese, A. Ariando
@@ -65,7 +87,7 @@ Superconductivity in infinite-layer nickelates has drawn wide interest as a cupr
 
 ---
 
-## 6. Electron Doping of $\mathrm{La\_3Ni\_2O\_7}$ Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity
+## 8. Electron Doping of $\mathrm{La\_3Ni\_2O\_7}$ Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity
 
 - **提交日期**：2026-05-28
 - **作者**：Shi-Cong Mo, Wéi Wú
@@ -76,7 +98,7 @@ The bilayer Ruddlesden-Popper nickelate $\mathrm{La\_3Ni\_2O\_7}$ has emerged as
 
 ---
 
-## 7. Hole-doped superconductivity above 100 K in infinite-layer cuprate thin films
+## 9. Hole-doped superconductivity above 100 K in infinite-layer cuprate thin films
 
 - **提交日期**：2026-05-28
 - **作者**：Biemeng Jin, Saurav Prakash, Zhaoyang Luo, Shengwei Zeng, Jing-Yang Chung, Xing Gao, Zhi Shiuh Lim, Jiangbo Luo, King Yip, Wei Zhang, Nurul Fitriyah, Shuhan Lu, Taiyu An, Ping Yang, Qian He, Silvija Gradečak, Huajun Liu, A. Ariando
@@ -87,7 +109,7 @@ Since the discovery of superconductivity in (La,Ba)2CuO2 (Ref.~\cite\{bednorz198
 
 ---
 
-## 8. The evolution of pairing correlation with $3d\_{z^{2}}$ electron filling in a bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$
+## 10. The evolution of pairing correlation with $3d\_{z^{2}}$ electron filling in a bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-05-25
 - **作者**：Y. F. Chen, Y. Shen, X. J. Qian, G. M. Zhang, M. P. Qin
@@ -98,7 +120,7 @@ The discovery of high-${T\_c}$ superconductivity in pressurized bilayer nickelat
 
 ---
 
-## 9. Theoretical study of superconductivity in freestanding infinite-layer nickelate membranes under pressure: mitigation of excess correlation enhances $T\_c$
+## 11. Theoretical study of superconductivity in freestanding infinite-layer nickelate membranes under pressure: mitigation of excess correlation enhances $T\_c$
 
 - **提交日期**：2026-05-23
 - **作者**：Mahiru Seki, Reo Kono, Naotaka Tanaka, Kensei Ushio, Daiki Nakaoka, Masayuki Ochi, Kazuhiko Kuroki, Hirofumi Sakakibara
@@ -109,7 +131,7 @@ We theoretically investigate a freestanding membrane of infinite-layer nickelate
 
 ---
 
-## 10. Hubbard-$U$-corrected electron-phonon interactions in strongly correlated materials via the finite-displacement method
+## 12. Hubbard-$U$-corrected electron-phonon interactions in strongly correlated materials via the finite-displacement method
 
 - **提交日期**：2026-05-20
 - **作者**：Jiale Chen, Youyou Tu, Chengliang Xia, Jin Zhao, Hanghui Chen
@@ -120,7 +142,7 @@ Although the density functional theory plus Hubbard $U$ correction method (DFT+U
 
 ---
 
-## 11. Pressure-induced superconductivity in epitaxially-stabilized Pr${}\_3$Ni${}\_2$O${}\_7$ films
+## 13. Pressure-induced superconductivity in epitaxially-stabilized Pr${}\_3$Ni${}\_2$O${}\_7$ films
 
 - **提交日期**：2026-05-20
 - **作者**：Motoki Osada, Chieko Terakura, Hsiao-Yi Chen, Akiko Kikkawa, Masamichi Nakajima, Ryoma Asai, Jean-Baptiste Morée, Yusuke Nomura, Ryotaro Arita, Yoshinori Tokura, Atsushi Tsukazaki
@@ -131,7 +153,7 @@ The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity i
 
 ---
 
-## 12. Nearly perfect Fermi surface nesting in hole-doped La${}\_3$Ni${}\_2$O${}\_7$ enables bulk superconductivity without pressure or strain
+## 14. Nearly perfect Fermi surface nesting in hole-doped La${}\_3$Ni${}\_2$O${}\_7$ enables bulk superconductivity without pressure or strain
 
 - **提交日期**：2026-05-19
 - **作者**：Chengliang Xia, Jiale Chen, Hongquan Liu, Hanghui Chen
@@ -142,7 +164,7 @@ The discovery of high-temperature superconductivity in Ruddlesden-Popper nickela
 
 ---
 
-## 13. Imaging stripe dynamics in trilayer nickelate La${}\_4$Ni${}\_3$O${}\_{10}$
+## 15. Imaging stripe dynamics in trilayer nickelate La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-05-18
 - **作者**：Uladzislau Mikhailau, Luke Rhodes, Siri A. Berge, Matthias Hepting, Masahiko Isobe, Carolina A. Marques, Pascal Puphal, Peter Wahl
@@ -153,7 +175,7 @@ Since the discovery of high-temperature superconductivity in nickelate supercond
 
 ---
 
-## 14. Interlayer electronic coherence links magnetism and superconductivity in Ruddlesden-Popper nickelates
+## 16. Interlayer electronic coherence links magnetism and superconductivity in Ruddlesden-Popper nickelates
 
 - **提交日期**：2026-05-18
 - **作者**：Feiyang Liu, Lixing Chen, Enkang Zhang, Ying-Jie Zhang, Jun Zhao
@@ -164,7 +186,7 @@ The extent to which electronic dimensionality influences magnetism and supercond
 
 ---
 
-## 15. Enhanced $s^\pm$-wave superconductivity in electron-doped La${}\_3$Ni${}\_2$O${}\_7$
+## 17. Enhanced $s^\pm$-wave superconductivity in electron-doped La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-05-17
 - **作者**：Xun Liu, Chao Deng, Wenfeng Wu, Liang Si, Mi Jiang
