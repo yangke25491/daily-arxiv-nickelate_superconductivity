@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-05-19 至 2026-06-18**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-21 至 2026-06-20**
+> 数据检索到 **13** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -150,39 +150,6 @@ The discovery of high-${T\_c}$ superconductivity in pressurized bilayer nickelat
 
 ### 摘要
 We theoretically investigate a freestanding membrane of infinite-layer nickelate Nd${}\_{0.85}$Sr${}\_{0.15}$NiO${}\_2$ under pressure by constructing a seven-orbital effective model based on first-principles calculations.   By performing the fluctuation exchange (FLEX) approximation, we demonstrate that the seven-orbital model explains a monotonic increase in $T\_c$ reported in a recent experiment. This enhancement of superconductivity is attributed to the mitigation of excessively strong electron correlations caused by exceptionally low valence of Ni atom. Furthermore, we examine the dynamical stability of the crystal structure under pressure through phonon calculation.
-
----
-
-## 14. Hubbard-$U$-corrected electron-phonon interactions in strongly correlated materials via the finite-displacement method
-
-- **提交日期**：2026-05-20
-- **作者**：Jiale Chen, Youyou Tu, Chengliang Xia, Jin Zhao, Hanghui Chen
-- **arXiv链接**：[http://arxiv.org/abs/2605.20985v1](http://arxiv.org/abs/2605.20985v1)
-
-### 摘要
-Although the density functional theory plus Hubbard $U$ correction method (DFT+U) is broadly used to study electronic structure of strongly correlated materials, the extension of this method to electron-phonon $g$ matrices has received limited attention. Here, we implement an algorithm that integrates DFT+U method with the finite-displacement method for the calculations of phonons and electron-phonon $g$ matrices. The Hubbard $U$ corrections are applied not only to electronic and phonon structures, but, more importantly, also to electron-phonon $g$ matrices. We demonstrate our algorithm in two prototypical correlated materials: infinite-layer nickelates LaNiO${}\_2$ and ruthenium dioxide RuO${}\_2$. We find that: i) While the Hubbard $U$ corrections weakly increase the electron-phonon interaction of 20% hole-doped LaNiO${}\_2$, its total electron-phonon coupling remains small and is insufficient to account for the observed superconducting transition temperature of about 10-30 K. Our results contrast with the recent work showing that the full GW corrections yield an elevated electron-phonon coupling of 20% hole-doped LaNiO${}\_2$ five times larger than its DFT value. We attribute this discrepancy to the differences in the Fermi surface topology between DFT+$U$ and GW methods. ii) The inclusion of Hubbard $U$ corrections eliminates the imaginary phonon modes of RuO${}\_2$ under strain on the TiO${}\_2$ substrate and substantially reduces the electron-phonon coupling. Our results alleviate the discrepancy between the reported large theoretical electron-phonon coupling and the low superconducting transition temperature observed experimentally. Our work provides an algorithm that fully includes the Hubbard $U$ corrections on electron-phonon properties of correlated materials, and highlights the importance of Fermi surface shape and correlation effects on phonon spectrum and electron-phonon $g$ matrices.
-
----
-
-## 15. Pressure-induced superconductivity in epitaxially-stabilized Pr${}\_3$Ni${}\_2$O${}\_7$ films
-
-- **提交日期**：2026-05-20
-- **作者**：Motoki Osada, Chieko Terakura, Hsiao-Yi Chen, Akiko Kikkawa, Masamichi Nakajima, Ryoma Asai, Jean-Baptiste Morée, Yusuke Nomura, Ryotaro Arita, Yoshinori Tokura, Atsushi Tsukazaki
-- **arXiv链接**：[http://arxiv.org/abs/2605.20653v1](http://arxiv.org/abs/2605.20653v1)
-
-### 摘要
-The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity in La${}\_3$Ni${}\_2$O${}\_7$ under high pressure has led to a rapid expansion of the $T\_{\mathrm{c}}$ range through lanthanide $Ln$ substitution, and to ambient-pressure superconductivity in strained thin films, yet the exploration of new bilayer nickelates remains strongly constrained by thermodynamic stability. Beyond the difficulty of synthesis of bulk single-crystals, here we report on the pressure-induced high-$T\_{\mathrm{c}}$ superconductivity in epitaxially-stabilized Pr${}\_3$Ni${}\_2$O${}\_7$ thin films. While the Pr${}\_3$Ni${}\_2$O${}\_7$ films exhibit insulating behaviour at ambient pressure regardless of ozone-annealing treatment, they show $T$-linear metallic transport and superconductivity reaching an onset $T\_{\mathrm{c}}$ of 66 K and zero-resistance at nearly 40 K at 22 GPa. Furthermore, Nd${}\_3$Ni${}\_2$O${}\_7$, with the smaller rare-earth ion Nd, can also be stabilized, however, superconductivity is not observed in the measured pressure range. Epitaxial stabilization enables us to examine the dependence of $T\_{\mathrm{c}}$ and the critical pressure $P\_{\mathrm{c}}$ for superconductivity on the $Ln$ ion in $Ln\_3$Ni${}\_2$O${}\_7$ ($Ln$ = La, Pr, Nd). These results suggest that a higher $P\_{\mathrm{c}}$ is required for smaller $Ln$ ions, consistent with trends observed in bulk studies of $Ln$ substitution. This study demonstrates that epitaxial stabilization is a powerful technique to further expand the family of superconducting bilayer nickelates.
-
----
-
-## 16. Nearly perfect Fermi surface nesting in hole-doped La${}\_3$Ni${}\_2$O${}\_7$ enables bulk superconductivity without pressure or strain
-
-- **提交日期**：2026-05-19
-- **作者**：Chengliang Xia, Jiale Chen, Hongquan Liu, Hanghui Chen
-- **arXiv链接**：[http://arxiv.org/abs/2605.19297v1](http://arxiv.org/abs/2605.19297v1)
-
-### 摘要
-The discovery of high-temperature superconductivity in Ruddlesden-Popper nickelates has drawn great attention. However, unlike cuprates and iron-based superconductors, Ruddlesden-Popper nickelates exhibit superconductivity either under high pressure in bulk samples or under compressive strain in thin films. Genuine bulk superconductivity under ambient pressure has remained elusive in these materials, precluding key measurements such as specific heat and superfluid density. In this work, we combine density-functional-theory, dynamical-mean-field-theory, and random-phase-approximation to solve the superconducting gap equation for bulk hole-doped bilayer nickelate La${}\_{3-x}$Sr${}\_x$Ni${}\_2$O${}\_7$ at ambient pressure. We find that hole doping induces a Ni-$d\_{3z^2-r^2}$-derived $γ$ pocket on the Fermi surface, and serves as a tuning parameter for both its size and shape. As $x$ approaches 0.4, the $γ$ pocket evolves from circular to diamond-shaped and expands to span half of the Brillouin zone, resulting in nearly perfect Fermi surface nesting with the optimal nesting vector $\textbf{Q} = (π, π)$. This, in turn, strongly enhances antiferromagnetic spin fluctuations and substantially increases the leading superconducting eigenvalue to a level at which superconductivity becomes experimentally observable. Our work provides both a robust mechanism and an experimentally feasible route to inducing the long-sought bulk superconductivity in La${}\_3$Ni${}\_2$O${}\_7$ without pressure or strain.
 
 ---
 
