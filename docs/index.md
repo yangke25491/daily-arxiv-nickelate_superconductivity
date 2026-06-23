@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-05-23 至 2026-06-22**
-> 数据检索到 **13** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-24 至 2026-06-23**
+> 数据检索到 **14** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Counterintuitive inverse superconducting transition beyond 4He-cooling limit
+## 1. Structural symmetry effects on the competition of density waves and superconductivity in bilayer nickelates
+
+- **提交日期**：2026-06-22
+- **作者**：Steffen Bötzel, Aiman Al-Eryani, Jun Zhan, Xianxin Wu, Frank Lechermann, Michael M. Scherer, Ilya M. Eremin
+- **arXiv链接**：[http://arxiv.org/abs/2606.23022v1](http://arxiv.org/abs/2606.23022v1)
+
+### 摘要
+We investigate the interplay between spin-density-wave (SDW) order and superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$ using the functional renormalization group~(fRG) applied to multiorbital weak-coupling models of both the ambient- and high-pressure crystal structures. As Hund's coupling increases, the leading instability evolves from superconductivity to an SDW state with ordering vector $\mathbf{Q}\_1 \approx (π/2,π/2)$ (equivalently $\mathbf{Q}\_Y \approx (0,π)$ in the orthorhombic $Amam$ unit cell), in agreement with experimental observations. Surprisingly, the ambient- and high-pressure structures exhibit nearly identical non-interacting susceptibilities and leading fRG instabilities, indicating that the emergence of superconductivity under pressure cannot be explained solely by changes in the low-energy electronic structure. Instead, our results identify the suppression of orthorhombicity as a key ingredient for superconductivity. As the system approaches the tetragonal limit, symmetry-related SDW fluctuations become nearly degenerate, frustrating long-range magnetic order while enhancing pairing interactions. These findings highlight lattice symmetry as a central tuning parameter of the competing ordered states in bilayer nickelates and suggest that reducing orthorhombicity through uniaxial strain could stabilize bulk superconductivity already at ambient pressure.
+
+---
+
+## 2. Persistent structural distortions and absent superconductivity in trilayer nickelate thin films
+
+- **提交日期**：2026-06-18
+- **作者**：Abigail Y. Jiang, Maria Bambrick-Santoyo, Lopa Bhatt, Kyeong-Yoon Baek, Yi-Feng Zhao, Dan Ferenc Segedin, Ari B. Turkiewicz, Jenna Hatmin, Grace A. Pan, Suchismita Sarker, Donald A. Walko, Charles M. Brooks, David A. Muller, Berit H. Goodge, Hua Zhou, Antia S. Botana, Julia A. Mundy
+- **arXiv链接**：[http://arxiv.org/abs/2606.20941v1](http://arxiv.org/abs/2606.20941v1)
+
+### 摘要
+A new family of high-temperature superconductors was recently discovered in the $n=2,3$ Ruddlesden-Popper nickelates, where superconductivity emerges concomitant with suppression of parent density waves and structural octahedral rotations under hydrostatic pressure. Intriguingly, compressive strain mimics the structural effects of pressure in the $n=2$ phase, yielding ambient-pressure superconductivity. However, analogous strain-stabilized superconductivity has not been realized in the $n=3$. Here, we use atomically-precise synthesis, transport, picoscale electron microscopy, and synchrotron X-ray diffraction to probe $n=3$ La${}\_4$Ni${}\_3$O${}\_{10}$ thin films. Although compressive strain suppresses density wave order, we do not observe superconductivity even under the largest strain state. Importantly, we identify a structural distortion unique to strained $n=3$ thin films that may inhibit superconductivity: persistent, layer-inequivalent octahedral rotations around the $c$-axis. Our results highlight key differences between the $n=3$ and $n=2$ systems, suggesting that ambient-pressure superconductivity in the $n=3$ may require new methods beyond epitaxial strain engineering.
+
+---
+
+## 3. Counterintuitive inverse superconducting transition beyond 4He-cooling limit
 
 - **提交日期**：2026-06-17
 - **作者**：Haowen Han, Yi Bian, Tong Ma, Yusong Zhao, Nuofu Chen, Chuanying Xi, Ze Wang, Binghui Ge, Hongliang Dong, Jia-Cai Nie, Ho-Kwang Mao, Jikun Chen
@@ -21,7 +43,7 @@ Thermally driven quantum-orders observed in exceptional instances may redefine t
 
 ---
 
-## 2. Tunable Superconductivity in 1313-La${}\_3$Ni${}\_2$O${}\_7$: Suppressed under Compression and Possible $s^{\pm}$ Pairing under Tension
+## 4. Tunable Superconductivity in 1313-La${}\_3$Ni${}\_2$O${}\_7$: Suppressed under Compression and Possible $s^{\pm}$ Pairing under Tension
 
 - **提交日期**：2026-06-15
 - **作者**：Yang Zhang, Ling-Fang Lin, Adriana Moreo, Thomas A. Maier, Elbio Dagotto
@@ -32,7 +54,7 @@ Motivated by recent progress in the 1313-La${}\_3$Ni${}\_2$O${}\_7$ nickelate th
 
 ---
 
-## 3. Electronic structure trends in La${}\_{2}R$Ni${}\_2$O${}\_7$ ($R=$ Pr, Nd, Sm) from first-principles
+## 5. Electronic structure trends in La${}\_{2}R$Ni${}\_2$O${}\_7$ ($R=$ Pr, Nd, Sm) from first-principles
 
 - **提交日期**：2026-06-15
 - **作者**：Yi-Feng Zhao, Antia S. Botana
@@ -43,7 +65,7 @@ The discovery of superconductivity in bilayer La${}\_3$Ni${}\_2$O${}\_7$ under p
 
 ---
 
-## 4. Interlayer pairing mechanism for bilayer nickelate superconductors
+## 6. Interlayer pairing mechanism for bilayer nickelate superconductors
 
 - **提交日期**：2026-06-13
 - **作者**：Jiangfan Wang, Yi-feng Yang
@@ -54,7 +76,7 @@ The discovery of superconductivity in Ruddlesden-Popper bilayer nickelates under
 
 ---
 
-## 5. Dichotomous electronic system in a bilayer Ni$^{1+}$ nickelate
+## 7. Dichotomous electronic system in a bilayer Ni$^{1+}$ nickelate
 
 - **提交日期**：2026-06-09
 - **作者**：Young-Joon Song, W. E. Pickett, K. -W. Lee
@@ -65,18 +87,18 @@ The discovery of superconductivity in Ruddlesden-Popper bilayer nickelates under
 
 ---
 
-## 6. Dynamic structural inhomogeneity in strontium ruthenate
+## 8. Dynamic nanoscale structural correlations in strontium ruthenate
 
 - **提交日期**：2026-06-04
 - **作者**：M. Spaić, R. Spieker, I. Bilonić, A. Paul, B. Krohnke Orquera, X. He, E. Topić, A. Minelli, F. Ye, N. Kikugawa, D. Sokolov, M. J. Krogstad, S. Rosenkranz, R. Osborn, T. Birol, M. Greven, D. Pelc
-- **arXiv链接**：[http://arxiv.org/abs/2606.06430v1](http://arxiv.org/abs/2606.06430v1)
+- **arXiv链接**：[http://arxiv.org/abs/2606.06430v2](http://arxiv.org/abs/2606.06430v2)
 
 ### 摘要
-Strontium ruthenate (Sr${}\_2$RuO${}\_4$, SRO) has been the subject of intense research as a model quasi-two-dimensional metal with strong electronic correlations and potential exotic multi-component superconductor. Yet the nature of the superconducting state and its emergence remain debated, despite highly detailed knowledge of the normal-state electronic properties. Here we use diffuse neutron and x-ray scattering to uncover self-organized structural inhomogeneity on the picosecond timescale in SRO. We show that these structural correlations do not originate from extrinsic disorder but rather involve correlated displacements of oxygen atoms in the quintessential RuO${}\_2$ planes. Moreover, the observed displacement pattern is consistent with distortions due to orbital order that we obtain in first-principles calculations, which suggests that orbital effects could play a pivotal role in the physics of SRO. The appearance of such dynamic inhomogeneity may be relevant for a wide range of prominent oxides with similar lamellar structures, such as the cuprates and nickelates.
+Strontium ruthenate (Sr${}\_2$RuO${}\_4$, SRO) has been the subject of intense research as a model quasi-two-dimensional metal with strong electronic correlations and potential exotic multi-component superconductor. Yet the nature of the superconducting state and its emergence remain debated, despite highly detailed knowledge of the normal-state electronic properties. Here we use diffuse neutron and x-ray scattering to uncover self-organized structural fluctuations on the picosecond timescale in SRO. We show that these nanoscale correlations do not originate from extrinsic disorder but rather involve cooperative displacements of oxygen atoms in the quintessential RuO${}\_2$ planes. Moreover, the observed displacement pattern is consistent with distortions due to incipient orbital order that we obtain in first-principles calculations, which suggests that orbital effects could play a pivotal role in the physics of SRO. Similar dynamic correlations may play a role in the physical properties of a wide range of prominent oxides with closely-related lamellar structures, such as the cuprates and nickelates.
 
 ---
 
-## 7. A unified theory of thin film and bulk bilayer nickelates
+## 9. A unified theory of thin film and bulk bilayer nickelates
 
 - **提交日期**：2026-06-03
 - **作者**：Jiangfan Wang, Yi-feng Yang
@@ -87,7 +109,7 @@ The discovery of bilayer nickelate superconductivity in both pressurized bulk an
 
 ---
 
-## 8. Electron vs. hole doping in infinite-layer nickelates: electronic structure, magnetism and correlations
+## 10. Electron vs. hole doping in infinite-layer nickelates: electronic structure, magnetism and correlations
 
 - **提交日期**：2026-05-29
 - **作者**：Ezra Day-Roberts, Fabio Bernardini, Harrison LaBollita, Yi-Feng Zhao, Andres Cano, Antia S. Botana
@@ -98,7 +120,7 @@ The observation of superconductivity in undoped infinite-layer nickelates $R$NiO
 
 ---
 
-## 9. Ni-O hybridization-driven electronic reconstruction across the superconducting dome in an infinite-layer nickelate
+## 11. Ni-O hybridization-driven electronic reconstruction across the superconducting dome in an infinite-layer nickelate
 
 - **提交日期**：2026-05-29
 - **作者**：Chi Sin Tang, Shengwei Zeng, Xing Gao, Zhaoyang Luo, Xiongfang Liu, Zhi Shiuh Lim, Saurav Prakash, Ping Yang, Caozheng Diao, Xinmao Yin, Changjian Li, Huajun Liu, Mark B. H. Breese, A. Ariando
@@ -109,7 +131,7 @@ Superconductivity in infinite-layer nickelates has drawn wide interest as a cupr
 
 ---
 
-## 10. Electron Doping of $\mathrm{La\_3Ni\_2O\_7}$ Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity
+## 12. Electron Doping of $\mathrm{La\_3Ni\_2O\_7}$ Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity
 
 - **提交日期**：2026-05-28
 - **作者**：Shi-Cong Mo, Wéi Wú
@@ -120,7 +142,7 @@ The bilayer Ruddlesden-Popper nickelate $\mathrm{La\_3Ni\_2O\_7}$ has emerged as
 
 ---
 
-## 11. Hole-doped superconductivity above 100 K in infinite-layer cuprate thin films
+## 13. Hole-doped superconductivity above 100 K in infinite-layer cuprate thin films
 
 - **提交日期**：2026-05-28
 - **作者**：Biemeng Jin, Saurav Prakash, Zhaoyang Luo, Shengwei Zeng, Jing-Yang Chung, Xing Gao, Zhi Shiuh Lim, Jiangbo Luo, King Yip, Wei Zhang, Nurul Fitriyah, Shuhan Lu, Taiyu An, Ping Yang, Qian He, Silvija Gradečak, Huajun Liu, A. Ariando
@@ -131,7 +153,7 @@ Since the discovery of superconductivity in (La,Ba)2CuO2 (Ref.~\cite\{bednorz198
 
 ---
 
-## 12. The evolution of pairing correlation with $3d\_{z^{2}}$ electron filling in a bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$
+## 14. The evolution of pairing correlation with $3d\_{z^{2}}$ electron filling in a bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-05-25
 - **作者**：Y. F. Chen, Y. Shen, X. J. Qian, G. M. Zhang, M. P. Qin
@@ -139,17 +161,6 @@ Since the discovery of superconductivity in (La,Ba)2CuO2 (Ref.~\cite\{bednorz198
 
 ### 摘要
 The discovery of high-${T\_c}$ superconductivity in pressurized bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$ presents a new arena for exploring unconventional pairing mechanisms. A pivotal yet unresolved issue is the specific role of the $3d\_{z^{2}}$ orbital of Ni. While its inter-layer super-exchange antiferromagnetic coupling is widely considered crucial for superconductivity, the role of its itinerancy remains undetermined. Early studies showed that the superconductivity is accompanied by the emergence of a small Fermi pocket of the $3d\_{z^{2}}$ orbitals. However, recent experiments show controversial results on the role of the $3d\_{z^{2}}$ Fermi pocket on superconductivity. Motivated by these experimental results, we investigate an effective bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$ using density-matrix renormalization group (DMRG) on a minimal one-dimensional geometry. By systematically varying the $3d\_{z^{2}}$ orbital filling from $1/12$ doping to half-filling, we observe a pronounced suppression of superconducting correlations near half-filling. Our results demonstrate the itinerancy of $3d\_{z^{2}}$ orbital is favorable for the pairing in the bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$. Moreover, we observe that the pairing correlation is enhanced in regions where charge fluctuations are large, suggesting a competition between charge order and superconductivity in the model.
-
----
-
-## 13. Theoretical study of superconductivity in freestanding infinite-layer nickelate membranes under pressure: mitigation of excess correlation enhances $T\_c$
-
-- **提交日期**：2026-05-23
-- **作者**：Mahiru Seki, Reo Kono, Naotaka Tanaka, Kensei Ushio, Daiki Nakaoka, Masayuki Ochi, Kazuhiko Kuroki, Hirofumi Sakakibara
-- **arXiv链接**：[http://arxiv.org/abs/2605.24565v2](http://arxiv.org/abs/2605.24565v2)
-
-### 摘要
-We theoretically investigate a freestanding membrane of infinite-layer nickelate Nd${}\_{0.85}$Sr${}\_{0.15}$NiO${}\_2$ under pressure by constructing a seven-orbital effective model based on first-principles calculations.   By performing the fluctuation exchange (FLEX) approximation, we demonstrate that the seven-orbital model explains a monotonic increase in $T\_c$ reported in a recent experiment. This enhancement of superconductivity is attributed to the mitigation of excessively strong electron correlations caused by exceptionally low valence of Ni atom. Furthermore, we examine the dynamical stability of the crystal structure under pressure through phonon calculation.
 
 ---
 
