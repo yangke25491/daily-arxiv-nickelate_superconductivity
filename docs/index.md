@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-05-25 至 2026-06-24**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-26 至 2026-06-25**
+> 数据检索到 **14** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -161,17 +161,6 @@ The bilayer Ruddlesden-Popper nickelate $\mathrm{La\_3Ni\_2O\_7}$ has emerged as
 
 ### 摘要
 Since the discovery of superconductivity in (La,Ba)2CuO2 (Ref.~\cite\{bednorz1986possible\}), a broad family of structurally distinct cuprate superconductors has been proposed or engineered to elucidate the physics of high-temperature superconductivity~\cite\{chu2015hole,plakida2010high\}. Among them, the infinite-layer cuprate has the simplest structure, consisting only of the essential ingredients for superconductivity: CuO${}\_2$ square planes separated by spacer ions~\cite\{siegrist1988parent\}. Despite being proposed nearly 40 years ago, the hole-doped superconductivity via chemical substitution in this compound has not yet been achieved, a fundamental open question in the field. Here, we report the observation of superconductivity in the hole-doped infinite-layer cuprate thin film. Measurements of resistivity and magnetic-field response in Sr1-xRbxCuO2 single-crystal thin films show superconducting transitions with a high onset temperature of 100 K. Hole doping is achieved via the synergistic effect of rubidium substitution and apical oxygen incorporation, as evidenced by structural analysis and transport measurements. As the parent structure of the cuprate family~\cite\{chu2015hole\}, hole-doped infinite-layer cuprate provides a unique platform for revisiting key puzzles in cuprate superconductors~\cite\{keimer2015quantum,tsuei2000pairing,armitage2010progress,dagotto1994correlated\}, including strange metal~\cite\{proust2019remarkable,taillefer2010scattering\} and electron-hole symmetry~\cite\{tohyama2004asymmetry,segawa2010zero,lee2014asymmetry\}, while bridging to cuprate-nickelate symmetry~\cite\{li2019superconductivity,zeng2022superconductivity,chow2025bulk,lechermann2020late\}.
-
----
-
-## 15. The evolution of pairing correlation with $3d\_{z^{2}}$ electron filling in a bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$
-
-- **提交日期**：2026-05-25
-- **作者**：Y. F. Chen, Y. Shen, X. J. Qian, G. M. Zhang, M. P. Qin
-- **arXiv链接**：[http://arxiv.org/abs/2605.25654v1](http://arxiv.org/abs/2605.25654v1)
-
-### 摘要
-The discovery of high-${T\_c}$ superconductivity in pressurized bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$ presents a new arena for exploring unconventional pairing mechanisms. A pivotal yet unresolved issue is the specific role of the $3d\_{z^{2}}$ orbital of Ni. While its inter-layer super-exchange antiferromagnetic coupling is widely considered crucial for superconductivity, the role of its itinerancy remains undetermined. Early studies showed that the superconductivity is accompanied by the emergence of a small Fermi pocket of the $3d\_{z^{2}}$ orbitals. However, recent experiments show controversial results on the role of the $3d\_{z^{2}}$ Fermi pocket on superconductivity. Motivated by these experimental results, we investigate an effective bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$ using density-matrix renormalization group (DMRG) on a minimal one-dimensional geometry. By systematically varying the $3d\_{z^{2}}$ orbital filling from $1/12$ doping to half-filling, we observe a pronounced suppression of superconducting correlations near half-filling. Our results demonstrate the itinerancy of $3d\_{z^{2}}$ orbital is favorable for the pairing in the bilayer two-orbital model for La${}\_3$Ni${}\_2$O${}\_7$. Moreover, we observe that the pairing correlation is enhanced in regions where charge fluctuations are large, suggesting a competition between charge order and superconductivity in the model.
 
 ---
 
