@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-05-28 至 2026-06-27**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-29 至 2026-06-28**
+> 数据检索到 **13** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -150,28 +150,6 @@ The observation of superconductivity in undoped infinite-layer nickelates $R$NiO
 
 ### 摘要
 Superconductivity in infinite-layer nickelates has drawn wide interest as a cuprate analogue, yet how the electronic structure evolves with hole doping remains unsettled. Here we map the doping- and temperature-dependent unoccupied states of the La-based infinite-layer nickelate La1-xCaxNiO2 using O K-edge and Ni L-edge x-ray absorption spectroscopy. Superconductivity occurs for 0.18<=x<=0.27. Near x~0.20-0.23, low-energy spectral weight redistributes: Ni3d-dominated states decrease while O2p-hybridized states increase, indicating an orbital-selective crossover in Ni-O covalency. This crossover coincides with a sign reversal of the Hall coefficient and precedes the reduction of the superconducting critical temperature at higher doping. By directly linking transport anomalies and the superconducting dome to a measurable Ni-O orbital reorganization, our results provide a key step toward a unified, orbital-resolved phase diagram for infinite-layer nickelates and a practical route to engineer superconductivity via hybridization control.
-
----
-
-## 14. Electron Doping of $\mathrm{La\_3Ni\_2O\_7}$ Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity
-
-- **提交日期**：2026-05-28
-- **作者**：Shi-Cong Mo, Wéi Wú
-- **arXiv链接**：[http://arxiv.org/abs/2605.30297v1](http://arxiv.org/abs/2605.30297v1)
-
-### 摘要
-The bilayer Ruddlesden-Popper nickelate $\mathrm{La\_3Ni\_2O\_7}$ has emerged as a promising platform for exploring and understanding high-temperature superconductivities. While most prior doping studies   have focused on hole doping via strontium (Sr) substitution or by tuning oxygen content, electron doping remains largely unexplored. In this work,we systematically investigate electron doping in $\mathrm{La\_3Ni\_2O\_7}$ thin films through   tetravalent element substitution, employing first-principles density functional theory calculations.   Our results reveal that, unlike in cuprates, $\mathrm{cerium}$ (Ce) doping is difficult to effectively introduce electron carriers into the low-energy bands. In contrast, zirconium (Zr), hafnium (Hf), and thorium (Th) can act as efficient electron dopants. These element substitutions can significantly increase the interlayer hopping $t\_{\perp}$ between $d\_{z^2}$ orbitals, which may lead to enhanced superexchange coupling $J\_{\perp}$ , and thereby potentially elevated superconducting $T\_c$. We evaluate the interaction parameters using constrained random phase approximation. Our results identify candidate dopants for achieving electron-doped $\mathrm{La\_3Ni\_2O\_7}$, offering a route to clarify the ongoing debate on pairing mechanisms in this system.
-
----
-
-## 15. Hole-doped superconductivity above 100 K in infinite-layer cuprate thin films
-
-- **提交日期**：2026-05-28
-- **作者**：Biemeng Jin, Saurav Prakash, Zhaoyang Luo, Shengwei Zeng, Jing-Yang Chung, Xing Gao, Zhi Shiuh Lim, Jiangbo Luo, King Yip, Wei Zhang, Nurul Fitriyah, Shuhan Lu, Taiyu An, Ping Yang, Qian He, Silvija Gradečak, Huajun Liu, A. Ariando
-- **arXiv链接**：[http://arxiv.org/abs/2605.29352v1](http://arxiv.org/abs/2605.29352v1)
-
-### 摘要
-Since the discovery of superconductivity in (La,Ba)2CuO2 (Ref.~\cite\{bednorz1986possible\}), a broad family of structurally distinct cuprate superconductors has been proposed or engineered to elucidate the physics of high-temperature superconductivity~\cite\{chu2015hole,plakida2010high\}. Among them, the infinite-layer cuprate has the simplest structure, consisting only of the essential ingredients for superconductivity: CuO${}\_2$ square planes separated by spacer ions~\cite\{siegrist1988parent\}. Despite being proposed nearly 40 years ago, the hole-doped superconductivity via chemical substitution in this compound has not yet been achieved, a fundamental open question in the field. Here, we report the observation of superconductivity in the hole-doped infinite-layer cuprate thin film. Measurements of resistivity and magnetic-field response in Sr1-xRbxCuO2 single-crystal thin films show superconducting transitions with a high onset temperature of 100 K. Hole doping is achieved via the synergistic effect of rubidium substitution and apical oxygen incorporation, as evidenced by structural analysis and transport measurements. As the parent structure of the cuprate family~\cite\{chu2015hole\}, hole-doped infinite-layer cuprate provides a unique platform for revisiting key puzzles in cuprate superconductors~\cite\{keimer2015quantum,tsuei2000pairing,armitage2010progress,dagotto1994correlated\}, including strange metal~\cite\{proust2019remarkable,taillefer2010scattering\} and electron-hole symmetry~\cite\{tohyama2004asymmetry,segawa2010zero,lee2014asymmetry\}, while bridging to cuprate-nickelate symmetry~\cite\{li2019superconductivity,zeng2022superconductivity,chow2025bulk,lechermann2020late\}.
 
 ---
 
