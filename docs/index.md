@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-05-29 至 2026-06-28**
-> 数据检索到 **13** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-30 至 2026-06-29**
+> 数据检索到 **11** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -128,28 +128,6 @@ Strontium ruthenate (Sr${}\_2$RuO${}\_4$, SRO) has been the subject of intense r
 
 ### 摘要
 The discovery of bilayer nickelate superconductivity in both pressurized bulk and thin films has drawn enormous attention on their similarity and distinction. Here we provide a unified explanation based on the two-component scenario for a number of key experimental observations reported recently. Our theory predicts two superconducting domes upon electron or hole doping, separated by a valence bond state near $d\_{z^2}$ half filling for strong interlayer superexchange coupling $J$, and a single dome across half filling with a lower $T\_c$ for weak or moderate $J$. Increasing doping drives the normal state from a Fermi liquid to non-Fermi liquid or weak insulating behaviors, with quasi-linear-in-$T$ scattering rate near optimal $T\_c$, while breaking the interlayer valence bonds by oxygen vacancies or chemical substitution simultaneously suppresses the superconductivity and causes local Kondo scattering of $d\_{x^2-y^2}$ electrons. These explain the different superconducting transitions and normal states in bulk and thin films, the effect of $d\_{z^2}$ hole or electron doping, and the Kondo effect in non-superconducting samples. We propose bulk superconductivity at ambient pressure by doping or reducing the interlayer magnetic coupling and predict even higher $T\_c$ upon electron doping.
-
----
-
-## 12. Electron vs. hole doping in infinite-layer nickelates: electronic structure, magnetism and correlations
-
-- **提交日期**：2026-05-29
-- **作者**：Ezra Day-Roberts, Fabio Bernardini, Harrison LaBollita, Yi-Feng Zhao, Andres Cano, Antia S. Botana
-- **arXiv链接**：[http://arxiv.org/abs/2606.00223v1](http://arxiv.org/abs/2606.00223v1)
-
-### 摘要
-The observation of superconductivity in undoped infinite-layer nickelates $R$NiO${}\_2$ ($R$ = rare earth) challenges our current understanding and calls for a re-examination of the underlying electronic structure of this family of materials. In this context, it is particularly important to extend the investigation of $R$NiO${}\_2$ compounds from the intensively studied hole-doped regime to the almost unexplored electron-doped one. Here, we use a combination of density-functional theory and dynamical mean-field theory to study the evolution of the electronic structure of infinite-layer nickelates in these two doping regimes. We find a striking asymmetry in the self-doping of the Ni-$d\_{x^2-y^2}$ band due to the $R(5d)$ states: while this effect is strongly suppressed upon hole doping, electron doping instead leads to an increase in the size of the $R(5d)$ electron pockets, but without effectively hole-doping the Ni-$d\_{x^2-y^2}$ band. This asymmetry has an important impact on the magnetic response as antiferromagnetism is rapidly suppressed upon hole doping, whereas it remains the ground state upon electron doping. Despite these differences, electronic correlations on both sides of the phase diagram are dominated by the Ni $d\_{x^2-y^2}$ orbital, suggesting that a single-band description may be appropriate for infinite-layer nickelates in both the electron- and hole-doped regimes.
-
----
-
-## 13. Ni-O hybridization-driven electronic reconstruction across the superconducting dome in an infinite-layer nickelate
-
-- **提交日期**：2026-05-29
-- **作者**：Chi Sin Tang, Shengwei Zeng, Xing Gao, Zhaoyang Luo, Xiongfang Liu, Zhi Shiuh Lim, Saurav Prakash, Ping Yang, Caozheng Diao, Xinmao Yin, Changjian Li, Huajun Liu, Mark B. H. Breese, A. Ariando
-- **arXiv链接**：[http://arxiv.org/abs/2605.30752v1](http://arxiv.org/abs/2605.30752v1)
-
-### 摘要
-Superconductivity in infinite-layer nickelates has drawn wide interest as a cuprate analogue, yet how the electronic structure evolves with hole doping remains unsettled. Here we map the doping- and temperature-dependent unoccupied states of the La-based infinite-layer nickelate La1-xCaxNiO2 using O K-edge and Ni L-edge x-ray absorption spectroscopy. Superconductivity occurs for 0.18<=x<=0.27. Near x~0.20-0.23, low-energy spectral weight redistributes: Ni3d-dominated states decrease while O2p-hybridized states increase, indicating an orbital-selective crossover in Ni-O covalency. This crossover coincides with a sign reversal of the Hall coefficient and precedes the reduction of the superconducting critical temperature at higher doping. By directly linking transport anomalies and the superconducting dome to a measurable Ni-O orbital reorganization, our results provide a key step toward a unified, orbital-resolved phase diagram for infinite-layer nickelates and a practical route to engineer superconductivity via hybridization control.
 
 ---
 
