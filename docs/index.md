@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-02 至 2026-07-02**
-> 数据检索到 **14** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-04 至 2026-07-04**
+> 数据检索到 **13** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -150,17 +150,6 @@ The discovery of superconductivity in Ruddlesden-Popper bilayer nickelates under
 
 ### 摘要
 Strontium ruthenate (Sr${}\_2$RuO${}\_4$, SRO) has been the subject of intense research as a model quasi-two-dimensional metal with strong electronic correlations and potential exotic multi-component superconductor. Yet the nature of the superconducting state and its emergence remain debated, despite highly detailed knowledge of the normal-state electronic properties. Here we use diffuse neutron and x-ray scattering to uncover self-organized structural fluctuations on the picosecond timescale in SRO. We show that these nanoscale correlations do not originate from extrinsic disorder but rather involve cooperative displacements of oxygen atoms in the quintessential RuO${}\_2$ planes. Moreover, the observed displacement pattern is consistent with distortions due to incipient orbital order that we obtain in first-principles calculations, which suggests that orbital effects could play a pivotal role in the physics of SRO. Similar dynamic correlations may play a role in the physical properties of a wide range of prominent oxides with closely-related lamellar structures, such as the cuprates and nickelates.
-
----
-
-## 14. A unified theory of thin film and bulk bilayer nickelates
-
-- **提交日期**：2026-06-03
-- **作者**：Jiangfan Wang, Yi-feng Yang
-- **arXiv链接**：[http://arxiv.org/abs/2606.04821v2](http://arxiv.org/abs/2606.04821v2)
-
-### 摘要
-The discovery of bilayer nickelate superconductivity in both pressurized bulk and thin films has drawn enormous attention on their similarity and distinction. Here we provide a unified explanation based on the two-component scenario for a number of key experimental observations reported recently. Our theory predicts two superconducting domes upon electron or hole doping, separated by a valence bond state near $d\_{z^2}$ half filling for strong interlayer superexchange coupling $J$, and a single dome across half filling with a lower $T\_c$ for weak or moderate $J$. Increasing doping drives the normal state from a Fermi liquid to non-Fermi liquid or weak insulating behaviors, with quasi-linear-in-$T$ scattering rate near optimal $T\_c$, while breaking the interlayer valence bonds by oxygen vacancies or chemical substitution simultaneously suppresses the superconductivity and causes local Kondo scattering of $d\_{x^2-y^2}$ electrons. These explain the different superconducting transitions and normal states in bulk and thin films, the effect of $d\_{z^2}$ hole or electron doping, and the Kondo effect in non-superconducting samples. We propose bulk superconductivity at ambient pressure by doping or reducing the interlayer magnetic coupling and predict even higher $T\_c$ upon electron doping.
 
 ---
 
