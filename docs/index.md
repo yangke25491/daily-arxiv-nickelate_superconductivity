@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-04 至 2026-07-04**
-> 数据检索到 **13** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-05 至 2026-07-05**
+> 数据检索到 **12** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -139,17 +139,6 @@ The discovery of superconductivity in Ruddlesden-Popper bilayer nickelates under
 
 ### 摘要
 ``Infinite layer'' nickelates (ILNs) ${\cal R}$NiO${}\_2$ (${\cal R}$=rare earth elements), having empty apical O sites, become superconducting upon hole doping. They display a secondary electron Fermi surface (FS), giving hole doping, arising not from atomic orbitals but from a band based on interstitial density. Newly reported La${}\_3$Ni${}\_2$O${}\_5$F, formally Ni$^{1+}$, provides an unexpected example of ILN with essentially ideal two dimensional character. A partially occupied single band $E^\*$, based on interstitial density, has distinct properties, as its strongly anisotropic shape extends over the three ``apical'' layers and leads to a cylindrical electron FS giving self-doping. This interstitial density is associated with a \{\it network of valence bands\}, including a Ni $d\_{xz},d\_{yz}$ pair that partners with $E^\*$ to provide an incipient non-analytic Dirac point, leading to an unusual type of interstitial density--$d$ band coupling. The $E^\*$ electron band and the conventional Ni $dpσ$ band will display a dichotomy of hole and electron quasiparticle behavior in normal state transport and far-IR properties, and likely resulting in unconventional superconducting state properties even for nickelates.
-
----
-
-## 13. Dynamic nanoscale structural correlations in strontium ruthenate
-
-- **提交日期**：2026-06-04
-- **作者**：M. Spaić, R. Spieker, I. Bilonić, A. Paul, B. Krohnke Orquera, X. He, E. Topić, A. Minelli, F. Ye, N. Kikugawa, D. Sokolov, M. J. Krogstad, S. Rosenkranz, R. Osborn, T. Birol, M. Greven, D. Pelc
-- **arXiv链接**：[http://arxiv.org/abs/2606.06430v2](http://arxiv.org/abs/2606.06430v2)
-
-### 摘要
-Strontium ruthenate (Sr${}\_2$RuO${}\_4$, SRO) has been the subject of intense research as a model quasi-two-dimensional metal with strong electronic correlations and potential exotic multi-component superconductor. Yet the nature of the superconducting state and its emergence remain debated, despite highly detailed knowledge of the normal-state electronic properties. Here we use diffuse neutron and x-ray scattering to uncover self-organized structural fluctuations on the picosecond timescale in SRO. We show that these nanoscale correlations do not originate from extrinsic disorder but rather involve cooperative displacements of oxygen atoms in the quintessential RuO${}\_2$ planes. Moreover, the observed displacement pattern is consistent with distortions due to incipient orbital order that we obtain in first-principles calculations, which suggests that orbital effects could play a pivotal role in the physics of SRO. Similar dynamic correlations may play a role in the physical properties of a wide range of prominent oxides with closely-related lamellar structures, such as the cuprates and nickelates.
 
 ---
 
