@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-16 至 2026-07-16**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-17 至 2026-07-17**
+> 数据检索到 **17** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. The Sample Pre-selection and Characterization Station at the SECUF: Instrumentation, Capabilities, and Representative Scientific Achievements
+## 1. Magnetic Order in bilayer Ruddlesden-Popper Nickelates
+
+- **提交日期**：2026-07-16
+- **作者**：Yiming Wang, Guijing Duan, Zhiguang Liao, Kuan-Sen Lin, Rong Yu, Qimiao Si
+- **arXiv链接**：[http://arxiv.org/abs/2607.15228v1](http://arxiv.org/abs/2607.15228v1)
+
+### 摘要
+The recent discovery of high-temperature superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$ has led to extensive interest in the correlation physics of its normal state. Given that the superconducitivity develops near a density wave order in the phase diagram, it is important to elucidate the nature of this order. Based on the accumulated experimental evidence for a bad metal state in proximity to an orbital-selective Mott phase, here we describe magnetic correlations of the system in a conceptually new way -- in terms of effective local moments experiencing a combination of RKKY and superexchange interactions. This gives rise to a magnetic order with a wavevector that is close to $\mathbf{Q}=(π/2,π/2)$ and, at the same time, yields a clear understanding of the associated spin dynamics. Our results are consistent with the rapidly emerging experiments about the magnetic correlations in the density wave order of the bilayer nickelate. Implications for unconventional superconductivity in this and related multiorbital systems are discussed.
+
+---
+
+## 2. The Sample Pre-selection and Characterization Station at the SECUF: Instrumentation, Capabilities, and Representative Scientific Achievements
 
 - **提交日期**：2026-07-15
 - **作者**：Xu Chen, Tao Sun, Huifen Ren, Minjie Cui, Jun Luo, Shuai Zhang, Shaokui Su
@@ -21,7 +32,7 @@ The Synergetic Extreme Condition User Facility (SECUF) is a comprehensive, state
 
 ---
 
-## 2. Emergent $s+id$ Superconductivity from the Interplay between Electronic Correlations and Electron-Phonon Coupling in $\mathrm{R}\_{1-x}\mathrm{Sr}\_x\mathrm{NiO}\_2$
+## 3. Emergent $s+id$ Superconductivity from the Interplay between Electronic Correlations and Electron-Phonon Coupling in $\mathrm{R}\_{1-x}\mathrm{Sr}\_x\mathrm{NiO}\_2$
 
 - **提交日期**：2026-07-14
 - **作者**：Zi Yuan, Jun Zhan, Xianxin Wu, Shaozhi Li
@@ -32,7 +43,7 @@ Recent tunneling measurements on infinite-layer nickelates have revealed spatial
 
 ---
 
-## 3. Soft point-contact Andreev reflection spectroscopy in a palm-type cubic anvil-pressure cell
+## 4. Soft point-contact Andreev reflection spectroscopy in a palm-type cubic anvil-pressure cell
 
 - **提交日期**：2026-07-12
 - **作者**：Qingxin Dong, Fengrui Shi, Yan Zhang, Tong Shi, Yi Liu, Shaoheng Ruan, Zhongjin Wu, Jianping Sun, Zhaoming Tian, Yoshiya Uwatoko, Guanghan Cao, Xin Lu, Bosen Wang, Jin-Guang Cheng
@@ -43,7 +54,7 @@ We have implemented soft point-contact Andreev reflection spectroscopy (PCARS) i
 
 ---
 
-## 4. Superconducting dome and field-enhanced superconductivity of PLD synthesized Nd1-xEuxNiO2 thin films
+## 5. Superconducting dome and field-enhanced superconductivity of PLD synthesized Nd1-xEuxNiO2 thin films
 
 - **提交日期**：2026-07-11
 - **作者**：Wenlong Yang, Qiang Zhao, Xingke Fu, Gaofei Ren, Zhongjing Wu, Zhen Chen, Jianping Sun, Boseng Wang, Jiacai Nie, Pengtao Yang, Jinguang Cheng
@@ -54,7 +65,7 @@ We report on the synthesis of infinite-layer Nd1-xEuxNiO2 (0<x<0.7) thin films u
 
 ---
 
-## 5. Heterostructuring as Gateway to Electron Doping of Nickelate Superconductors
+## 6. Heterostructuring as Gateway to Electron Doping of Nickelate Superconductors
 
 - **提交日期**：2026-07-09
 - **作者**：Chao Deng, Motoharu Kitatani, Guiwen Jiang, Siqi Guo, Niklas Witt, Ao Zhang, Wenfeng Wu, Mi Jiang, Karsten Held, Liang Si
@@ -65,7 +76,7 @@ Despite enormous expenditures in the research field, the electron-doped side of 
 
 ---
 
-## 6. Layer-resolved Electronic Structure and Correlation of Low-$n$ Square-planar Nickelates: A DFT+DMFT Prediction of Superconducting Candidates
+## 7. Layer-resolved Electronic Structure and Correlation of Low-$n$ Square-planar Nickelates: A DFT+DMFT Prediction of Superconducting Candidates
 
 - **提交日期**：2026-07-09
 - **作者**：Jian-Hong She, Rong-Qiang He, Zhong-Yi Lu
@@ -76,7 +87,7 @@ Multi-layer square-planar nickelates provide a rare platform in which the nomina
 
 ---
 
-## 7. Hall Coefficient Sign Reversal Driven by Orbital-Selective Oxygen-Vacancy Scattering in Nickelate Films
+## 8. Hall Coefficient Sign Reversal Driven by Orbital-Selective Oxygen-Vacancy Scattering in Nickelate Films
 
 - **提交日期**：2026-07-05
 - **作者**：Jian-Jian Miao, Yue Liu, Yue Zhao, Yichen Hua, Changming Yue, Wei-Qiang Chen
@@ -87,7 +98,7 @@ Hall measurements in superconducting bilayer nickelate films show sign reversals
 
 ---
 
-## 8. Pressure-Driven Structural Transitions without a Displacive Charge-Density Wave in La${}\_2$SmNi${}\_2$O${}\_7$
+## 9. Pressure-Driven Structural Transitions without a Displacive Charge-Density Wave in La${}\_2$SmNi${}\_2$O${}\_7$
 
 - **提交日期**：2026-07-03
 - **作者**：J. Huang, Sitaram Ramakrishnan, P. Rodière, P. Toulemonde, Z. Rahmany, V. Balédent, B. Vignolle, Sourav Marik, P. Fertey, P. Foury-Leylekian
@@ -98,7 +109,7 @@ We investigated the structural properties of bilayer nickelate La${}\_2$SmNi${}\
 
 ---
 
-## 9. Electronic theory for scanning tunneling microscopy spectra in bilayer nickelate thin films
+## 10. Electronic theory for scanning tunneling microscopy spectra in bilayer nickelate thin films
 
 - **提交日期**：2026-06-30
 - **作者**：Marius Scholten, Steffen Bötzel, Frank Lechermann, Peayush Choubey, Ilya M. Eremin
@@ -109,7 +120,7 @@ Recent Scanning Tunneling Microscopy (STM) experiments measuring the superconduc
 
 ---
 
-## 10. Density waves in low-pressure bilayer nickelates
+## 11. Density waves in low-pressure bilayer nickelates
 
 - **提交日期**：2026-06-28
 - **作者**：Lauro B. Braz, Steffen Bötzel, Frank Lechermann, Igor Plokhikh, Rustem Khasanov, Luis G. G. V. Dias da Silva, Ilya M. Eremin
@@ -120,7 +131,7 @@ The low-pressure phase diagram of La${}\_3$Ni${}\_2$O${}\_7$ provides an importa
 
 ---
 
-## 11. Anomalous Behavior of the Ni$^{1+}$ moment and interstitial band in bi-infinite-layered La${}\_3$Ni${}\_2$O${}\_5$F
+## 12. Anomalous Behavior of the Ni$^{1+}$ moment and interstitial band in bi-infinite-layered La${}\_3$Ni${}\_2$O${}\_5$F
 
 - **提交日期**：2026-06-27
 - **作者**：Young-Joon Song, W. E. Pickett, K. -W. Lee
@@ -131,7 +142,7 @@ The discovery of superconductivity in hole-doped Ni$^{1+}$ systems with "infinit
 
 ---
 
-## 12. High temperature transitions in Ruddlesden-Popper nickelates La${}\_{n+1}$Ni${}\_{n}$O${}\_{3n+1}$
+## 13. High temperature transitions in Ruddlesden-Popper nickelates La${}\_{n+1}$Ni${}\_{n}$O${}\_{3n+1}$
 
 - **提交日期**：2026-06-25
 - **作者**：P. Reiss, A. Shevchenko, P. S. Lizama, J. Nuss, R. Dinnebier, P. A. van Aken, M. Hepting, M. Isobe, Y. E. Suyolcu, H. Takagi, B. Keimer, P. Puphal
@@ -142,7 +153,7 @@ The discovery of superconductivity at $15\,\mathrm{K}$ in the infinite-layer nic
 
 ---
 
-## 13. Density-wave order enhances the phonon thermal Hall effect in a trilayer nickelate
+## 14. Density-wave order enhances the phonon thermal Hall effect in a trilayer nickelate
 
 - **提交日期**：2026-06-23
 - **作者**：Qiaochao Xiang, Enkang Zhang, Xiaokang Li, Xiaodong Guo, Mengfei Zhu, Jun Zhao, Guang-Ming Zhang, Liang Li, Zengwei Zhu
@@ -153,7 +164,7 @@ Ruddlesden--Popper nickelates have emerged as a promising platform for high-temp
 
 ---
 
-## 14. Structural symmetry effects on the competition of density waves and superconductivity in bilayer nickelates
+## 15. Structural symmetry effects on the competition of density waves and superconductivity in bilayer nickelates
 
 - **提交日期**：2026-06-22
 - **作者**：Steffen Bötzel, Aiman Al-Eryani, Jun Zhan, Xianxin Wu, Frank Lechermann, Michael M. Scherer, Ilya M. Eremin
@@ -164,7 +175,7 @@ We investigate the interplay between spin-density-wave (SDW) order and supercond
 
 ---
 
-## 15. Persistent structural distortions and absent superconductivity in trilayer nickelate thin films
+## 16. Persistent structural distortions and absent superconductivity in trilayer nickelate thin films
 
 - **提交日期**：2026-06-18
 - **作者**：Abigail Y. Jiang, Maria Bambrick-Santoyo, Lopa Bhatt, Kyeong-Yoon Baek, Yi-Feng Zhao, Dan Ferenc Segedin, Ari B. Turkiewicz, Jenna Hatmin, Grace A. Pan, Suchismita Sarker, Donald A. Walko, Charles M. Brooks, David A. Muller, Berit H. Goodge, Hua Zhou, Antia S. Botana, Julia A. Mundy
@@ -175,7 +186,7 @@ A new family of high-temperature superconductors was recently discovered in the 
 
 ---
 
-## 16. Counterintuitive inverse superconducting transition beyond 4He-cooling limit
+## 17. Counterintuitive inverse superconducting transition beyond 4He-cooling limit
 
 - **提交日期**：2026-06-17
 - **作者**：Haowen Han, Yi Bian, Tong Ma, Yusong Zhao, Nuofu Chen, Chuanying Xi, Ze Wang, Binghui Ge, Hongliang Dong, Jia-Cai Nie, Ho-Kwang Mao, Jikun Chen
