@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-17 至 2026-07-17**
-> 数据检索到 **17** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-18 至 2026-07-18**
+> 数据检索到 **16** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -183,17 +183,6 @@ We investigate the interplay between spin-density-wave (SDW) order and supercond
 
 ### 摘要
 A new family of high-temperature superconductors was recently discovered in the $n=2,3$ Ruddlesden-Popper nickelates, where superconductivity emerges concomitant with suppression of parent density waves and structural octahedral rotations under hydrostatic pressure. Intriguingly, compressive strain mimics the structural effects of pressure in the $n=2$ phase, yielding ambient-pressure superconductivity. However, analogous strain-stabilized superconductivity has not been realized in the $n=3$. Here, we use atomically-precise synthesis, transport, picoscale electron microscopy, and synchrotron X-ray diffraction to probe $n=3$ La${}\_4$Ni${}\_3$O${}\_{10}$ thin films. Although compressive strain suppresses density wave order, we do not observe superconductivity even under the largest strain state. Importantly, we identify a structural distortion unique to strained $n=3$ thin films that may inhibit superconductivity: persistent, layer-inequivalent octahedral rotations around the $c$-axis. Our results highlight key differences between the $n=3$ and $n=2$ systems, suggesting that ambient-pressure superconductivity in the $n=3$ may require new methods beyond epitaxial strain engineering.
-
----
-
-## 17. Counterintuitive inverse superconducting transition beyond 4He-cooling limit
-
-- **提交日期**：2026-06-17
-- **作者**：Haowen Han, Yi Bian, Tong Ma, Yusong Zhao, Nuofu Chen, Chuanying Xi, Ze Wang, Binghui Ge, Hongliang Dong, Jia-Cai Nie, Ho-Kwang Mao, Jikun Chen
-- **arXiv链接**：[http://arxiv.org/abs/2606.18683v1](http://arxiv.org/abs/2606.18683v1)
-
-### 摘要
-Thermally driven quantum-orders observed in exceptional instances may redefine the role of thermal-fluctuation from a source of decoherence to a resource for coherent-state engineering. While preliminary signs of counterintuitive temperature-rise-triggered superconductivity manifested in CeCu2Si2, ErRh4B4, Ho1.2Mo6S8 and (La,Ce)Al2, their critical-temperatures (Tc-inv) remain below Kelvin-range, precluding substantial applications. Here, we report field-modulated inverse-superconducting-transitions above 4He-cooling-limit in Eu-based infinite-layer nickelates (EuxNd1-xNiO2 and EuxPr1-xNiO2) grown on a substrate under both overdoped and underdoped regimes. Paradigmatically, superconductivity with zero-resistance is confined between Tc-inv (2.6-5.4 K) and another higher normal-Tc, rising and decreasing with applied magnetic-field, respectively. Starting from the resistive-state below Tc-inv, the inverse-superconducting-transition is driven by not only temperature-rising, but also current-density, while superconductivity further vanishes at higher temperature and current thresholds. The Kelvin-range inverse superconducting transition is plausibly explained by temperature-induced alternating dominance of effective magnetic-fields arising from Eu2+4f7 related compensations relative to the upper-critical-field. Furthermore, an extended-phenomenological-framework is also supported by reemerged superconductivity below 300 mK under magnetic-field, giving rise to an unprecedented temperature-induced reentrant superconductivity. Our findings establish magnetic-interaction-reconfigured high-Tc systems as fertile platforms for exploring quantum phenomena that reverse thermal-decoherence paradigm, also enabling antithetical-designs to unlock untapped application-scenarios for quantum-phase-transition devices.
 
 ---
 
