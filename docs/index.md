@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-18 至 2026-07-18**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-19 至 2026-07-19**
+> 数据检索到 **15** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -172,17 +172,6 @@ Ruddlesden--Popper nickelates have emerged as a promising platform for high-temp
 
 ### 摘要
 We investigate the interplay between spin-density-wave (SDW) order and superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$ using the functional renormalization group~(fRG) applied to multiorbital weak-coupling models of both the ambient- and high-pressure crystal structures. As Hund's coupling increases, the leading instability evolves from superconductivity to an SDW state with ordering vector $\mathbf{Q}\_1 \approx (π/2,π/2)$ (equivalently $\mathbf{Q}\_Y \approx (0,π)$ in the orthorhombic $Amam$ unit cell), in agreement with experimental observations. Surprisingly, the ambient- and high-pressure structures exhibit nearly identical non-interacting susceptibilities and leading fRG instabilities, indicating that the emergence of superconductivity under pressure cannot be explained solely by changes in the low-energy electronic structure. Instead, our results identify the suppression of orthorhombicity as a key ingredient for superconductivity. As the system approaches the tetragonal limit, symmetry-related SDW fluctuations become nearly degenerate, frustrating long-range magnetic order while enhancing pairing interactions. These findings highlight lattice symmetry as a central tuning parameter of the competing ordered states in bilayer nickelates and suggest that reducing orthorhombicity through uniaxial strain could stabilize bulk superconductivity already at ambient pressure.
-
----
-
-## 16. Persistent structural distortions and absent superconductivity in trilayer nickelate thin films
-
-- **提交日期**：2026-06-18
-- **作者**：Abigail Y. Jiang, Maria Bambrick-Santoyo, Lopa Bhatt, Kyeong-Yoon Baek, Yi-Feng Zhao, Dan Ferenc Segedin, Ari B. Turkiewicz, Jenna Hatmin, Grace A. Pan, Suchismita Sarker, Donald A. Walko, Charles M. Brooks, David A. Muller, Berit H. Goodge, Hua Zhou, Antia S. Botana, Julia A. Mundy
-- **arXiv链接**：[http://arxiv.org/abs/2606.20941v1](http://arxiv.org/abs/2606.20941v1)
-
-### 摘要
-A new family of high-temperature superconductors was recently discovered in the $n=2,3$ Ruddlesden-Popper nickelates, where superconductivity emerges concomitant with suppression of parent density waves and structural octahedral rotations under hydrostatic pressure. Intriguingly, compressive strain mimics the structural effects of pressure in the $n=2$ phase, yielding ambient-pressure superconductivity. However, analogous strain-stabilized superconductivity has not been realized in the $n=3$. Here, we use atomically-precise synthesis, transport, picoscale electron microscopy, and synchrotron X-ray diffraction to probe $n=3$ La${}\_4$Ni${}\_3$O${}\_{10}$ thin films. Although compressive strain suppresses density wave order, we do not observe superconductivity even under the largest strain state. Importantly, we identify a structural distortion unique to strained $n=3$ thin films that may inhibit superconductivity: persistent, layer-inequivalent octahedral rotations around the $c$-axis. Our results highlight key differences between the $n=3$ and $n=2$ systems, suggesting that ambient-pressure superconductivity in the $n=3$ may require new methods beyond epitaxial strain engineering.
 
 ---
 
