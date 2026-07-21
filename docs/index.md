@@ -5,12 +5,45 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-20 至 2026-07-20**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-21 至 2026-07-21**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Magnetic Order in bilayer Ruddlesden-Popper Nickelates
+## 1. Symmetry-Based Microscopic Theory of the Unconventional Pairing Mechanism in La${}\_5$Ni${}\_3$O${}\_{11}$
+
+- **提交日期**：2026-07-20
+- **作者**：Guan-Hao Feng, Jun Quan
+- **arXiv链接**：[http://arxiv.org/abs/2607.18094v1](http://arxiv.org/abs/2607.18094v1)
+
+### 摘要
+Recent experiments report high-temperature superconductivity in the hybrid nickelate $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$, which is composed of alternating stacks of bilayer $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$ and monolayer $\mathrm{La}\_2\mathrm{NiO}\_4$. However, the superconducting transition temperature $T\_c \approx 64~\mathrm{K}$ for $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$ is remarkably lower than the $80~\mathrm{K}$ observed for pressurized $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$. Thus, an unified microscopic theory is required to address the difference in the pairing mechanisms between these systems. Here, we develop a phenomenological symmetry-based approach to systematically analyze the low-energy physics in $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$, which is obtained by a charge self-consistent density functional theory plus dynamical mean-field theory method. We show that the superconductivity in $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$ exhibits a two-gap nature, consisting of a leading interlayer pairing between the $d\_{z^2}$ orbitals and a subleading intralayer pairing between the $d\_{x^2-y^2}$ orbitals. The reduction of $T\_c$ can be attributed to the diminished contribution of the interlayer pairing, as reflected by the hopping parameter ratio $|t\_{\perp}^z/t\_{\parallel}^{x}|$. Base on this unified picture, we discuss the possible pairing mechanism and the role of $γ$ pocket for the superconductivity in the bilayer NiO${}\_2$ planes of nickelate superconductors.
+
+---
+
+## 2. Marginal-Fermi-Liquid-like Behavior without Pseudogap in Infinite-Layer Nickelates
+
+- **提交日期**：2026-07-18
+- **作者**：Yu Fan, Zhitong An, Xiang Ding, Xingtian Sun, Yutong Chen, Zhihui Chen, Shenglin Tang, Chihao Li, Jiahao Ye, Timur Kim, Haichao Xu, Rui Peng, Donglai Feng
+- **arXiv链接**：[http://arxiv.org/abs/2607.16852v1](http://arxiv.org/abs/2607.16852v1)
+
+### 摘要
+Pseudogap formation, strange-metal behavior and unconventional superconductivity are closely intertwined in hole-doped cuprates, yet their relationship remains unresolved. Infinite-layer nickelates offer a distinct 3d9-derived platform to address this question by combining a cuprate-like Ni dx2-y2 Fermi surface with multiband electronic degrees of freedom. Here we use angle-resolved photoemission spectroscopy to resolve the low-energy spectral function of superconducting La0.8Ca0.2NiO2 and parent LaNiO2 thin films. In La0.8Ca0.2NiO2, the electronic self-energy Im Sigma(omega) is approximately linear in energy and its slope increases from (pi/2, pi/2) to (pi, 0), revealing momentum-dependent marginal-Fermi-liquid-like scattering. Both films show a progressive suppression of low-energy spectral weight from the diagonal direction toward (pi, 0), with stronger suppression in parent LaNiO2. However, finite Fermi-level spectral weight persists around the entire Fermi surface, with no leading-edge shift or back-bending indicative of pseudogap formation in either the electron pocket or the cuprate-like hole band. Our results demonstrate that momentum-selective correlations and marginal-Fermi-liquid-like scattering can occur without a detectable cuprate-like pseudogap, providing a benchmark for identifying the essential normal-state electronic ingredients of high-temperature superconductivity.
+
+---
+
+## 3. A Disconnected Superconducting Regime at the Parent Limit of Infinite-Layer Nickelates
+
+- **提交日期**：2026-07-18
+- **作者**：Chihao Li, Yutong Chen, Yaolong Bian, Yihao Zhang, Jiahao Ye, Zhitong An, Xingtian Sun, Yu Fan, Zhihui Chen, Zhanze Wang, Jinglei Zhang, Haichao Xu, Rui Peng, Donglai Feng
+- **arXiv链接**：[http://arxiv.org/abs/2607.16684v1](http://arxiv.org/abs/2607.16684v1)
+
+### 摘要
+Infinite-layer nickelates have been widely viewed as cuprate analogs in which superconductivity emerges and forms a superconducting dome centered around 10-20% cation substitution. Here we show that pristine and stoichiometric PrNiO2, without cation substitution, exhibits intrinsic superconductivity characterized by zero resistance and diamagnetism in uncapped films. Through heterostructure engineering, we further exclude an interfacial origin of the superconductivity. Remarkably, zero-resistance superconductivity is consistently observed in trivalent-substituted PrNiO2, whereas it is rapidly suppressed by dilute divalent substitution. Combined with angle-resolved photoemission studies, these results indicate that such a new superconducting regime is confined to within 3% additional hole doping from pristine PrNiO2. Furthermore, this phase is separated from the previously established superconducting dome around ~ 20% divalent doping by a non-superconducting region in the phase diagram, and is further distinguished by a remarkably stronger upper-critical-field anisotropy. These findings establish a unique separated superconducting regime, suggesting that infinite-layer nickelates are not merely cuprate analogs but host distinct superconducting physics.
+
+---
+
+## 4. Magnetic Order in bilayer Ruddlesden-Popper Nickelates
 
 - **提交日期**：2026-07-16
 - **作者**：Yiming Wang, Guijing Duan, Zhiguang Liao, Kuan-Sen Lin, Rong Yu, Qimiao Si
@@ -21,7 +54,7 @@ The recent discovery of high-temperature superconductivity in the bilayer nickel
 
 ---
 
-## 2. The Sample Pre-selection and Characterization Station at the SECUF: Instrumentation, Capabilities, and Representative Scientific Achievements
+## 5. The Sample Pre-selection and Characterization Station at the SECUF: Instrumentation, Capabilities, and Representative Scientific Achievements
 
 - **提交日期**：2026-07-15
 - **作者**：Xu Chen, Tao Sun, Huifen Ren, Minjie Cui, Jun Luo, Shuai Zhang, Shaokui Su
@@ -32,7 +65,7 @@ The Synergetic Extreme Condition User Facility (SECUF) is a comprehensive, state
 
 ---
 
-## 3. Emergent $s+id$ Superconductivity from the Interplay between Electronic Correlations and Electron-Phonon Coupling in $\mathrm{R}\_{1-x}\mathrm{Sr}\_x\mathrm{NiO}\_2$
+## 6. Emergent $s+id$ Superconductivity from the Interplay between Electronic Correlations and Electron-Phonon Coupling in $\mathrm{R}\_{1-x}\mathrm{Sr}\_x\mathrm{NiO}\_2$
 
 - **提交日期**：2026-07-14
 - **作者**：Zi Yuan, Jun Zhan, Xianxin Wu, Shaozhi Li
@@ -43,7 +76,7 @@ Recent tunneling measurements on infinite-layer nickelates have revealed spatial
 
 ---
 
-## 4. Soft point-contact Andreev reflection spectroscopy in a palm-type cubic anvil-pressure cell
+## 7. Soft point-contact Andreev reflection spectroscopy in a palm-type cubic anvil-pressure cell
 
 - **提交日期**：2026-07-12
 - **作者**：Qingxin Dong, Fengrui Shi, Yan Zhang, Tong Shi, Yi Liu, Shaoheng Ruan, Zhongjin Wu, Jianping Sun, Zhaoming Tian, Yoshiya Uwatoko, Guanghan Cao, Xin Lu, Bosen Wang, Jin-Guang Cheng
@@ -54,7 +87,7 @@ We have implemented soft point-contact Andreev reflection spectroscopy (PCARS) i
 
 ---
 
-## 5. Superconducting dome and field-enhanced superconductivity of PLD synthesized Nd1-xEuxNiO2 thin films
+## 8. Superconducting dome and field-enhanced superconductivity of PLD synthesized Nd1-xEuxNiO2 thin films
 
 - **提交日期**：2026-07-11
 - **作者**：Wenlong Yang, Qiang Zhao, Xingke Fu, Gaofei Ren, Zhongjing Wu, Zhen Chen, Jianping Sun, Boseng Wang, Jiacai Nie, Pengtao Yang, Jinguang Cheng
@@ -65,7 +98,7 @@ We report on the synthesis of infinite-layer Nd1-xEuxNiO2 (0<x<0.7) thin films u
 
 ---
 
-## 6. Heterostructuring as Gateway to Electron Doping of Nickelate Superconductors
+## 9. Heterostructuring as Gateway to Electron Doping of Nickelate Superconductors
 
 - **提交日期**：2026-07-09
 - **作者**：Chao Deng, Motoharu Kitatani, Guiwen Jiang, Siqi Guo, Niklas Witt, Ao Zhang, Wenfeng Wu, Mi Jiang, Karsten Held, Liang Si
@@ -76,7 +109,7 @@ Despite enormous expenditures in the research field, the electron-doped side of 
 
 ---
 
-## 7. Layer-resolved Electronic Structure and Correlation of Low-$n$ Square-planar Nickelates: A DFT+DMFT Prediction of Superconducting Candidates
+## 10. Layer-resolved Electronic Structure and Correlation of Low-$n$ Square-planar Nickelates: A DFT+DMFT Prediction of Superconducting Candidates
 
 - **提交日期**：2026-07-09
 - **作者**：Jian-Hong She, Rong-Qiang He, Zhong-Yi Lu
@@ -87,7 +120,7 @@ Multi-layer square-planar nickelates provide a rare platform in which the nomina
 
 ---
 
-## 8. Hall Coefficient Sign Reversal Driven by Orbital-Selective Oxygen-Vacancy Scattering in Nickelate Films
+## 11. Hall Coefficient Sign Reversal Driven by Orbital-Selective Oxygen-Vacancy Scattering in Nickelate Films
 
 - **提交日期**：2026-07-05
 - **作者**：Jian-Jian Miao, Yue Liu, Yue Zhao, Yichen Hua, Changming Yue, Wei-Qiang Chen
@@ -98,7 +131,7 @@ Hall measurements in superconducting bilayer nickelate films show sign reversals
 
 ---
 
-## 9. Pressure-Driven Structural Transitions without a Displacive Charge-Density Wave in La${}\_2$SmNi${}\_2$O${}\_7$
+## 12. Pressure-Driven Structural Transitions without a Displacive Charge-Density Wave in La${}\_2$SmNi${}\_2$O${}\_7$
 
 - **提交日期**：2026-07-03
 - **作者**：J. Huang, Sitaram Ramakrishnan, P. Rodière, P. Toulemonde, Z. Rahmany, V. Balédent, B. Vignolle, Sourav Marik, P. Fertey, P. Foury-Leylekian
@@ -109,7 +142,7 @@ We investigated the structural properties of bilayer nickelate La${}\_2$SmNi${}\
 
 ---
 
-## 10. Electronic theory for scanning tunneling microscopy spectra in bilayer nickelate thin films
+## 13. Electronic theory for scanning tunneling microscopy spectra in bilayer nickelate thin films
 
 - **提交日期**：2026-06-30
 - **作者**：Marius Scholten, Steffen Bötzel, Frank Lechermann, Peayush Choubey, Ilya M. Eremin
@@ -120,7 +153,7 @@ Recent Scanning Tunneling Microscopy (STM) experiments measuring the superconduc
 
 ---
 
-## 11. Density waves in low-pressure bilayer nickelates
+## 14. Density waves in low-pressure bilayer nickelates
 
 - **提交日期**：2026-06-28
 - **作者**：Lauro B. Braz, Steffen Bötzel, Frank Lechermann, Igor Plokhikh, Rustem Khasanov, Luis G. G. V. Dias da Silva, Ilya M. Eremin
@@ -131,7 +164,7 @@ The low-pressure phase diagram of La${}\_3$Ni${}\_2$O${}\_7$ provides an importa
 
 ---
 
-## 12. Anomalous Behavior of the Ni$^{1+}$ moment and interstitial band in bi-infinite-layered La${}\_3$Ni${}\_2$O${}\_5$F
+## 15. Anomalous Behavior of the Ni$^{1+}$ moment and interstitial band in bi-infinite-layered La${}\_3$Ni${}\_2$O${}\_5$F
 
 - **提交日期**：2026-06-27
 - **作者**：Young-Joon Song, W. E. Pickett, K. -W. Lee
@@ -142,7 +175,7 @@ The discovery of superconductivity in hole-doped Ni$^{1+}$ systems with "infinit
 
 ---
 
-## 13. High temperature transitions in Ruddlesden-Popper nickelates La${}\_{n+1}$Ni${}\_{n}$O${}\_{3n+1}$
+## 16. High temperature transitions in Ruddlesden-Popper nickelates La${}\_{n+1}$Ni${}\_{n}$O${}\_{3n+1}$
 
 - **提交日期**：2026-06-25
 - **作者**：P. Reiss, A. Shevchenko, P. S. Lizama, J. Nuss, R. Dinnebier, P. A. van Aken, M. Hepting, M. Isobe, Y. E. Suyolcu, H. Takagi, B. Keimer, P. Puphal
@@ -153,7 +186,7 @@ The discovery of superconductivity at $15\,\mathrm{K}$ in the infinite-layer nic
 
 ---
 
-## 14. Density-wave order enhances the phonon thermal Hall effect in a trilayer nickelate
+## 17. Density-wave order enhances the phonon thermal Hall effect in a trilayer nickelate
 
 - **提交日期**：2026-06-23
 - **作者**：Qiaochao Xiang, Enkang Zhang, Xiaokang Li, Xiaodong Guo, Mengfei Zhu, Jun Zhao, Guang-Ming Zhang, Liang Li, Zengwei Zhu
@@ -164,7 +197,7 @@ Ruddlesden--Popper nickelates have emerged as a promising platform for high-temp
 
 ---
 
-## 15. Structural symmetry effects on the competition of density waves and superconductivity in bilayer nickelates
+## 18. Structural symmetry effects on the competition of density waves and superconductivity in bilayer nickelates
 
 - **提交日期**：2026-06-22
 - **作者**：Steffen Bötzel, Aiman Al-Eryani, Jun Zhan, Xianxin Wu, Frank Lechermann, Michael M. Scherer, Ilya M. Eremin
