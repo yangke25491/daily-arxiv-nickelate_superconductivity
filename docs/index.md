@@ -5,7 +5,7 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-21 至 2026-07-21**
+> 检索时间范围：**2026-06-22 至 2026-07-22**
 > 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
@@ -14,7 +14,7 @@ title: 镍酸盐超导论文
 
 - **提交日期**：2026-07-20
 - **作者**：Guan-Hao Feng, Jun Quan
-- **arXiv链接**：[http://arxiv.org/abs/2607.18094v1](http://arxiv.org/abs/2607.18094v1)
+- **arXiv链接**：[http://arxiv.org/abs/2607.18094v2](http://arxiv.org/abs/2607.18094v2)
 
 ### 摘要
 Recent experiments report high-temperature superconductivity in the hybrid nickelate $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$, which is composed of alternating stacks of bilayer $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$ and monolayer $\mathrm{La}\_2\mathrm{NiO}\_4$. However, the superconducting transition temperature $T\_c \approx 64~\mathrm{K}$ for $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$ is remarkably lower than the $80~\mathrm{K}$ observed for pressurized $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$. Thus, an unified microscopic theory is required to address the difference in the pairing mechanisms between these systems. Here, we develop a phenomenological symmetry-based approach to systematically analyze the low-energy physics in $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$, which is obtained by a charge self-consistent density functional theory plus dynamical mean-field theory method. We show that the superconductivity in $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$ exhibits a two-gap nature, consisting of a leading interlayer pairing between the $d\_{z^2}$ orbitals and a subleading intralayer pairing between the $d\_{x^2-y^2}$ orbitals. The reduction of $T\_c$ can be attributed to the diminished contribution of the interlayer pairing, as reflected by the hopping parameter ratio $|t\_{\perp}^z/t\_{\parallel}^{x}|$. Base on this unified picture, we discuss the possible pairing mechanism and the role of $γ$ pocket for the superconductivity in the bilayer NiO${}\_2$ planes of nickelate superconductors.
