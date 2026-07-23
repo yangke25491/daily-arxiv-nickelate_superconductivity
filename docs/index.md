@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-22 至 2026-07-22**
-> 数据检索到 **18** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-23 至 2026-07-23**
+> 数据检索到 **17** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -194,17 +194,6 @@ The discovery of superconductivity at $15\,\mathrm{K}$ in the infinite-layer nic
 
 ### 摘要
 Ruddlesden--Popper nickelates have emerged as a promising platform for high-temperature superconductivity, yet the role of lattice degrees of freedom in their correlated normal state remains largely unexplored. Here, we report the observation of a finite phonon thermal Hall effect in the trilayer nickelate La${}\_4$Ni${}\_3$O${}\_{10}$ at ambient pressure. Remarkably, the thermal Hall response is strongly enhanced below the density-wave transition at $T^\*\approx140$ K, exhibiting two distinct plateaus in the thermal Hall resistivity. The characteristic energy scale extracted from the thermal Hall response ($\sim4.1$ meV) closely matches the magnon--phonon crossing span energy ($\sim3.2$ meV), pointing to magnon--phonon hybridization as the primary mechanism enhancing the thermal Hall effect. These results provide new insight into the interplay between lattice and spin excitations in nickelates, with implications for understanding both their superconductivity and the multiple possible origins of insulating thermal Hall signals.
-
----
-
-## 18. Structural symmetry effects on the competition of density waves and superconductivity in bilayer nickelates
-
-- **提交日期**：2026-06-22
-- **作者**：Steffen Bötzel, Aiman Al-Eryani, Jun Zhan, Xianxin Wu, Frank Lechermann, Michael M. Scherer, Ilya M. Eremin
-- **arXiv链接**：[http://arxiv.org/abs/2606.23022v1](http://arxiv.org/abs/2606.23022v1)
-
-### 摘要
-We investigate the interplay between spin-density-wave (SDW) order and superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$ using the functional renormalization group~(fRG) applied to multiorbital weak-coupling models of both the ambient- and high-pressure crystal structures. As Hund's coupling increases, the leading instability evolves from superconductivity to an SDW state with ordering vector $\mathbf{Q}\_1 \approx (π/2,π/2)$ (equivalently $\mathbf{Q}\_Y \approx (0,π)$ in the orthorhombic $Amam$ unit cell), in agreement with experimental observations. Surprisingly, the ambient- and high-pressure structures exhibit nearly identical non-interacting susceptibilities and leading fRG instabilities, indicating that the emergence of superconductivity under pressure cannot be explained solely by changes in the low-energy electronic structure. Instead, our results identify the suppression of orthorhombicity as a key ingredient for superconductivity. As the system approaches the tetragonal limit, symmetry-related SDW fluctuations become nearly degenerate, frustrating long-range magnetic order while enhancing pairing interactions. These findings highlight lattice symmetry as a central tuning parameter of the competing ordered states in bilayer nickelates and suggest that reducing orthorhombicity through uniaxial strain could stabilize bulk superconductivity already at ambient pressure.
 
 ---
 
