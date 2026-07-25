@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-23 至 2026-07-23**
-> 数据检索到 **17** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-25 至 2026-07-25**
+> 数据检索到 **16** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -183,17 +183,6 @@ The discovery of superconductivity in hole-doped Ni$^{1+}$ systems with "infinit
 
 ### 摘要
 The discovery of superconductivity at $15\,\mathrm{K}$ in the infinite-layer nickelate $(\mathrm{Nd},\mathrm{Sr})\mathrm{NiO}\_2$, followed by superconductivity at $80\,\mathrm{K}$ in the Ruddlesden--Popper phase $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$, has ushered in a new era of nickelate research. Despite this progress, large discrepancies between reports exist. Here, we investigate the complete series of bulk-stable $\mathrm{La}\_{n+1}\mathrm{Ni}\_n\mathrm{O}\_{3n+1}$ compounds using a comprehensive set of experimental techniques, including PXRD, single-crystal XRD, electron microscopy, heat capacity, differential scanning calorimetry, magnetic susceptibility, and transport measurements, over a broad temperature range from $2$ to $1000\,\mathrm{K}$. By studying high-quality single crystals, we identify a previously underappreciated high-temperature phase transition in Ruddlesden--Popper nickelates $\mathrm{La}\_{n+1}\mathrm{Ni}\_n\mathrm{O}\_{3n+1}$ distinct from the one going to a tetragonal phase.
-
----
-
-## 17. Density-wave order enhances the phonon thermal Hall effect in a trilayer nickelate
-
-- **提交日期**：2026-06-23
-- **作者**：Qiaochao Xiang, Enkang Zhang, Xiaokang Li, Xiaodong Guo, Mengfei Zhu, Jun Zhao, Guang-Ming Zhang, Liang Li, Zengwei Zhu
-- **arXiv链接**：[http://arxiv.org/abs/2606.24125v1](http://arxiv.org/abs/2606.24125v1)
-
-### 摘要
-Ruddlesden--Popper nickelates have emerged as a promising platform for high-temperature superconductivity, yet the role of lattice degrees of freedom in their correlated normal state remains largely unexplored. Here, we report the observation of a finite phonon thermal Hall effect in the trilayer nickelate La${}\_4$Ni${}\_3$O${}\_{10}$ at ambient pressure. Remarkably, the thermal Hall response is strongly enhanced below the density-wave transition at $T^\*\approx140$ K, exhibiting two distinct plateaus in the thermal Hall resistivity. The characteristic energy scale extracted from the thermal Hall response ($\sim4.1$ meV) closely matches the magnon--phonon crossing span energy ($\sim3.2$ meV), pointing to magnon--phonon hybridization as the primary mechanism enhancing the thermal Hall effect. These results provide new insight into the interplay between lattice and spin excitations in nickelates, with implications for understanding both their superconductivity and the multiple possible origins of insulating thermal Hall signals.
 
 ---
 
