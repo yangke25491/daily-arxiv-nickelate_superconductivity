@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-25 至 2026-07-25**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-26 至 2026-07-26**
+> 数据检索到 **15** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -172,17 +172,6 @@ The low-pressure phase diagram of La${}\_3$Ni${}\_2$O${}\_7$ provides an importa
 
 ### 摘要
 The discovery of superconductivity in hole-doped Ni$^{1+}$ systems with "infinite layer" NiO${}\_2$ square-lattices analogous to the Cu$^{2+}$ CaCuO${}\_2$ cuprate has renewed conflicting pictures of the Cu$^{2+}$$-$Ni$^{1+}$ similarity or distinction. Recent synthesis of formal Ni$^{1+}$ La${}\_3$Ni${}\_{2}$O${}\_{5}$F with two infinite NiO${}\_{2}$ layers per cell provides a novel member of this class. First principles density functional theory studies reveal an interstitial density derived single band $E^\*$ in three layers unrelated to any atom, which provides self-doping to a Ni$^{1.09+}$ ion.The blocking La(O/F)La provides isolation of the NiO${}\_2$ bilayer and an interstitial $E^\*$ density to strictly two-dimensional electronic and magnetic systems. Calculations of magnetic tendencies reveals behavior unlike previous nickelates, including vanishing susceptibility up to a large magnetic field. Two dimensional fluctuations and self-doping away from half-filling can account for the lack of observation of a magnetic transition.
-
----
-
-## 16. High temperature transitions in Ruddlesden-Popper nickelates La${}\_{n+1}$Ni${}\_{n}$O${}\_{3n+1}$
-
-- **提交日期**：2026-06-25
-- **作者**：P. Reiss, A. Shevchenko, P. S. Lizama, J. Nuss, R. Dinnebier, P. A. van Aken, M. Hepting, M. Isobe, Y. E. Suyolcu, H. Takagi, B. Keimer, P. Puphal
-- **arXiv链接**：[http://arxiv.org/abs/2606.27040v1](http://arxiv.org/abs/2606.27040v1)
-
-### 摘要
-The discovery of superconductivity at $15\,\mathrm{K}$ in the infinite-layer nickelate $(\mathrm{Nd},\mathrm{Sr})\mathrm{NiO}\_2$, followed by superconductivity at $80\,\mathrm{K}$ in the Ruddlesden--Popper phase $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$, has ushered in a new era of nickelate research. Despite this progress, large discrepancies between reports exist. Here, we investigate the complete series of bulk-stable $\mathrm{La}\_{n+1}\mathrm{Ni}\_n\mathrm{O}\_{3n+1}$ compounds using a comprehensive set of experimental techniques, including PXRD, single-crystal XRD, electron microscopy, heat capacity, differential scanning calorimetry, magnetic susceptibility, and transport measurements, over a broad temperature range from $2$ to $1000\,\mathrm{K}$. By studying high-quality single crystals, we identify a previously underappreciated high-temperature phase transition in Ruddlesden--Popper nickelates $\mathrm{La}\_{n+1}\mathrm{Ni}\_n\mathrm{O}\_{3n+1}$ distinct from the one going to a tetragonal phase.
 
 ---
 
