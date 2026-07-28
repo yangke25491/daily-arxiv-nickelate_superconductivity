@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-26 至 2026-07-26**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-28 至 2026-07-28**
+> 数据检索到 **14** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -161,17 +161,6 @@ Recent Scanning Tunneling Microscopy (STM) experiments measuring the superconduc
 
 ### 摘要
 The low-pressure phase diagram of La${}\_3$Ni${}\_2$O${}\_7$ provides an important reference for understanding its pressure-induced high-temperature superconductivity. While the spin-density-wave transition at $T\_{\text{SDW}}\approx150$ K is increasingly well established, the origin of the second density-wave transition at $T\_{\text{DW}}\approx130$ K has remained unresolved. Here, we perform unrestricted Hartree-Fock calculations to investigate the potential origin of the second transition. \{Within the orthorhombic phase, the degeneracy between possible ordering wavevectors at $\boldsymbol{Q}\_{Y}=(0,π)$ and at $\boldsymbol{Q}\_{X}=(π,0)$ is lifted and the electronic system\} develops a double-stripe spin-density wave with ordering vector $\boldsymbol{Q}\_{Y}=(0,π)$. We identify that the pure double stripe spin state is unstable in La${}\_3$Ni${}\_2$O${}\_7$ towards a commensurate charge-density wave instability, which favors a spin-modulated double stripe order with intertwined charge and spin instabilities and establish the hierarchy of ordered states in La${}\_3$Ni${}\_2$O${}\_7$, providing an important link between its ambient-pressure and superconducting high-pressure phases. We further discuss our results in the context of available experimental literature and propose further experimental tests to elucidate the origin of the SDW/DW states in this system.
-
----
-
-## 15. Anomalous Behavior of the Ni$^{1+}$ moment and interstitial band in bi-infinite-layered La${}\_3$Ni${}\_2$O${}\_5$F
-
-- **提交日期**：2026-06-27
-- **作者**：Young-Joon Song, W. E. Pickett, K. -W. Lee
-- **arXiv链接**：[http://arxiv.org/abs/2606.28735v1](http://arxiv.org/abs/2606.28735v1)
-
-### 摘要
-The discovery of superconductivity in hole-doped Ni$^{1+}$ systems with "infinite layer" NiO${}\_2$ square-lattices analogous to the Cu$^{2+}$ CaCuO${}\_2$ cuprate has renewed conflicting pictures of the Cu$^{2+}$$-$Ni$^{1+}$ similarity or distinction. Recent synthesis of formal Ni$^{1+}$ La${}\_3$Ni${}\_{2}$O${}\_{5}$F with two infinite NiO${}\_{2}$ layers per cell provides a novel member of this class. First principles density functional theory studies reveal an interstitial density derived single band $E^\*$ in three layers unrelated to any atom, which provides self-doping to a Ni$^{1.09+}$ ion.The blocking La(O/F)La provides isolation of the NiO${}\_2$ bilayer and an interstitial $E^\*$ density to strictly two-dimensional electronic and magnetic systems. Calculations of magnetic tendencies reveals behavior unlike previous nickelates, including vanishing susceptibility up to a large magnetic field. Two dimensional fluctuations and self-doping away from half-filling can account for the lack of observation of a magnetic transition.
 
 ---
 
