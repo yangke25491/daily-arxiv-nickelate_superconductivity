@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-06-28 至 2026-07-28**
-> 数据检索到 **14** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-29 至 2026-07-29**
+> 数据检索到 **13** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -150,17 +150,6 @@ We investigated the structural properties of bilayer nickelate La${}\_2$SmNi${}\
 
 ### 摘要
 Recent Scanning Tunneling Microscopy (STM) experiments measuring the superconducting gap features in thin films of superconducting bilayer nickelates La2PrNi2O7 at ambient pressure and compressive strain paved the way to study the Cooper-pairing models and the band-selective identification of the gap features in these systems. Here, using the realistic two-orbital bilayer model and the continuum Green's function formalism, we theoretically analyze orbital and band-selective local density of states as well as the corresponding STM spectra. We find that the multiorbital character and the spatial dependence of the Wannier functions leads to the spectra developing characteristic features depending on the position of the scanning tunneling microscope's tip. This allows for a band-resolved analysis of the superconducting coherence peaks and scattering momenta. We identify a clear path for experimental measurements to not only identify the debated incipiency of the gamma-band, but also identification of the coherence peaks' band origins via distance dependent measurements of the local density of states and its corrections through impurity scattering.
-
----
-
-## 14. Density waves in low-pressure bilayer nickelates
-
-- **提交日期**：2026-06-28
-- **作者**：Lauro B. Braz, Steffen Bötzel, Frank Lechermann, Igor Plokhikh, Rustem Khasanov, Luis G. G. V. Dias da Silva, Ilya M. Eremin
-- **arXiv链接**：[http://arxiv.org/abs/2606.29527v1](http://arxiv.org/abs/2606.29527v1)
-
-### 摘要
-The low-pressure phase diagram of La${}\_3$Ni${}\_2$O${}\_7$ provides an important reference for understanding its pressure-induced high-temperature superconductivity. While the spin-density-wave transition at $T\_{\text{SDW}}\approx150$ K is increasingly well established, the origin of the second density-wave transition at $T\_{\text{DW}}\approx130$ K has remained unresolved. Here, we perform unrestricted Hartree-Fock calculations to investigate the potential origin of the second transition. \{Within the orthorhombic phase, the degeneracy between possible ordering wavevectors at $\boldsymbol{Q}\_{Y}=(0,π)$ and at $\boldsymbol{Q}\_{X}=(π,0)$ is lifted and the electronic system\} develops a double-stripe spin-density wave with ordering vector $\boldsymbol{Q}\_{Y}=(0,π)$. We identify that the pure double stripe spin state is unstable in La${}\_3$Ni${}\_2$O${}\_7$ towards a commensurate charge-density wave instability, which favors a spin-modulated double stripe order with intertwined charge and spin instabilities and establish the hierarchy of ordered states in La${}\_3$Ni${}\_2$O${}\_7$, providing an important link between its ambient-pressure and superconducting high-pressure phases. We further discuss our results in the context of available experimental literature and propose further experimental tests to elucidate the origin of the SDW/DW states in this system.
 
 ---
 
