@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-03 至 2026-08-02**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-04 至 2026-08-03**
+> 数据检索到 **14** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -161,17 +161,6 @@ Multi-layer square-planar nickelates provide a rare platform in which the nomina
 
 ### 摘要
 Hall measurements in superconducting bilayer nickelate films show sign reversals that cannot be explained by rigid-band electron doping alone. We combine a DFT+CDMFT-derived correlated multi-orbital quasiparticle model with a $T$-matrix treatment of oxygen-vacancy scattering in a semiclassical Boltzmann transport framework. We find that multiband compensation is insufficient by itself: in-plane vacancies selectively suppress the transport channel dominated by the $d\_{x^2-y^2}$ orbital and drive $R\_H$ through zero, whereas inner-apical vacancies make $R\_H$ more negative. These results identify pocket-resolved and orbital-selective oxygen-vacancy scattering as the microscopic origin of the Hall coefficient sign reversal and provide a framework for oxygen-stoichiometry-dependent transport in nickelate films.
-
----
-
-## 15. Pressure-Driven Structural Transitions without a Displacive Charge-Density Wave in La${}\_2$SmNi${}\_2$O${}\_7$
-
-- **提交日期**：2026-07-03
-- **作者**：J. Huang, Sitaram Ramakrishnan, P. Rodière, P. Toulemonde, Z. Rahmany, V. Balédent, B. Vignolle, Sourav Marik, P. Fertey, P. Foury-Leylekian
-- **arXiv链接**：[http://arxiv.org/abs/2607.03363v1](http://arxiv.org/abs/2607.03363v1)
-
-### 摘要
-We investigated the structural properties of bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$ as a function of pressure and temperature. At ambient conditions, we show that the material crystallizes as a monoclinic superstructure distinct from the one previously reported and close to the pseudo-orthorhombic structure of pristine La${}\_3$Ni${}\_2$O${}\_7$. No signatures of satellite reflections associated with charge density wave (CDW) ordering are detected at low temperature. Upon compression, a sequence of pressure-induced structural transitions from monoclinic to orthorhombic 15 GPa and then tetragonal 21 GPa symmetry is observed. Within the superconducting dome, the quality of the X-ray diffraction data enables structural refinements enabling theoretical models to understand the emergence of superconductivity.
 
 ---
 
