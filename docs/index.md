@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-09 至 2026-08-08**
-> 数据检索到 **18** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-10 至 2026-08-09**
+> 数据检索到 **16** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -183,28 +183,6 @@ We have implemented soft point-contact Andreev reflection spectroscopy (PCARS) i
 
 ### 摘要
 We report on the synthesis of infinite-layer Nd1-xEuxNiO2 (0<x<0.7) thin films using pulsed laser deposition (PLD) followed by topotactic reduction with CaH2. Resistivity measurements on these films reveal a superconducting dome within the doping range 0.2<x<0.5, which is wider than that achieved by molecular beam epitaxy and comparable to that obtained by chemical synthesis. The x=0.3 PLD film exhibits the optimal superconducting transition temperature Tc~31 K, much higher than those grown by other vacuum epitaxial techniques. This result indicates that PLD is an ideal approach for fabricating high-quality, high-Tc Nd1-xEuxNiO2 superconducting films. Magneto-transport measurements reveal robust field-enhanced and re-entrant superconductivity in both underdoped and overdoped regimes. At low temperatures just above the onset Tc, the Hall resistance exhibits nonlinear behavior, which may originate from magnetic impurity scattering. These results highlight the crucial role of magnetic rare-earth Eu2+ ions in producing the exotic physical properties of the infinite-layer nickelates.
-
----
-
-## 17. Heterostructuring as Gateway to Electron Doping of Nickelate Superconductors
-
-- **提交日期**：2026-07-09
-- **作者**：Chao Deng, Motoharu Kitatani, Guiwen Jiang, Siqi Guo, Niklas Witt, Ao Zhang, Wenfeng Wu, Mi Jiang, Karsten Held, Liang Si
-- **arXiv链接**：[http://arxiv.org/abs/2607.08553v1](http://arxiv.org/abs/2607.08553v1)
-
-### 摘要
-Despite enormous expenditures in the research field, the electron-doped side of nickelate superconductors remains uncharted territory. Substituting the trivalent rare-earth cations by a tetravalent one hitherto failed. Here, we demonstrate by first-principles calculations a disorder-free route to electron dope Ruddlesden-Popper nickelates. When intercalating wide-band-gap insulating layers such as La$X$O${}\_3$ ($X$=Al, Ga, Sc) into La${}\_2$NiO${}\_4$, the extra (LaO)$^+$ layers act as electron donors, releasing carriers into the Ni-3$d$ orbitals. This electron doping puts La${}\_2$NiO${}\_4$:La${}\_2$AlO${}\_4$ naturally in the optimal region for $d\_{x^2-y^2}$-wave superconductivity with T${}\_c$ exceeding 50 K. The same concept also allows us to electron dope La${}\_3$Ni${}\_2$O${}\_7$, the superconductor in the limelight.
-
----
-
-## 18. Layer-resolved Electronic Structure and Correlation of Low-$n$ Square-planar Nickelates: A DFT+DMFT Prediction of Superconducting Candidates
-
-- **提交日期**：2026-07-09
-- **作者**：Jian-Hong She, Rong-Qiang He, Zhong-Yi Lu
-- **arXiv链接**：[http://arxiv.org/abs/2607.08474v1](http://arxiv.org/abs/2607.08474v1)
-
-### 摘要
-Multi-layer square-planar nickelates provide a rare platform in which the nominal Ni valence, dimensionality, and layer-resolved electronic structure can be tuned within the same structural family. Recent experiments have found superconductivity in $n=4$--8 $R\_{n+1}Ni\_nO\_{2n+2}$ compounds, with the highest $T\_c$ near $n=6$, whereas the more heavily hole-doped $n=3$ member remains nonsuperconducting. Here we propose spacer-layer Cl doping as a route to convert low-$n$ nickelates into superconducting candidates. Compared with changing the layer number $n$, Cl substitution on the spacer-layer oxygen sites offers a chemically natural way to continuously tune the Ni valence while leaving the NiO${}\_2$ planes largely intact; the lower-$n$ compounds may also be more accessible for synthesis. Using density functional theory combined with dynamical mean-field theory, we show that electron-compensated $n=2$ and $n=3$ La-based nickelates, targeted to the nominal Ni valence of superconducting $n=6$, develop Ni-$d$ correlations comparable to those of superconducting higher-$n$ compounds while preserving the characteristic low-energy Ni-$d$ electronic structure. These results suggest spacer-layer Cl doping as a promising strategy for designing low-$n$ square-planar nickelate superconductors.
 
 ---
 
