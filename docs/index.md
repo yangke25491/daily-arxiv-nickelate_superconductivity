@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-11 至 2026-08-10**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-12 至 2026-08-11**
+> 数据检索到 **15** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -172,17 +172,6 @@ Recent tunneling measurements on infinite-layer nickelates have revealed spatial
 
 ### 摘要
 We have implemented soft point-contact Andreev reflection spectroscopy (PCARS) in a palm-type cubic anvil pressure cell by combining a substrate anchoring strategy with an external wire-splitting technique. This design enables the stable formation of multiple point contact junctions under hydrostatic pressures up to 15 GPa. Benchmark measurements on the elemental superconductor Nb demonstrate high reproducibility and yield a zero-temperature superconducting gap with a gap ratio of 3.3. We further apply this technique to the Kagome metal superconductor CsCr3Sb5 and the bilayer nickelate superconductor La2PrNi2O7. Pronounced zero-bias conductance peaks are observed, and their evolution with temperature, magnetic field and applied pressure is investigated, together with the superconducting gap magnitude and possible pairing symmetries. These measurements provide spectroscopic evidence consistent with unconventional superconductivity in these materials. Our work establishes a robust experimental platform that bridges macroscopic electrical transport and microscopic spectroscopic probes, opening a new avenue for investigating pairing symmetry in a wide range of pressure-induced unconventional superconductors.
-
----
-
-## 16. Superconducting dome and field-enhanced superconductivity of PLD synthesized Nd1-xEuxNiO2 thin films
-
-- **提交日期**：2026-07-11
-- **作者**：Wenlong Yang, Qiang Zhao, Xingke Fu, Gaofei Ren, Zhongjing Wu, Zhen Chen, Jianping Sun, Boseng Wang, Jiacai Nie, Pengtao Yang, Jinguang Cheng
-- **arXiv链接**：[http://arxiv.org/abs/2607.10332v1](http://arxiv.org/abs/2607.10332v1)
-
-### 摘要
-We report on the synthesis of infinite-layer Nd1-xEuxNiO2 (0<x<0.7) thin films using pulsed laser deposition (PLD) followed by topotactic reduction with CaH2. Resistivity measurements on these films reveal a superconducting dome within the doping range 0.2<x<0.5, which is wider than that achieved by molecular beam epitaxy and comparable to that obtained by chemical synthesis. The x=0.3 PLD film exhibits the optimal superconducting transition temperature Tc~31 K, much higher than those grown by other vacuum epitaxial techniques. This result indicates that PLD is an ideal approach for fabricating high-quality, high-Tc Nd1-xEuxNiO2 superconducting films. Magneto-transport measurements reveal robust field-enhanced and re-entrant superconductivity in both underdoped and overdoped regimes. At low temperatures just above the onset Tc, the Hall resistance exhibits nonlinear behavior, which may originate from magnetic impurity scattering. These results highlight the crucial role of magnetic rare-earth Eu2+ ions in producing the exotic physical properties of the infinite-layer nickelates.
 
 ---
 
