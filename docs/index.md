@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-12 至 2026-08-11**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-13 至 2026-08-12**
+> 数据检索到 **14** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -161,17 +161,6 @@ The Synergetic Extreme Condition User Facility (SECUF) is a comprehensive, state
 
 ### 摘要
 Recent tunneling measurements on infinite-layer nickelates have revealed spatially varying superconducting symmetries, whose microscopic origin remains unclear. Motivated by this observation, we investigate the interplay between electron correlations and electron-phonon interactions in infinite-layer nickelates by combining first-principles calculations with the fluctuation-exchange-Migdal-Eliashberg theory. Our calculations show that spin fluctuations yield robust $d$-wave superconductivity on the Ni $d\_{x^2-y^2}$ orbital, whereas electron-phonon coupling induces $s$-wave pairing on an interstitial orbital, leading to an $s+id$ superconducting state. The emergence of the $s$-wave component is strongly carrier-density dependent: an intermediate electron-phonon coupling of $λ=0.4$ stabilizes the $s+id$ state at $n=0.9$ but not at $n=0.8$. These results imply that local oxygen defects tune the local electron density and form finite-size domains with distinct pairing symmetries, offering a compelling explanation for the spatially inhomogeneous superconducting symmetries observed in experiments.
-
----
-
-## 15. Soft point-contact Andreev reflection spectroscopy in a palm-type cubic anvil-pressure cell
-
-- **提交日期**：2026-07-12
-- **作者**：Qingxin Dong, Fengrui Shi, Yan Zhang, Tong Shi, Yi Liu, Shaoheng Ruan, Zhongjin Wu, Jianping Sun, Zhaoming Tian, Yoshiya Uwatoko, Guanghan Cao, Xin Lu, Bosen Wang, Jin-Guang Cheng
-- **arXiv链接**：[http://arxiv.org/abs/2607.10668v1](http://arxiv.org/abs/2607.10668v1)
-
-### 摘要
-We have implemented soft point-contact Andreev reflection spectroscopy (PCARS) in a palm-type cubic anvil pressure cell by combining a substrate anchoring strategy with an external wire-splitting technique. This design enables the stable formation of multiple point contact junctions under hydrostatic pressures up to 15 GPa. Benchmark measurements on the elemental superconductor Nb demonstrate high reproducibility and yield a zero-temperature superconducting gap with a gap ratio of 3.3. We further apply this technique to the Kagome metal superconductor CsCr3Sb5 and the bilayer nickelate superconductor La2PrNi2O7. Pronounced zero-bias conductance peaks are observed, and their evolution with temperature, magnetic field and applied pressure is investigated, together with the superconducting gap magnitude and possible pairing symmetries. These measurements provide spectroscopic evidence consistent with unconventional superconductivity in these materials. Our work establishes a robust experimental platform that bridges macroscopic electrical transport and microscopic spectroscopic probes, opening a new avenue for investigating pairing symmetry in a wide range of pressure-induced unconventional superconductors.
 
 ---
 
