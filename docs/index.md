@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-14 至 2026-08-13**
-> 数据检索到 **14** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-15 至 2026-08-14**
+> 数据检索到 **13** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -150,17 +150,6 @@ The recent discovery of high-temperature superconductivity in the bilayer nickel
 
 ### 摘要
 The Synergetic Extreme Condition User Facility (SECUF) is a comprehensive, state-of-the-art user facility designed to provide integrated extreme physical conditions-including ultrahigh pressure, ultralow temperature, strong magnetic fields, and ultrafast optical fields-for frontier research in condensed matter physics and materials science. Within SECUF, the F2 Sample Pre-selection and Characterization Station plays a pivotal supporting role. Its mission is to provide comprehensive sample synthesis, processing, pre-screening, and characterization services to prepare high-quality specimens for subsequent experiments under extreme conditions. This paper details the specifications and performance of ten core instrument systems within these units. Furthermore, we highlight several breakthrough scientific achievements enabled by the F2 Station, encompassing the discovery of novel quantum spin supersolid states, pressure-induced high-temperature superconductivity in nickelates, giant anomalous Hall angles, and molecular water in lunar soil. We also outline ongoing technical developments that expand the station's capabilities, such as integrated high-pressure cells and self-built ancillary measurement systems.
-
----
-
-## 14. Emergent $s+id$ Superconductivity from the Interplay between Electronic Correlations and Electron-Phonon Coupling in $\mathrm{R}\_{1-x}\mathrm{Sr}\_x\mathrm{NiO}\_2$
-
-- **提交日期**：2026-07-14
-- **作者**：Zi Yuan, Jun Zhan, Xianxin Wu, Shaozhi Li
-- **arXiv链接**：[http://arxiv.org/abs/2607.12773v1](http://arxiv.org/abs/2607.12773v1)
-
-### 摘要
-Recent tunneling measurements on infinite-layer nickelates have revealed spatially varying superconducting symmetries, whose microscopic origin remains unclear. Motivated by this observation, we investigate the interplay between electron correlations and electron-phonon interactions in infinite-layer nickelates by combining first-principles calculations with the fluctuation-exchange-Migdal-Eliashberg theory. Our calculations show that spin fluctuations yield robust $d$-wave superconductivity on the Ni $d\_{x^2-y^2}$ orbital, whereas electron-phonon coupling induces $s$-wave pairing on an interstitial orbital, leading to an $s+id$ superconducting state. The emergence of the $s$-wave component is strongly carrier-density dependent: an intermediate electron-phonon coupling of $λ=0.4$ stabilizes the $s+id$ state at $n=0.9$ but not at $n=0.8$. These results imply that local oxygen defects tune the local electron density and form finite-size domains with distinct pairing symmetries, offering a compelling explanation for the spatially inhomogeneous superconducting symmetries observed in experiments.
 
 ---
 
