@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-15 至 2026-08-14**
-> 数据检索到 **13** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-17 至 2026-08-16**
+> 数据检索到 **11** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -128,28 +128,6 @@ Pseudogap formation, strange-metal behavior and unconventional superconductivity
 
 ### 摘要
 Infinite-layer nickelates have been widely viewed as cuprate analogs in which superconductivity emerges and forms a superconducting dome centered around 10-20% cation substitution. Here we show that pristine and stoichiometric PrNiO2, without cation substitution, exhibits intrinsic superconductivity characterized by zero resistance and diamagnetism in uncapped films. Through heterostructure engineering, we further exclude an interfacial origin of the superconductivity. Remarkably, zero-resistance superconductivity is consistently observed in trivalent-substituted PrNiO2, whereas it is rapidly suppressed by dilute divalent substitution. Combined with angle-resolved photoemission studies, these results indicate that such a new superconducting regime is confined to within 3% additional hole doping from pristine PrNiO2. Furthermore, this phase is separated from the previously established superconducting dome around ~ 20% divalent doping by a non-superconducting region in the phase diagram, and is further distinguished by a remarkably stronger upper-critical-field anisotropy. These findings establish a unique separated superconducting regime, suggesting that infinite-layer nickelates are not merely cuprate analogs but host distinct superconducting physics.
-
----
-
-## 12. Magnetic Order in bilayer Ruddlesden-Popper Nickelates
-
-- **提交日期**：2026-07-16
-- **作者**：Yiming Wang, Guijing Duan, Zhiguang Liao, Kuan-Sen Lin, Rong Yu, Qimiao Si
-- **arXiv链接**：[http://arxiv.org/abs/2607.15228v1](http://arxiv.org/abs/2607.15228v1)
-
-### 摘要
-The recent discovery of high-temperature superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$ has led to extensive interest in the correlation physics of its normal state. Given that the superconducitivity develops near a density wave order in the phase diagram, it is important to elucidate the nature of this order. Based on the accumulated experimental evidence for a bad metal state in proximity to an orbital-selective Mott phase, here we describe magnetic correlations of the system in a conceptually new way -- in terms of effective local moments experiencing a combination of RKKY and superexchange interactions. This gives rise to a magnetic order with a wavevector that is close to $\mathbf{Q}=(π/2,π/2)$ and, at the same time, yields a clear understanding of the associated spin dynamics. Our results are consistent with the rapidly emerging experiments about the magnetic correlations in the density wave order of the bilayer nickelate. Implications for unconventional superconductivity in this and related multiorbital systems are discussed.
-
----
-
-## 13. The Sample Pre-selection and Characterization Station at the SECUF: Instrumentation, Capabilities, and Representative Scientific Achievements
-
-- **提交日期**：2026-07-15
-- **作者**：Xu Chen, Tao Sun, Huifen Ren, Minjie Cui, Jun Luo, Shuai Zhang, Shaokui Su
-- **arXiv链接**：[http://arxiv.org/abs/2607.13375v1](http://arxiv.org/abs/2607.13375v1)
-
-### 摘要
-The Synergetic Extreme Condition User Facility (SECUF) is a comprehensive, state-of-the-art user facility designed to provide integrated extreme physical conditions-including ultrahigh pressure, ultralow temperature, strong magnetic fields, and ultrafast optical fields-for frontier research in condensed matter physics and materials science. Within SECUF, the F2 Sample Pre-selection and Characterization Station plays a pivotal supporting role. Its mission is to provide comprehensive sample synthesis, processing, pre-screening, and characterization services to prepare high-quality specimens for subsequent experiments under extreme conditions. This paper details the specifications and performance of ten core instrument systems within these units. Furthermore, we highlight several breakthrough scientific achievements enabled by the F2 Station, encompassing the discovery of novel quantum spin supersolid states, pressure-induced high-temperature superconductivity in nickelates, giant anomalous Hall angles, and molecular water in lunar soil. We also outline ongoing technical developments that expand the station's capabilities, such as integrated high-pressure cells and self-built ancillary measurement systems.
 
 ---
 
