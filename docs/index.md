@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-18 至 2026-08-17**
-> 数据检索到 **11** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-19 至 2026-08-18**
+> 数据检索到 **10** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Thermodynamic phase transition, pairing symmetry and Fermi surface topology in Ruddlesden-Popper nickelate films
+## 1. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
+
+- **提交日期**：2026-08-14
+- **作者**：I. V. Leonov
+- **arXiv链接**：[http://arxiv.org/abs/2608.14810v1](http://arxiv.org/abs/2608.14810v1)
+
+### 摘要
+Using the DFT+dynamical mean-field theory method we study the effects of electron-electron correlations and epitaxial strain of the crystal structure on the normal-state electronic structure, quasiparticle band renormalizations, Fermi surface, and magnetic correlations of the bilayer Ruddlesden-Popper nickelate La${}\_3$Ni${}\_2$O${}\_7$ (LNO). Our results exhibit a remarkable orbital-selective renormalization and strong incoherence of the Ni $3d$ bands, pointing to the proximity of the Ni $x^2-y^2$ and $3z^2-r^2$ states to orbital-selective localization. The electronic properties of LNO show a high sensitivity to the in-plane strain. We note that both a tensile and a moderate compressive strain (up to about $-2$\%) yield a significant enhancement of magnetic correlations compared to the unstrained LNO. Under a large compressive strain of about $-4$\%, we observe a Lifshitz transition characterized by the disappearance of the $γ$ Fermi surface sheet, which is associated with a nearly fully occupied, shallow flat-band of the bonding Ni $3z^2-r^2$ orbital character. As a result, we observe a sharp decrease of magnetic correlations, implying suppression of superconductivity. Overall, our results support the picture of spin- and change-density-wave stripe instability driven by the Fermi surface nesting in LNO. Our results suggest that both pressure and strain can effectively tune (suppress or enhance) spin-change-density-wave ordering, giving rise to enhanced spin fluctuations.
+
+---
+
+## 2. Thermodynamic phase transition, pairing symmetry and Fermi surface topology in Ruddlesden-Popper nickelate films
 
 - **提交日期**：2026-08-04
 - **作者**：Yu Miao, Zhiwei Wang, Hongxu Sun, Jianchang Shen, Runqing Luan, Zhipeng Ou, Xinru Yong, Zhenyu Wang, Tao Wu, Haoyu Hu, Junfeng He, Xianhui Chen
@@ -21,7 +32,7 @@ Ruddlesden-Popper (RP) nickelates provide an uncharted territory to explore high
 
 ---
 
-## 2. Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7
+## 3. Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7
 
 - **提交日期**：2026-08-03
 - **作者**：Jian Zhou, Rui Song, Haiyan Lu
@@ -32,7 +43,7 @@ The recent discovery of high-temperature superconductivity in pressurized bilaye
 
 ---
 
-## 3. Enhanced and robust superconductivity in La0.8Sr0.2NiO2 membranes compressed up to 210 GPa
+## 4. Enhanced and robust superconductivity in La0.8Sr0.2NiO2 membranes compressed up to 210 GPa
 
 - **提交日期**：2026-08-03
 - **作者**：Shu Cai, Yuqing Tian, Shengjun Yan, Jinyu Zhao, Bo Hao, Jianfeng Zhang, Shuaihang Sun, Yang Ding, Qi Wu, Ho-kwang Mao, I. Bozovic, Yuefeng Nie, Liling Sun
@@ -43,7 +54,7 @@ The discovery of superconductivity in infinite-layer nickelate thin films has op
 
 ---
 
-## 4. Electron-like high-temperature superconductivity induced by compressive strain in La2PrNi2O7 thin films
+## 5. Electron-like high-temperature superconductivity induced by compressive strain in La2PrNi2O7 thin films
 
 - **提交日期**：2026-08-02
 - **作者**：Zhiwei Wang, Zhengjie Wang, Huiyu Wang, Mingyi Zhu, Mengzu Shi, Zongyao Huang, Houpu Li, Shoucong Ning, Jing Tao, Tao Wu, Xianhui Chen
@@ -54,7 +65,7 @@ The realization of high-temperature superconductivity in bilayer nickelates unde
 
 ---
 
-## 5. \{\it Ab initio\} prediction of $d\_{x^2-y^2}$-wave superconductivity in infinite-layer nickelates
+## 6. \{\it Ab initio\} prediction of $d\_{x^2-y^2}$-wave superconductivity in infinite-layer nickelates
 
 - **提交日期**：2026-08-01
 - **作者**：Guang-Yu Guo, Ren-Guo Guo, Yun-Chen Liao, Yang-hao Chan
@@ -65,7 +76,7 @@ Infinite-layer nickelates have recently emerged as a new family of potential unc
 
 ---
 
-## 6. Single-crystal structural phase diagram of stoichiometric bilayer nickelate La3Ni2O7 under hydrostatic pressure
+## 7. Single-crystal structural phase diagram of stoichiometric bilayer nickelate La3Ni2O7 under hydrostatic pressure
 
 - **提交日期**：2026-07-30
 - **作者**：Misaki Sasaki, Zhehong Liu, Takeshi Hara, Shunsuke Kitou, Markus Kriener, Haruto Yoshimochi, Shion Yamada, Chieko Terakura, Naohisa Hirao, Hirokazu Kadobayashi, Yusuke Wakabayashi, Yoshinori Tokura, Yasujiro Taguchi, Taka-hisa Arima, Yukako Fujishiro
@@ -76,7 +87,7 @@ The bilayer nickelate La3Ni2O7 has attracted intense interest following the disc
 
 ---
 
-## 7. Density-wave phases, anisotropic transport, and Planckian dissipation in single crystals of the superconductor La3Ni2O7
+## 8. Density-wave phases, anisotropic transport, and Planckian dissipation in single crystals of the superconductor La3Ni2O7
 
 - **提交日期**：2026-07-29
 - **作者**：Zhehong Liu, Masamichi Nakajima, Markus Kriener, Shunsuke Kitou, Xiaowei Lyu, Chieko Terakura, Kosuke Karube, Ka Man Yip, Sorin Lazar, Nobuto Nakanishi, Keiko Shimada, Akiko Kikkawa, Yukako Fujishiro, Xiuzhen Yu, Taka-hisa Arima, Yoshinori Tokura, Yasujiro Taguchi
@@ -87,7 +98,7 @@ Pressure-induced superconductivity in bilayer nickelates provides a platform for
 
 ---
 
-## 8. Electronically Inactive Intercalated La${}\_2$NiO${}\_4$ Layer in Superconducting La${}\_5$Ni${}\_3$O${}\_{11}$
+## 9. Electronically Inactive Intercalated La${}\_2$NiO${}\_4$ Layer in Superconducting La${}\_5$Ni${}\_3$O${}\_{11}$
 
 - **提交日期**：2026-07-29
 - **作者**：Tianyang Xie, Yuxin Wang, Zhan Wang, Kun Jiang, Jiangping Hu
@@ -98,7 +109,7 @@ The recent discovery of superconductivity in La${}\_5$Ni${}\_3$O${}\_{11}$ exten
 
 ---
 
-## 9. Symmetry-Based Microscopic Theory of the Unconventional Pairing Mechanism in La${}\_5$Ni${}\_3$O${}\_{11}$
+## 10. Symmetry-Based Microscopic Theory of the Unconventional Pairing Mechanism in La${}\_5$Ni${}\_3$O${}\_{11}$
 
 - **提交日期**：2026-07-20
 - **作者**：Guan-Hao Feng, Jun Quan
@@ -106,28 +117,6 @@ The recent discovery of superconductivity in La${}\_5$Ni${}\_3$O${}\_{11}$ exten
 
 ### 摘要
 Recent experiments report high-temperature superconductivity in the hybrid nickelate $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$, which is composed of alternating stacks of bilayer $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$ and monolayer $\mathrm{La}\_2\mathrm{NiO}\_4$. However, the superconducting transition temperature $T\_c \approx 64~\mathrm{K}$ for $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$ is remarkably lower than the $80~\mathrm{K}$ observed for pressurized $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$. Thus, an unified microscopic theory is required to address the difference in the pairing mechanisms between these systems. Here, we develop a phenomenological symmetry-based approach to systematically analyze the low-energy physics in $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$, which is obtained by a charge self-consistent density functional theory plus dynamical mean-field theory method. We show that the superconductivity in $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$ exhibits a two-gap nature, consisting of a leading interlayer pairing between the $d\_{z^2}$ orbitals and a subleading intralayer pairing between the $d\_{x^2-y^2}$ orbitals. The reduction of $T\_c$ can be attributed to the diminished contribution of the interlayer pairing, as reflected by the hopping parameter ratio $|t\_{\perp}^z/t\_{\parallel}^{x}|$. Base on this unified picture, we discuss the possible pairing mechanism and the role of $γ$ pocket for the superconductivity in the bilayer NiO${}\_2$ planes of nickelate superconductors.
-
----
-
-## 10. Marginal-Fermi-Liquid-like Behavior without Pseudogap in Infinite-Layer Nickelates
-
-- **提交日期**：2026-07-18
-- **作者**：Yu Fan, Zhitong An, Xiang Ding, Xingtian Sun, Yutong Chen, Zhihui Chen, Shenglin Tang, Chihao Li, Jiahao Ye, Timur Kim, Haichao Xu, Rui Peng, Donglai Feng
-- **arXiv链接**：[http://arxiv.org/abs/2607.16852v1](http://arxiv.org/abs/2607.16852v1)
-
-### 摘要
-Pseudogap formation, strange-metal behavior and unconventional superconductivity are closely intertwined in hole-doped cuprates, yet their relationship remains unresolved. Infinite-layer nickelates offer a distinct 3d9-derived platform to address this question by combining a cuprate-like Ni dx2-y2 Fermi surface with multiband electronic degrees of freedom. Here we use angle-resolved photoemission spectroscopy to resolve the low-energy spectral function of superconducting La0.8Ca0.2NiO2 and parent LaNiO2 thin films. In La0.8Ca0.2NiO2, the electronic self-energy Im Sigma(omega) is approximately linear in energy and its slope increases from (pi/2, pi/2) to (pi, 0), revealing momentum-dependent marginal-Fermi-liquid-like scattering. Both films show a progressive suppression of low-energy spectral weight from the diagonal direction toward (pi, 0), with stronger suppression in parent LaNiO2. However, finite Fermi-level spectral weight persists around the entire Fermi surface, with no leading-edge shift or back-bending indicative of pseudogap formation in either the electron pocket or the cuprate-like hole band. Our results demonstrate that momentum-selective correlations and marginal-Fermi-liquid-like scattering can occur without a detectable cuprate-like pseudogap, providing a benchmark for identifying the essential normal-state electronic ingredients of high-temperature superconductivity.
-
----
-
-## 11. A Disconnected Superconducting Regime at the Parent Limit of Infinite-Layer Nickelates
-
-- **提交日期**：2026-07-18
-- **作者**：Chihao Li, Yutong Chen, Yaolong Bian, Yihao Zhang, Jiahao Ye, Zhitong An, Xingtian Sun, Yu Fan, Zhihui Chen, Zhanze Wang, Jinglei Zhang, Haichao Xu, Rui Peng, Donglai Feng
-- **arXiv链接**：[http://arxiv.org/abs/2607.16684v1](http://arxiv.org/abs/2607.16684v1)
-
-### 摘要
-Infinite-layer nickelates have been widely viewed as cuprate analogs in which superconductivity emerges and forms a superconducting dome centered around 10-20% cation substitution. Here we show that pristine and stoichiometric PrNiO2, without cation substitution, exhibits intrinsic superconductivity characterized by zero resistance and diamagnetism in uncapped films. Through heterostructure engineering, we further exclude an interfacial origin of the superconductivity. Remarkably, zero-resistance superconductivity is consistently observed in trivalent-substituted PrNiO2, whereas it is rapidly suppressed by dilute divalent substitution. Combined with angle-resolved photoemission studies, these results indicate that such a new superconducting regime is confined to within 3% additional hole doping from pristine PrNiO2. Furthermore, this phase is separated from the previously established superconducting dome around ~ 20% divalent doping by a non-superconducting region in the phase diagram, and is further distinguished by a remarkably stronger upper-critical-field anisotropy. These findings establish a unique separated superconducting regime, suggesting that infinite-layer nickelates are not merely cuprate analogs but host distinct superconducting physics.
 
 ---
 
