@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-20 至 2026-08-19**
-> 数据检索到 **12** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-21 至 2026-08-20**
+> 数据检索到 **11** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -128,17 +128,6 @@ Pressure-induced superconductivity in bilayer nickelates provides a platform for
 
 ### 摘要
 The recent discovery of superconductivity in La${}\_5$Ni${}\_3$O${}\_{11}$ extends the family of superconducting Ruddlesden--Popper nickelates beyond La${}\_3$Ni${}\_2$O${}\_7$. Unlike conventional members of a single Ruddlesden--Popper series, La${}\_5$Ni${}\_3$O${}\_{11}$ contains an intercalated La${}\_2$NiO${}\_4$ layer between La${}\_3$Ni${}\_2$O${}\_7$ blocks, raising the question of whether this additional layer participates in the low-energy electronic structure. Here, we combine density functional theory, Wannier-based tight-binding modeling, and rotationally invariant slave-boson calculations to investigate the electronic role of the intercalated layer. We find that realistic electronic parameters place the La${}\_2$NiO${}\_4$ layer in gapped insulating regimes rather than a paramagnetic metallic state. Furthermore, realistic interlayer hybridization fails to generate any appreciable La${}\_2$NiO${}\_4$-derived spectral weight at the Fermi level. Our results demonstrate that the low-energy electronic structure of La${}\_5$Ni${}\_3$O${}\_{11}$ is governed primarily by the La${}\_3$Ni${}\_2$O${}\_7$ block, with the intercalated La${}\_2$NiO${}\_4$ layer remaining electronically inactive. This establishes a minimal low-energy description of La${}\_5$Ni${}\_3$O${}\_{11}$ and provides a unified framework for understanding superconductivity in intercalated Ruddlesden--Popper nickelates.
-
----
-
-## 12. Symmetry-Based Microscopic Theory of the Unconventional Pairing Mechanism in La${}\_5$Ni${}\_3$O${}\_{11}$
-
-- **提交日期**：2026-07-20
-- **作者**：Guan-Hao Feng, Jun Quan
-- **arXiv链接**：[http://arxiv.org/abs/2607.18094v2](http://arxiv.org/abs/2607.18094v2)
-
-### 摘要
-Recent experiments report high-temperature superconductivity in the hybrid nickelate $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$, which is composed of alternating stacks of bilayer $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$ and monolayer $\mathrm{La}\_2\mathrm{NiO}\_4$. However, the superconducting transition temperature $T\_c \approx 64~\mathrm{K}$ for $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$ is remarkably lower than the $80~\mathrm{K}$ observed for pressurized $\mathrm{La}\_3\mathrm{Ni}\_2\mathrm{O}\_7$. Thus, an unified microscopic theory is required to address the difference in the pairing mechanisms between these systems. Here, we develop a phenomenological symmetry-based approach to systematically analyze the low-energy physics in $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$, which is obtained by a charge self-consistent density functional theory plus dynamical mean-field theory method. We show that the superconductivity in $\mathrm{La}\_5\mathrm{Ni}\_3\mathrm{O}\_{11}$ exhibits a two-gap nature, consisting of a leading interlayer pairing between the $d\_{z^2}$ orbitals and a subleading intralayer pairing between the $d\_{x^2-y^2}$ orbitals. The reduction of $T\_c$ can be attributed to the diminished contribution of the interlayer pairing, as reflected by the hopping parameter ratio $|t\_{\perp}^z/t\_{\parallel}^{x}|$. Base on this unified picture, we discuss the possible pairing mechanism and the role of $γ$ pocket for the superconductivity in the bilayer NiO${}\_2$ planes of nickelate superconductors.
 
 ---
 
