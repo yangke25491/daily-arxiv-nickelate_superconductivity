@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-25 至 2026-08-24**
-> 数据检索到 **11** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-26 至 2026-08-25**
+> 数据检索到 **12** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
+## 1. Weak coupling theory of nickel-based 327 superconductors
+
+- **提交日期**：2026-08-24
+- **作者**：Miao Jianjian, Chen Weiqiang
+- **arXiv链接**：[http://arxiv.org/abs/2608.22759v1](http://arxiv.org/abs/2608.22759v1)
+
+### 摘要
+This review provides a comprehensive survey of weak-coupling theoretical approaches applied to understand the emergent superconductivity in the pressurized nickelate bilayer system $La\_{3}Ni\_{2}O\_{7}$. Following the landmark discovery of its high-Tc superconductivity under pressure, this material has rapidly become a new paradigmatic platform in the field of unconventional superconductivity, joining cuprates and iron-based systems. We focus on three pivotal theoretical frameworks: the random phase approximation (RPA), the fluctuation-exchange approximation (FLEX), and the functional renormalization group (FRG). These methods are deployed to analyze the effective pairing interactions and emergent instabilities arising from the low-energy electronic structure, which is commonly modeled by a bilayer two-orbital Hubbard Hamiltonian incorporating the Ni $d\_{x^2-y^2}$ and $d\_{3z^2-r^2}$ orbitals.
+
+---
+
+## 2. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
 
 - **提交日期**：2026-08-18
 - **作者**：Motoki Osada, Chieko Terakura, Shusaku Imajo, Jean-Baptiste Morée, Akiko Kikkawa, Masamichi Nakajima, Hsiao-Yi Chen, Yusuke Nomura, Koichi Kindo, Ryotaro Arita, Yoshinori Tokura, Atsushi Tsukazaki
@@ -21,7 +32,7 @@ The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity n
 
 ---
 
-## 2. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
+## 3. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
 
 - **提交日期**：2026-08-18
 - **作者**：Xiaoxiang Zhou, Shiyu Xie, Liangxin Qiao, Hengyuan Zhang, Jun Shu, Rui Liu, Mengwu Huo, Deyuan Hu, Hengjie Liu, Chuansheng Hu, Yilin Wang, Ge He, Zeming Qi, Meng Wang, Dong-Lai Feng, Zengyi Du
@@ -32,7 +43,7 @@ The discovery of pressure-induced high temperature superconductivity in the bila
 
 ---
 
-## 3. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
+## 4. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
 
 - **提交日期**：2026-08-14
 - **作者**：I. V. Leonov
@@ -43,7 +54,7 @@ Using the DFT+dynamical mean-field theory method we study the effects of electro
 
 ---
 
-## 4. Thermodynamic phase transition, pairing symmetry and Fermi surface topology in Ruddlesden-Popper nickelate films
+## 5. Thermodynamic phase transition, pairing symmetry and Fermi surface topology in Ruddlesden-Popper nickelate films
 
 - **提交日期**：2026-08-04
 - **作者**：Yu Miao, Zhiwei Wang, Hongxu Sun, Jianchang Shen, Runqing Luan, Zhipeng Ou, Xinru Yong, Zhenyu Wang, Tao Wu, Haoyu Hu, Junfeng He, Xianhui Chen
@@ -54,7 +65,7 @@ Ruddlesden-Popper (RP) nickelates provide an uncharted territory to explore high
 
 ---
 
-## 5. Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7
+## 6. Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7
 
 - **提交日期**：2026-08-03
 - **作者**：Jian Zhou, Rui Song, Haiyan Lu
@@ -65,7 +76,7 @@ The recent discovery of high-temperature superconductivity in pressurized bilaye
 
 ---
 
-## 6. Enhanced and robust superconductivity in La0.8Sr0.2NiO2 membranes compressed up to 210 GPa
+## 7. Enhanced and robust superconductivity in La0.8Sr0.2NiO2 membranes compressed up to 210 GPa
 
 - **提交日期**：2026-08-03
 - **作者**：Shu Cai, Yuqing Tian, Shengjun Yan, Jinyu Zhao, Bo Hao, Jianfeng Zhang, Shuaihang Sun, Yang Ding, Qi Wu, Ho-kwang Mao, I. Bozovic, Yuefeng Nie, Liling Sun
@@ -76,7 +87,7 @@ The discovery of superconductivity in infinite-layer nickelate thin films has op
 
 ---
 
-## 7. Electron-like high-temperature superconductivity induced by compressive strain in La2PrNi2O7 thin films
+## 8. Electron-like high-temperature superconductivity induced by compressive strain in La2PrNi2O7 thin films
 
 - **提交日期**：2026-08-02
 - **作者**：Zhiwei Wang, Zhengjie Wang, Huiyu Wang, Mingyi Zhu, Mengzu Shi, Zongyao Huang, Houpu Li, Shoucong Ning, Jing Tao, Tao Wu, Xianhui Chen
@@ -87,7 +98,7 @@ The realization of high-temperature superconductivity in bilayer nickelates unde
 
 ---
 
-## 8. \{\it Ab initio\} prediction of $d\_{x^2-y^2}$-wave superconductivity in infinite-layer nickelates
+## 9. \{\it Ab initio\} prediction of $d\_{x^2-y^2}$-wave superconductivity in infinite-layer nickelates
 
 - **提交日期**：2026-08-01
 - **作者**：Guang-Yu Guo, Ren-Guo Guo, Yun-Chen Liao, Yang-hao Chan
@@ -98,7 +109,7 @@ Infinite-layer nickelates have recently emerged as a new family of potential unc
 
 ---
 
-## 9. Single-crystal structural phase diagram of stoichiometric bilayer nickelate La3Ni2O7 under hydrostatic pressure
+## 10. Single-crystal structural phase diagram of stoichiometric bilayer nickelate La3Ni2O7 under hydrostatic pressure
 
 - **提交日期**：2026-07-30
 - **作者**：Misaki Sasaki, Zhehong Liu, Takeshi Hara, Shunsuke Kitou, Markus Kriener, Haruto Yoshimochi, Shion Yamada, Chieko Terakura, Naohisa Hirao, Hirokazu Kadobayashi, Yusuke Wakabayashi, Yoshinori Tokura, Yasujiro Taguchi, Taka-hisa Arima, Yukako Fujishiro
@@ -109,7 +120,7 @@ The bilayer nickelate La3Ni2O7 has attracted intense interest following the disc
 
 ---
 
-## 10. Density-wave phases, anisotropic transport, and Planckian dissipation in single crystals of the superconductor La3Ni2O7
+## 11. Density-wave phases, anisotropic transport, and Planckian dissipation in single crystals of the superconductor La3Ni2O7
 
 - **提交日期**：2026-07-29
 - **作者**：Zhehong Liu, Masamichi Nakajima, Markus Kriener, Shunsuke Kitou, Xiaowei Lyu, Chieko Terakura, Kosuke Karube, Ka Man Yip, Sorin Lazar, Nobuto Nakanishi, Keiko Shimada, Akiko Kikkawa, Yukako Fujishiro, Xiuzhen Yu, Taka-hisa Arima, Yoshinori Tokura, Yasujiro Taguchi
@@ -120,7 +131,7 @@ Pressure-induced superconductivity in bilayer nickelates provides a platform for
 
 ---
 
-## 11. Electronically Inactive Intercalated La${}\_2$NiO${}\_4$ Layer in Superconducting La${}\_5$Ni${}\_3$O${}\_{11}$
+## 12. Electronically Inactive Intercalated La${}\_2$NiO${}\_4$ Layer in Superconducting La${}\_5$Ni${}\_3$O${}\_{11}$
 
 - **提交日期**：2026-07-29
 - **作者**：Tianyang Xie, Yuxin Wang, Zhan Wang, Kun Jiang, Jiangping Hu
