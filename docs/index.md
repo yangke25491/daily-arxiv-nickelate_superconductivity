@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-29 至 2026-08-28**
-> 数据检索到 **12** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-30 至 2026-08-29**
+> 数据检索到 **10** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -117,28 +117,6 @@ Infinite-layer nickelates have recently emerged as a new family of potential unc
 
 ### 摘要
 The bilayer nickelate La3Ni2O7 has attracted intense interest following the discovery of high-temperature superconductivity under pressure, representing the first nickelate superconductor realized in bulk form. However, the crystal structure of the superconducting phase remains under active discussion, complicating efforts to establish its microscopic origin. Here we resolve these structural controversies by establishing a definitive pressure-temperature phase diagram, including the superconducting region of stoichiometric La3Ni2O7 single crystals under hydrostatic conditions using helium as the pressure-transmitting medium. At ambient pressure, La3Ni2O7 adopts a polar orthorhombic Am2m structure characterized by charge order between inequivalent Ni sites and NiO6 octahedral tilting. Upon compression, the system undergoes a direct transition from the charge-ordered Am2m phase to the tetragonal I4/mmm phase near 10 GPa, coinciding with the onset of bulk superconductivity. These results establish the intrinsic structural evolution of La3Ni2O7 and provide a structural framework for microscopic theories of nickelate superconductivity.
-
----
-
-## 11. Density-wave phases, anisotropic transport, and Planckian dissipation in single crystals of the superconductor La3Ni2O7
-
-- **提交日期**：2026-07-29
-- **作者**：Zhehong Liu, Masamichi Nakajima, Markus Kriener, Shunsuke Kitou, Xiaowei Lyu, Chieko Terakura, Kosuke Karube, Ka Man Yip, Sorin Lazar, Nobuto Nakanishi, Keiko Shimada, Akiko Kikkawa, Yukako Fujishiro, Xiuzhen Yu, Taka-hisa Arima, Yoshinori Tokura, Yasujiro Taguchi
-- **arXiv链接**：[http://arxiv.org/abs/2607.26990v1](http://arxiv.org/abs/2607.26990v1)
-
-### 摘要
-Pressure-induced superconductivity in bilayer nickelates provides a platform for investigating intertwined roles of charge/spin orders and electric transport in unconventional superconductivity. However, important quantitative information on the transport, such as the absolute value of the resistivity, the anisotropy, and the scattering rate of carriers, remains insufficient due to the lack of accurate measurements using large single crystals. Here we establish a high-precision pressure-temperature phase diagram of high-quality La3Ni2O7 single crystals, by measuring the in-plane and out-of-plane resistivities. We resolve two distinct anomalies associated with density-wave formation with contrasting pressure dependences. The pressure-induced structural transition enhances not only the resistivity values for both directions, but also its anisotropy at low temperatures, demonstrating a pronounced effect of density-wave order on the charge dynamics. Superconductivity with zero-resistance emerges near the boundary where the density-wave phases are fully suppressed, and above Tc, the resistivity exhibits a temperature-linear dependence over a wide temperature range while the scattering rate falls within a regime of the Planckian limit. Our results show that pressure dramatically changes the anisotropic charge transport via modifying density-wave orders, and eventually produces a pronounced strange-metal state with strong scatterings, from which superconductivity develops. This establishes robust density-wave correlations and Planckian dissipation as remarkable features of La3Ni2O7.
-
----
-
-## 12. Electronically Inactive Intercalated La${}\_2$NiO${}\_4$ Layer in Superconducting La${}\_5$Ni${}\_3$O${}\_{11}$
-
-- **提交日期**：2026-07-29
-- **作者**：Tianyang Xie, Yuxin Wang, Zhan Wang, Kun Jiang, Jiangping Hu
-- **arXiv链接**：[http://arxiv.org/abs/2607.26676v1](http://arxiv.org/abs/2607.26676v1)
-
-### 摘要
-The recent discovery of superconductivity in La${}\_5$Ni${}\_3$O${}\_{11}$ extends the family of superconducting Ruddlesden--Popper nickelates beyond La${}\_3$Ni${}\_2$O${}\_7$. Unlike conventional members of a single Ruddlesden--Popper series, La${}\_5$Ni${}\_3$O${}\_{11}$ contains an intercalated La${}\_2$NiO${}\_4$ layer between La${}\_3$Ni${}\_2$O${}\_7$ blocks, raising the question of whether this additional layer participates in the low-energy electronic structure. Here, we combine density functional theory, Wannier-based tight-binding modeling, and rotationally invariant slave-boson calculations to investigate the electronic role of the intercalated layer. We find that realistic electronic parameters place the La${}\_2$NiO${}\_4$ layer in gapped insulating regimes rather than a paramagnetic metallic state. Furthermore, realistic interlayer hybridization fails to generate any appreciable La${}\_2$NiO${}\_4$-derived spectral weight at the Fermi level. Our results demonstrate that the low-energy electronic structure of La${}\_5$Ni${}\_3$O${}\_{11}$ is governed primarily by the La${}\_3$Ni${}\_2$O${}\_7$ block, with the intercalated La${}\_2$NiO${}\_4$ layer remaining electronically inactive. This establishes a minimal low-energy description of La${}\_5$Ni${}\_3$O${}\_{11}$ and provides a unified framework for understanding superconductivity in intercalated Ruddlesden--Popper nickelates.
 
 ---
 
