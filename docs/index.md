@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-07-30 至 2026-08-29**
-> 数据检索到 **10** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-31 至 2026-08-30**
+> 数据检索到 **9** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -106,17 +106,6 @@ The realization of high-temperature superconductivity in bilayer nickelates unde
 
 ### 摘要
 Infinite-layer nickelates have recently emerged as a new family of potential unconventional high critical temperature ($T\_c$) superconductors. However, fundamental questions such as their superconducting (SC) pairing mechanism and gap symmetry remain under intense debate. Here we present a fully \{\it ab initio\} theoretical study on the SC properties of optimally doped nickelates $Re$${}\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ ($Re=$ La, Pr, Nd), based on the density functional theory for superconductors calculations with electron-phonon coupling (EPC), screened Coulomb repulsion and spin fluctuation (SF) interaction treated on an equal footing. We find that $Re\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ are two-band superconductors with sign reversal $d\_{x^2-y^2}(\pm)$-wave gap functions on the different Fermi surface (FS) pockets. Interestingly, when the SF interaction is turned off, $T\_c$ becomes negligibly small ($\sim$0.01 K), thus demonstrating that the superconductivity in $Re\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ is driven by SF interaction. Moreover, our \{\it ab initio\} calculations reveal that the SF interaction is an order of magnitude stronger than both EPC and Coulomb repulsion on the large quasi-two-dimensional FS pocket around the Brillouin zone (BZ) center, thus leading to the SF-mediated pairing mechanism, although the EPC dominates on the small three-dimensional electron FS pockets at the BZ corners. The emergence of nodal $d\_{x^2-y^2}(\pm)$-wave gap structure is traced to the pronounced peaks in the Lindhard response function at the BZ corners. Our calculated FS, SC critical temperature, nodal gap structure and SC quasiparticle density of states are consistent with most available experiments. Furthermore, predicted unconventional SC properties such as scanning tunneling spectra of La${}\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ and Pr${}\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ are ready for immediate experimental verifications.
-
----
-
-## 10. Single-crystal structural phase diagram of stoichiometric bilayer nickelate La3Ni2O7 under hydrostatic pressure
-
-- **提交日期**：2026-07-30
-- **作者**：Misaki Sasaki, Zhehong Liu, Takeshi Hara, Shunsuke Kitou, Markus Kriener, Haruto Yoshimochi, Shion Yamada, Chieko Terakura, Naohisa Hirao, Hirokazu Kadobayashi, Yusuke Wakabayashi, Yoshinori Tokura, Yasujiro Taguchi, Taka-hisa Arima, Yukako Fujishiro
-- **arXiv链接**：[http://arxiv.org/abs/2607.27607v1](http://arxiv.org/abs/2607.27607v1)
-
-### 摘要
-The bilayer nickelate La3Ni2O7 has attracted intense interest following the discovery of high-temperature superconductivity under pressure, representing the first nickelate superconductor realized in bulk form. However, the crystal structure of the superconducting phase remains under active discussion, complicating efforts to establish its microscopic origin. Here we resolve these structural controversies by establishing a definitive pressure-temperature phase diagram, including the superconducting region of stoichiometric La3Ni2O7 single crystals under hydrostatic conditions using helium as the pressure-transmitting medium. At ambient pressure, La3Ni2O7 adopts a polar orthorhombic Am2m structure characterized by charge order between inequivalent Ni sites and NiO6 octahedral tilting. Upon compression, the system undergoes a direct transition from the charge-ordered Am2m phase to the tetragonal I4/mmm phase near 10 GPa, coinciding with the onset of bulk superconductivity. These results establish the intrinsic structural evolution of La3Ni2O7 and provide a structural framework for microscopic theories of nickelate superconductivity.
 
 ---
 
