@@ -5,12 +5,45 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-08-01 至 2026-08-31**
-> 数据检索到 **9** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-02 至 2026-09-01**
+> 数据检索到 **11** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Weak coupling theory of nickel-based 327 superconductors
+## 1. Machine learning reveals common features of unconventional superconductors with high transition temperatures
+
+- **提交日期**：2026-08-31
+- **作者**：Haosheng Xu, Dongheng Qian, Yijun Yu, Jing Wang
+- **arXiv链接**：[http://arxiv.org/abs/2608.30588v1](http://arxiv.org/abs/2608.30588v1)
+
+### 摘要
+Superconductors with high critical temperatures that emerges beyond the phonon-mediated regime are usually considered unconventional in nature, yet unlike conventional superconductors, no broadly applicable predictive theory currently guides their discovery. Here, we use interpretable machine learning to uncover a common materials-space signature of high-$T\_{\mathrm{c}}$ unconventional superconductors and develop a data-driven strategy for materials discovery. We construct a unified feature representation for each material by integrating compositional statistics, structural information, and latent representations from trained property-prediction models, followed by structure-aware filtering of an experimentally established superconducting dataset. Without using transition-temperature information, unsupervised analysis shows that cuprate and iron-based superconductors occupy a common region of materials space, characterized primarily by large electronegativity deviation and intermediate mean valence-electron number. A supervised $T\_{\text{c}}$ model independently identifies the same descriptors as dominant features, providing complementary evidence for their relevance. Using this empirical materials-space prior together with the $T\_{\text{c}}$ model, we prioritize candidate materials, recover recently discovered nickelate superconductors, and identify chemically distinct candidates for future investigation.
+
+---
+
+## 2. Magnetic contacts on freestanding superconducting LaAlO${}\_3$/SrTiO${}\_3$ micromembranes
+
+- **提交日期**：2026-08-30
+- **作者**：Thies Jansen, Pinelopi Konstantinopoulou, Niklas Martin, Fabio Miletto Granozio, Alessia Sambri, Rasmus Bjørk, Felix Trier, Thomas S. Jespersen
+- **arXiv链接**：[http://arxiv.org/abs/2608.29771v1](http://arxiv.org/abs/2608.29771v1)
+
+### 摘要
+The superconducting two-dimensional electron gas (2DEG) at the LaAlO${}\_3$/SrTiO${}\_3$ (LAO-STO) interface is a promising platform for superconducting spintronics, however, integrating ferromagnetic contacts with the superconducting 2DEG remains challenging. Here, we realize superconducting LAO-STO micromembrane devices contacted by ferromagnetic nickel contacts through a side-contact geometry. Low-temperature transport measurements demonstrate that superconductivity is preserved in the presence of the ferromagnetic contacts. We show that the superconducting state is strongly influenced by the magnetic history of the nickel contacts, which generates a tunable effective magnetic field in the 2DEG. Through an effective field model, the magnetization of the contacts can be inferred from the maximum superconducting response. Our results establish ferromagnetically contacted LAO-STO as a platform for future investigations of spin injection into oxide superconductors and provide a route towards superconducting spintronic devices based on complex oxide interfaces.
+
+---
+
+## 3. Doping-driven evolution of pairing symmetry in pressurized La${}\_3$Ni${}\_2$O${}\_7$
+
+- **提交日期**：2026-08-29
+- **作者**：Hai-Yang Zhang, Yu-Jie Bai, Fan-Jie Kong
+- **arXiv链接**：[http://arxiv.org/abs/2608.29091v1](http://arxiv.org/abs/2608.29091v1)
+
+### 摘要
+We investigate the superconducting pairing symmetry and its doping evolution in pressurized La${}\_3$Ni${}\_2$O${}\_7$. For the undoped compound, the most favorable pairing state is found to be $s\_{\pm}$-wave, characterized by sign reversal of the gap functions between the Fermi pockets. A detailed analysis of the pairing interactions reveals that this unconventional state originates from repulsive interactions mediated by the magnetic odd modes of the bilayer nickelate. Upon hole doping, the $γ$ Fermi pocket expands, which amplifies the intrapocket repulsions on this pocket. These repulsions, driven by the magnetic even modes, gradually dominates the pairing interactions and ultimately drive a transition in pairing symmetry from $s\_{\pm}$-wave to $d\_{xy}$-wave in the heavily hole-doped regime. In stark contrast, the $s\_{\pm}$-wave pairing persists under electron doping, even deep into the heavily electron-doped regime where a Lifshitz transition occurs. This finding suggests that the $γ$ Fermi pocket is not essential for the emergence of superconductivity in bilayer nickelates. In fact, the $s\_{\pm}$-wave pairing becomes more robust in the absence of the $γ$ pocket, as spin fluctuations are strongly enhanced by the favorable nesting between the $α$ and $β$ pockets --- a condition guaranteed by Luttinger's theorem and the Fermi surface topology. We believe that exploring the doping evolution of superconducting pairing will open a new realm for testing the pairing mechanism in pressurized La${}\_3$Ni${}\_2$O${}\_7$.
+
+---
+
+## 4. Weak coupling theory of nickel-based 327 superconductors
 
 - **提交日期**：2026-08-24
 - **作者**：Miao Jianjian, Chen Weiqiang
@@ -21,7 +54,7 @@ This review provides a comprehensive survey of weak-coupling theoretical approac
 
 ---
 
-## 2. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
+## 5. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
 
 - **提交日期**：2026-08-18
 - **作者**：Motoki Osada, Chieko Terakura, Shusaku Imajo, Jean-Baptiste Morée, Akiko Kikkawa, Masamichi Nakajima, Hsiao-Yi Chen, Yusuke Nomura, Koichi Kindo, Ryotaro Arita, Yoshinori Tokura, Atsushi Tsukazaki
@@ -32,7 +65,7 @@ The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity n
 
 ---
 
-## 3. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
+## 6. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
 
 - **提交日期**：2026-08-18
 - **作者**：Xiaoxiang Zhou, Shiyu Xie, Liangxin Qiao, Hengyuan Zhang, Jun Shu, Rui Liu, Mengwu Huo, Deyuan Hu, Hengjie Liu, Chuansheng Hu, Yilin Wang, Ge He, Zeming Qi, Meng Wang, Dong-Lai Feng, Zengyi Du
@@ -43,7 +76,7 @@ The discovery of pressure-induced high temperature superconductivity in the bila
 
 ---
 
-## 4. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
+## 7. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
 
 - **提交日期**：2026-08-14
 - **作者**：I. V. Leonov
@@ -54,7 +87,7 @@ Using the DFT+dynamical mean-field theory method we study the effects of electro
 
 ---
 
-## 5. Thermodynamic phase transition, pairing symmetry and Fermi surface topology in Ruddlesden-Popper nickelate films
+## 8. Thermodynamic phase transition, pairing symmetry and Fermi surface topology in Ruddlesden-Popper nickelate films
 
 - **提交日期**：2026-08-04
 - **作者**：Yu Miao, Zhiwei Wang, Hongxu Sun, Jianchang Shen, Runqing Luan, Zhipeng Ou, Xinru Yong, Zhenyu Wang, Tao Wu, Haoyu Hu, Junfeng He, Xianhui Chen
@@ -65,7 +98,7 @@ Ruddlesden-Popper (RP) nickelates provide an uncharted territory to explore high
 
 ---
 
-## 6. Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7
+## 9. Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7
 
 - **提交日期**：2026-08-03
 - **作者**：Jian Zhou, Rui Song, Haiyan Lu
@@ -76,7 +109,7 @@ The recent discovery of high-temperature superconductivity in pressurized bilaye
 
 ---
 
-## 7. Enhanced and robust superconductivity in La0.8Sr0.2NiO2 membranes compressed up to 210 GPa
+## 10. Enhanced and robust superconductivity in La0.8Sr0.2NiO2 membranes compressed up to 210 GPa
 
 - **提交日期**：2026-08-03
 - **作者**：Shu Cai, Yuqing Tian, Shengjun Yan, Jinyu Zhao, Bo Hao, Jianfeng Zhang, Shuaihang Sun, Yang Ding, Qi Wu, Ho-kwang Mao, I. Bozovic, Yuefeng Nie, Liling Sun
@@ -87,7 +120,7 @@ The discovery of superconductivity in infinite-layer nickelate thin films has op
 
 ---
 
-## 8. Electron-like high-temperature superconductivity induced by compressive strain in La2PrNi2O7 thin films
+## 11. Electron-like high-temperature superconductivity induced by compressive strain in La2PrNi2O7 thin films
 
 - **提交日期**：2026-08-02
 - **作者**：Zhiwei Wang, Zhengjie Wang, Huiyu Wang, Mingyi Zhu, Mengzu Shi, Zongyao Huang, Houpu Li, Shoucong Ning, Jing Tao, Tao Wu, Xianhui Chen
@@ -95,17 +128,6 @@ The discovery of superconductivity in infinite-layer nickelate thin films has op
 
 ### 摘要
 The realization of high-temperature superconductivity in bilayer nickelates under epitaxial compressive strain is widely interpreted as mimicking the effects of high hydrostatic pressure. To test the equivalence of these mechanisms, we investigated a comprehensive strain continuum ranging from compressive (-2.14%) to tensile (+0.91%). Crucially, via ozone-assisted atomic-layer epitaxy, we realized high-temperature superconductivity in as-grown La2PrNi2O7 films on NdAlO3 substrates, which induce the most extreme compressive strain in this material system. Under extreme compression (-2.14%), these films exhibit a Tc\_onset of 60 K, zero resistance at 33 K, and a diamagnetic response at 20 K, with magnetotransport measurements confirming a quasi-two-dimensional superconducting nature. Comparing our phase diagram with reported data reveals distinct lattice responses: unlike in pressurized crystals, the superconducting window in epitaxial films diverges significantly in the out-of-plane parameter c (or c/ap ratio) but remains consistent with the bulk regarding the in-plane parameter ap. Crucially, while superconductivity in both systems emerges from the suppression of spin-density waves (SDW), Hall measurements reveal a fundamental electronic dichotomy: optimal superconducting films are intrinsically electron-like (exhibiting a negative Hall coefficient), in stark contrast to the hole-like nature (positive Hall coefficient) of high-pressure bulk crystals and non-superconducting tensile films. Ultimately, both tuning strategies effectively modulate the underlying correlation landscape - the true driver of superconductivity - transcending the constraints of specific Fermi surface topologies. This work establishes a macroscopic platform for probing the multi-orbital physics of nickelates, offering a new dimension for investigating high-temperature superconductivity.
-
----
-
-## 9. \{\it Ab initio\} prediction of $d\_{x^2-y^2}$-wave superconductivity in infinite-layer nickelates
-
-- **提交日期**：2026-08-01
-- **作者**：Guang-Yu Guo, Ren-Guo Guo, Yun-Chen Liao, Yang-hao Chan
-- **arXiv链接**：[http://arxiv.org/abs/2608.00512v1](http://arxiv.org/abs/2608.00512v1)
-
-### 摘要
-Infinite-layer nickelates have recently emerged as a new family of potential unconventional high critical temperature ($T\_c$) superconductors. However, fundamental questions such as their superconducting (SC) pairing mechanism and gap symmetry remain under intense debate. Here we present a fully \{\it ab initio\} theoretical study on the SC properties of optimally doped nickelates $Re$${}\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ ($Re=$ La, Pr, Nd), based on the density functional theory for superconductors calculations with electron-phonon coupling (EPC), screened Coulomb repulsion and spin fluctuation (SF) interaction treated on an equal footing. We find that $Re\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ are two-band superconductors with sign reversal $d\_{x^2-y^2}(\pm)$-wave gap functions on the different Fermi surface (FS) pockets. Interestingly, when the SF interaction is turned off, $T\_c$ becomes negligibly small ($\sim$0.01 K), thus demonstrating that the superconductivity in $Re\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ is driven by SF interaction. Moreover, our \{\it ab initio\} calculations reveal that the SF interaction is an order of magnitude stronger than both EPC and Coulomb repulsion on the large quasi-two-dimensional FS pocket around the Brillouin zone (BZ) center, thus leading to the SF-mediated pairing mechanism, although the EPC dominates on the small three-dimensional electron FS pockets at the BZ corners. The emergence of nodal $d\_{x^2-y^2}(\pm)$-wave gap structure is traced to the pronounced peaks in the Lindhard response function at the BZ corners. Our calculated FS, SC critical temperature, nodal gap structure and SC quasiparticle density of states are consistent with most available experiments. Furthermore, predicted unconventional SC properties such as scanning tunneling spectra of La${}\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ and Pr${}\_{0.8}$Sr${}\_{0.2}$NiO${}\_2$ are ready for immediate experimental verifications.
 
 ---
 
