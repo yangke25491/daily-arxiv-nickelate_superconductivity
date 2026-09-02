@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-08-02 至 2026-09-01**
-> 数据检索到 **11** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-03 至 2026-09-02**
+> 数据检索到 **12** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Machine learning reveals common features of unconventional superconductors with high transition temperatures
+## 1. Expanding the trilayer Ruddlesden-Popper nickelate family: Synthesis and characterization of Sm${}\_4$Ni${}\_3$O${}\_{10-δ}$ single crystals
+
+- **提交日期**：2026-09-01
+- **作者**：Yuhang Zhang, Tian-Yi Li, Xiyu Zhu, Ying-Jie Zhang, Shengtai Fan, Qing Li, Hai-Hu Wen
+- **arXiv链接**：[http://arxiv.org/abs/2609.00574v1](http://arxiv.org/abs/2609.00574v1)
+
+### 摘要
+The discovery of high-temperature superconductivity in Ruddlesden-Popper (RP) nickelates has attracted significant attention. Bulk superconductivity emerges under pressure in trilayer nickelates La${}\_4$Ni${}\_3$O${}\_{10-δ}$ (T${}\_c$ $\approx$ 30 K) and Pr${}\_4$Ni${}\_3$O${}\_{10-δ}$ (T${}\_c$ $\approx$ 40.5 K), where the reduced ionic radius of Pr$^{3+}$ may generate internal chemical pressure and enhance T${}\_c$. However, synthesizing trilayer RP phases with smaller rare-earth elements (Ln) is extremely challenging. So far, only the La, Pr, and Nd analogues have been synthesized with stable phases in the single rare-earth form. Here we report the first successful high-pressure and high-temperature (HPHT) synthesis of samarium-based compound Sm${}\_4$Ni${}\_3$O${}\_{10-δ}$. Magnetization and transport measurements consistently confirm a density wave (DW) transition at ~180 K at ambient pressure. Through a careful fitting to the structural data of Sm${}\_4$Ni${}\_3$O${}\_{10-δ}$, it is found that the bond angle of (Ni-O-Ni) associating with the interlayer apical oxygen is much smaller than 180$^{\circ}$, which was assumed to be the key factor for the occurrence of superconductivity. By applying pressures up to 80 GPa, despite partial suppression of insulating behavior and the DW order, but superconductivity is not observed in our present study. Density functional theory calculations suggest that the 3d${}\_{z^2}$ and 3d${}\_{x^2-y^2}$ are separated from other t${}\_{2g}$ orbitals and make a primary contribution to the Fermi surface. The newly synthesized trilayer nickelate Sm${}\_4$Ni${}\_3$O${}\_{10-δ}$ offers a unique platform for probing the fundamental physics of RP nickelates.
+
+---
+
+## 2. Heavily Sr-Doped La${}\_{2}$SrNi${}\_{2}$O${}\_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure
+
+- **提交日期**：2026-09-01
+- **作者**：Yuhang Zhang, Xue Ming, Cui-Qun Chen, Wei Chen, Tian-Yi Li, Zhe-Ning Xiang, Qing Li, Bing-hui Ge, Dao-Xin Yao, Xiyu Zhu, Hai-Hu Wen
+- **arXiv链接**：[http://arxiv.org/abs/2609.00542v1](http://arxiv.org/abs/2609.00542v1)
+
+### 摘要
+High-temperature superconductivity has been found in bilayer Ruddlesden-Popper (RP) nickelates in bulk samples under high pressure, or in thin films via compressive strain. In the superconducting state, a tetragonal structure with a straight Ni-O-Ni bond along c-axis has been commonly observed, together with the suppression or diminishing of the density-wave orders. Therefore, it remains an open question whether these factors are sufficient for achieving superconductivity at ambient pressure. Here we report the first successful synthesis of heavily Sr-doped La${}\_{2}$SrNi${}\_{2}$O${}\_{7-δ}$ under high-pressure and high-temperature (HPHT) conditions with a flux method. X-ray diffraction and scanning transmission electron microscopy (STEM) confirm that the material adopts a tetragonal (I4/mmm) structure with an 180$^{\circ}$ Ni-O-Ni bond angle along c-axis. Resistance measurements reveal metallic behavior with a low-temperature upturn and no density-wave features are observed. However, neither pressure nor oxygen variation induces superconductivity. Density functional theory calculations indicate that the holes introduced by Sr doping are predominantly doped into the Ni-3d${}\_{z^2}$ orbital, leading to the appearance of a very large $γ$ pocket on the Fermi surface at ambient pressure and significantly reducing the occupation of the Ni-3d${}\_{z^2 }$ orbital. Combining the experimental observations with theoretical calculations, we attribute the absence of superconductivity to the serious deviation from the half-filling state of the Ni-3d${}\_{z^2 }$ band, which is crucial for the interlayer antiferromagnetic interaction and thus for pairing. Our work unravels important issues for achieving superconductivity in bilayer nickelate system.
+
+---
+
+## 3. Machine learning reveals common features of unconventional superconductors with high transition temperatures
 
 - **提交日期**：2026-08-31
 - **作者**：Haosheng Xu, Dongheng Qian, Yijun Yu, Jing Wang
@@ -21,7 +43,7 @@ Superconductors with high critical temperatures that emerges beyond the phonon-m
 
 ---
 
-## 2. Magnetic contacts on freestanding superconducting LaAlO${}\_3$/SrTiO${}\_3$ micromembranes
+## 4. Magnetic contacts on freestanding superconducting LaAlO${}\_3$/SrTiO${}\_3$ micromembranes
 
 - **提交日期**：2026-08-30
 - **作者**：Thies Jansen, Pinelopi Konstantinopoulou, Niklas Martin, Fabio Miletto Granozio, Alessia Sambri, Rasmus Bjørk, Felix Trier, Thomas S. Jespersen
@@ -32,7 +54,7 @@ The superconducting two-dimensional electron gas (2DEG) at the LaAlO${}\_3$/SrTi
 
 ---
 
-## 3. Doping-driven evolution of pairing symmetry in pressurized La${}\_3$Ni${}\_2$O${}\_7$
+## 5. Doping-driven evolution of pairing symmetry in pressurized La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-08-29
 - **作者**：Hai-Yang Zhang, Yu-Jie Bai, Fan-Jie Kong
@@ -43,7 +65,7 @@ We investigate the superconducting pairing symmetry and its doping evolution in 
 
 ---
 
-## 4. Weak coupling theory of nickel-based 327 superconductors
+## 6. Weak coupling theory of nickel-based 327 superconductors
 
 - **提交日期**：2026-08-24
 - **作者**：Miao Jianjian, Chen Weiqiang
@@ -54,7 +76,7 @@ This review provides a comprehensive survey of weak-coupling theoretical approac
 
 ---
 
-## 5. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
+## 7. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
 
 - **提交日期**：2026-08-18
 - **作者**：Motoki Osada, Chieko Terakura, Shusaku Imajo, Jean-Baptiste Morée, Akiko Kikkawa, Masamichi Nakajima, Hsiao-Yi Chen, Yusuke Nomura, Koichi Kindo, Ryotaro Arita, Yoshinori Tokura, Atsushi Tsukazaki
@@ -65,7 +87,7 @@ The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity n
 
 ---
 
-## 6. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
+## 8. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
 
 - **提交日期**：2026-08-18
 - **作者**：Xiaoxiang Zhou, Shiyu Xie, Liangxin Qiao, Hengyuan Zhang, Jun Shu, Rui Liu, Mengwu Huo, Deyuan Hu, Hengjie Liu, Chuansheng Hu, Yilin Wang, Ge He, Zeming Qi, Meng Wang, Dong-Lai Feng, Zengyi Du
@@ -76,7 +98,7 @@ The discovery of pressure-induced high temperature superconductivity in the bila
 
 ---
 
-## 7. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
+## 9. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
 
 - **提交日期**：2026-08-14
 - **作者**：I. V. Leonov
@@ -87,7 +109,7 @@ Using the DFT+dynamical mean-field theory method we study the effects of electro
 
 ---
 
-## 8. Thermodynamic phase transition, pairing symmetry and Fermi surface topology in Ruddlesden-Popper nickelate films
+## 10. Thermodynamic phase transition, pairing symmetry and Fermi surface topology in Ruddlesden-Popper nickelate films
 
 - **提交日期**：2026-08-04
 - **作者**：Yu Miao, Zhiwei Wang, Hongxu Sun, Jianchang Shen, Runqing Luan, Zhipeng Ou, Xinru Yong, Zhenyu Wang, Tao Wu, Haoyu Hu, Junfeng He, Xianhui Chen
@@ -98,7 +120,7 @@ Ruddlesden-Popper (RP) nickelates provide an uncharted territory to explore high
 
 ---
 
-## 9. Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7
+## 11. Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7
 
 - **提交日期**：2026-08-03
 - **作者**：Jian Zhou, Rui Song, Haiyan Lu
@@ -109,7 +131,7 @@ The recent discovery of high-temperature superconductivity in pressurized bilaye
 
 ---
 
-## 10. Enhanced and robust superconductivity in La0.8Sr0.2NiO2 membranes compressed up to 210 GPa
+## 12. Enhanced and robust superconductivity in La0.8Sr0.2NiO2 membranes compressed up to 210 GPa
 
 - **提交日期**：2026-08-03
 - **作者**：Shu Cai, Yuqing Tian, Shengjun Yan, Jinyu Zhao, Bo Hao, Jianfeng Zhang, Shuaihang Sun, Yang Ding, Qi Wu, Ho-kwang Mao, I. Bozovic, Yuefeng Nie, Liling Sun
@@ -117,17 +139,6 @@ The recent discovery of high-temperature superconductivity in pressurized bilaye
 
 ### 摘要
 The discovery of superconductivity in infinite-layer nickelate thin films has opened a new frontier for exploring unconventional oxide superconductors beyond the copper oxide family. However, the presence of substrate hampers investigations under very high pressure. Recently, this problem was circumvented by a study of freestanding Nd0.85Sr0.15NiO2 membranes, which revealed that superconducting transition temperature kept increasing as the pressure was ramped up to 91 GPa, without showing signs of saturation. Naturally, one wonders what would happen at even higher pressures. Here, we report that superconductivity in a freestanding La0.8Sr0.2NiO2 membrane persists under applied ultrahigh pressures up to 210 GPa. The superconducting transition onset temperature exhibits a continuous dome-like evolution, increasing from 16 K at ambient pressure to a peak of 74.5 K at 146 GPa, and then gradually decreasing to 57.4 K at 210 GPa. Such robustness of superconductivity against ultrahigh pressure has not been observed in high-Tc oxide superconductors before.
-
----
-
-## 11. Electron-like high-temperature superconductivity induced by compressive strain in La2PrNi2O7 thin films
-
-- **提交日期**：2026-08-02
-- **作者**：Zhiwei Wang, Zhengjie Wang, Huiyu Wang, Mingyi Zhu, Mengzu Shi, Zongyao Huang, Houpu Li, Shoucong Ning, Jing Tao, Tao Wu, Xianhui Chen
-- **arXiv链接**：[http://arxiv.org/abs/2608.01295v1](http://arxiv.org/abs/2608.01295v1)
-
-### 摘要
-The realization of high-temperature superconductivity in bilayer nickelates under epitaxial compressive strain is widely interpreted as mimicking the effects of high hydrostatic pressure. To test the equivalence of these mechanisms, we investigated a comprehensive strain continuum ranging from compressive (-2.14%) to tensile (+0.91%). Crucially, via ozone-assisted atomic-layer epitaxy, we realized high-temperature superconductivity in as-grown La2PrNi2O7 films on NdAlO3 substrates, which induce the most extreme compressive strain in this material system. Under extreme compression (-2.14%), these films exhibit a Tc\_onset of 60 K, zero resistance at 33 K, and a diamagnetic response at 20 K, with magnetotransport measurements confirming a quasi-two-dimensional superconducting nature. Comparing our phase diagram with reported data reveals distinct lattice responses: unlike in pressurized crystals, the superconducting window in epitaxial films diverges significantly in the out-of-plane parameter c (or c/ap ratio) but remains consistent with the bulk regarding the in-plane parameter ap. Crucially, while superconductivity in both systems emerges from the suppression of spin-density waves (SDW), Hall measurements reveal a fundamental electronic dichotomy: optimal superconducting films are intrinsically electron-like (exhibiting a negative Hall coefficient), in stark contrast to the hole-like nature (positive Hall coefficient) of high-pressure bulk crystals and non-superconducting tensile films. Ultimately, both tuning strategies effectively modulate the underlying correlation landscape - the true driver of superconductivity - transcending the constraints of specific Fermi surface topologies. This work establishes a macroscopic platform for probing the multi-orbital physics of nickelates, offering a new dimension for investigating high-temperature superconductivity.
 
 ---
 
