@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-08-03 至 2026-09-02**
-> 数据检索到 **12** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-04 至 2026-09-03**
+> 数据检索到 **10** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -117,28 +117,6 @@ Using the DFT+dynamical mean-field theory method we study the effects of electro
 
 ### 摘要
 Ruddlesden-Popper (RP) nickelates provide an uncharted territory to explore high-transition-temperature (high-$T\_C$) superconductivity and superconducting mechanism. Here, we investigate the electronic structure of a new type of high-$T\_C$ superconducting RP nickelate heterostructure $\mathrm{La\_2PrNi\_2O\_7/NdAlO\_3}$ by angle-resolved photoemission spectroscopy. A superconducting state is observed without a pseudogap state, enabling a direct measurement of the superconducting order parameter and a microscopic extraction of the electronic specific heat. The observed superconducting gap opens at $T\_C$ with prominent coherence peaks, illustrating the emergence of nonzero order parameter upon entering the superconducting state. An electronic specific heat jump appears at $T\_C$, further demonstrating a thermodynamic phase transition. The magnitude of the superconducting order parameter is quantified by the observed superconducting coherence peaks, and a nodeless behavior is unambiguously established in the absence of pseudogap. The underlying Fermi surface consists of $α$, $β$ and $γ$ pockets, exhibiting a multi-orbital nature. Strain dependent measurements further reveal the $γ$ pocket in all superconducting and non-superconducting films with different epitaxial strain. Our results establish the missing thermodynamic evidence for superconducting phase transition in nickelates. They also provide direct evidence for the symmetry of the superconducting order parameter and illustrate the relationship between Fermi surface topology and the emergence of superconductivity in RP nickelate films.
-
----
-
-## 11. Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7
-
-- **提交日期**：2026-08-03
-- **作者**：Jian Zhou, Rui Song, Haiyan Lu
-- **arXiv链接**：[http://arxiv.org/abs/2608.02261v1](http://arxiv.org/abs/2608.02261v1)
-
-### 摘要
-The recent discovery of high-temperature superconductivity in pressurized bilayer La3Ni2O7 has sparked intense research interest, yet the microscopic mechanism governing its pressure-dependent superconducting transition temperature (Tc) remains elusive. In this work, we investigate the electronic and magnetic correlations of La3Ni2O7 under high pressure using a combination of density-functional theory (DFT), constrained random phase approximation (cRPA), and dynamical mean-field theory (DMFT). We find that while hydrostatic pressure enhances the interlayer hopping and the bare superexchange energy scale (4t2/U), it simultaneously drives the system toward a more itinerant regime by reducing the relative correlation strength (U/W). Crucially, our results reveal a distinct orbital-selective evolution: the Ni dx2-y2 states become increasingly itinerant, whereas the Ni dz2 orbitals retain a more localized character. This pressure-induced itinerancy significantly enhances the hybridization between the two, leading to a dramatic amplification of the Kondo-like screening of the local dz2 moments by the itinerant dx2-y2 electrons. Consequently, the effective magnetic exchange coupling (Jeff), which serves as the pairing glue, is suppressed in the high-pressure regime. Our findings suggest that the monotonic decrease of Tc at high pressures is driven by the dominance of Kondo screening over superexchange interactions, providing a coherent microscopic explanation for the dome-shaped superconducting phase diagram in La3Ni2O7.
-
----
-
-## 12. Enhanced and robust superconductivity in La0.8Sr0.2NiO2 membranes compressed up to 210 GPa
-
-- **提交日期**：2026-08-03
-- **作者**：Shu Cai, Yuqing Tian, Shengjun Yan, Jinyu Zhao, Bo Hao, Jianfeng Zhang, Shuaihang Sun, Yang Ding, Qi Wu, Ho-kwang Mao, I. Bozovic, Yuefeng Nie, Liling Sun
-- **arXiv链接**：[http://arxiv.org/abs/2608.02042v1](http://arxiv.org/abs/2608.02042v1)
-
-### 摘要
-The discovery of superconductivity in infinite-layer nickelate thin films has opened a new frontier for exploring unconventional oxide superconductors beyond the copper oxide family. However, the presence of substrate hampers investigations under very high pressure. Recently, this problem was circumvented by a study of freestanding Nd0.85Sr0.15NiO2 membranes, which revealed that superconducting transition temperature kept increasing as the pressure was ramped up to 91 GPa, without showing signs of saturation. Naturally, one wonders what would happen at even higher pressures. Here, we report that superconductivity in a freestanding La0.8Sr0.2NiO2 membrane persists under applied ultrahigh pressures up to 210 GPa. The superconducting transition onset temperature exhibits a continuous dome-like evolution, increasing from 16 K at ambient pressure to a peak of 74.5 K at 146 GPa, and then gradually decreasing to 57.4 K at 210 GPa. Such robustness of superconductivity against ultrahigh pressure has not been observed in high-Tc oxide superconductors before.
 
 ---
 
