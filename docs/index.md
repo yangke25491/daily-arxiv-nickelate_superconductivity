@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-08-09 至 2026-09-08**
-> 数据检索到 **12** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-10 至 2026-09-09**
+> 数据检索到 **14** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Ni-O hybridization as a stabilizer for $s^{\pm}$ superconductivity in La${}\_3$Ni${}\_2$O${}\_7$: a DFT+RPA study
+## 1. Nearly Isotropic Vortex Solid in $\mathbf{(La,Pr)\_{3}Ni\_{2}O\_{7}}$ Thin Films
+
+- **提交日期**：2026-09-07
+- **作者**：Yaolong Bian, Yaqi Chen, Heng Wang, Guangdi Zhou, Fei Peng, Zichen Lv, Jiaqiang Cai, Yifan Chen, Wenjie Meng, Ze Wang, Haoliang Huang, Daohua Zhang, Mingliang Tian, Jinfeng Jia, Qi-kun Xue, Zhuoyu Chen, Jinglei Zhang
+- **arXiv链接**：[http://arxiv.org/abs/2609.07510v1](http://arxiv.org/abs/2609.07510v1)
+
+### 摘要
+The discovery of superconductivity in bulk bilayer nickelates has established a new platform for exploring high-$T\_c$ superconductivity beyond the cuprates. The role of the Ni $3d\_{z^2}$-derived $γ$ band in the superconductivity of bilayer nickelates remains unresolved. By performing simultaneous resistance and diamagnetism measurements on (La,Pr)${}\_3$Ni${}\_2$O${}\_7$ thin films, we map the vortex melting phase diagram for both in-plane and out-of-plane magnetic fields. For $H\parallel c$, the geometric confinement effect gives rise to pancake vortices. Remarkably, the anisotropy parameter of the vortex melting field $γ\_{H\_m} \equiv H\_m^{ab}/H\_m^c$ decreases monotonically with decreasing temperature and approaches unity at low temperatures. Within the anisotropic Ginzburg--Landau scaling, $H\_m^{ab}/H\_m^c = \sqrt{ρ\_s^{ab}/ρ\_s^c}$ tracks the superfluid-density anisotropy. Such a vortex solid implies a nearly isotropic superfluid density, which is irreconcilable with the strictly two-dimensional $3d\_{x^2-y^2}$-derived bands, but naturally explained by a substantial interlayer superfluid contribution from the $3d\_{z^2}$-derived $γ$ band. Our results provide thermodynamic evidence for a substantial contribution of the $γ$ band to superconductivity in bilayer nickelate thin films.
+
+---
+
+## 2. $^{139}$La nuclear quadrupole resonance studies of pressurized La${}\_4$Ni${}\_3$O${}\_{10}$
+
+- **提交日期**：2026-09-06
+- **作者**：Meng Zhang, Zhuo Wang, Yantao Cao, Yang Yuan, Kangjian Luo, Shanxiang Gao, Hanjie Guo, Yongkang Luo
+- **arXiv链接**：[http://arxiv.org/abs/2609.06453v1](http://arxiv.org/abs/2609.06453v1)
+
+### 摘要
+Density-wave (DW) orders are considered as competing orders to unconventional superconductivity and are commonly seen in a variety of superconductors including but not limited to the recently discovered Ruddlesden-Popper-phase nickelates. By utilizing $^{139}$La nuclear quadrupole resonance, we systematically investigate into the nature of DW orders and their evolution under pressure in La${}\_4$Ni${}\_3$O${}\_{10}$. Spin and charge DW orders are found to be intertwined in this material, which is in stark contrast to those in La${}\_3$Ni${}\_2$O${}\_7$. Short-range DW orders are observed near 150 K, well above the development of long-range DW orders at around 139 K. Upon applying a hydrostatic pressure of 2.3 GPa, the transition temperatures of the short-range and long-range orders decrease at rates of 1 K/GPa and 10 K/GPa, respectively. Our results thus affirm that both spin density wave and charge density wave as competing orders with the superconducting state in La${}\_4$Ni${}\_3$O${}\_{10}$, and provide new insights into the interplay between DW orders and unconventional superconductivity.
+
+---
+
+## 3. Ni-O hybridization as a stabilizer for $s^{\pm}$ superconductivity in La${}\_3$Ni${}\_2$O${}\_7$: a DFT+RPA study
 
 - **提交日期**：2026-09-04
 - **作者**：Lauro B. Braz, Daniel D. Rivera, Emmanuel V. C. Lopes, George B. Martins, Gustavo M. Dalpian, Luis G. G. V. Dias da Silva
@@ -21,7 +43,7 @@ The superconducting gap symmetry of high-pressure bilayer nickelates remains und
 
 ---
 
-## 2. Layer Architecture Shapes Electronic, Magnetic, and Lattice Interactions in Ruddlesden-Popper Nickelates
+## 4. Layer Architecture Shapes Electronic, Magnetic, and Lattice Interactions in Ruddlesden-Popper Nickelates
 
 - **提交日期**：2026-09-03
 - **作者**：W. He, X. Guo, X. Luo, J. Thomas, J. Sears, Sophia F. R. TenHuisen, Ziqiang Guan, Xinglong Chen, D. A. Dahlbom, B. Zager, J. Pelliciari, Yi-Feng Zhao, H. LaBollita, Hong Zheng, M. K. Lajer, J. F. Mitchell, V. Bisogni, A. S. Botana, M. Mitrano, S. Johnston, M. P. M. Dean
@@ -32,7 +54,7 @@ The discovery of superconductivity in Ruddlesden-Popper nickelates has raised a 
 
 ---
 
-## 3. Doping dependence of local moments in infinite layer nickelates
+## 5. Doping dependence of local moments in infinite layer nickelates
 
 - **提交日期**：2026-09-03
 - **作者**：Martin Gonzalez, Andreas Suter, Michal Kiaba, Thomas Prokscha, Zaher Salman, Marc Gabay, Harold Y. Hwang, Jennifer Fowlie
@@ -43,7 +65,7 @@ The infinite layer nickelates are notable for their lack of long-range antiferro
 
 ---
 
-## 4. Expanding the trilayer Ruddlesden-Popper nickelate family: Synthesis and characterization of Sm${}\_4$Ni${}\_3$O${}\_{10-δ}$ single crystals
+## 6. Expanding the trilayer Ruddlesden-Popper nickelate family: Synthesis and characterization of Sm${}\_4$Ni${}\_3$O${}\_{10-δ}$ single crystals
 
 - **提交日期**：2026-09-01
 - **作者**：Yuhang Zhang, Tian-Yi Li, Xiyu Zhu, Ying-Jie Zhang, Shengtai Fan, Qing Li, Hai-Hu Wen
@@ -54,7 +76,7 @@ The discovery of high-temperature superconductivity in Ruddlesden-Popper (RP) ni
 
 ---
 
-## 5. Heavily Sr-Doped La${}\_{2}$SrNi${}\_{2}$O${}\_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure
+## 7. Heavily Sr-Doped La${}\_{2}$SrNi${}\_{2}$O${}\_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure
 
 - **提交日期**：2026-09-01
 - **作者**：Yuhang Zhang, Xue Ming, Cui-Qun Chen, Wei Chen, Tian-Yi Li, Zhe-Ning Xiang, Qing Li, Bing-hui Ge, Dao-Xin Yao, Xiyu Zhu, Hai-Hu Wen
@@ -65,7 +87,7 @@ High-temperature superconductivity has been found in bilayer Ruddlesden-Popper (
 
 ---
 
-## 6. Machine learning reveals common features of unconventional superconductors with high transition temperatures
+## 8. Machine learning reveals common features of unconventional superconductors with high transition temperatures
 
 - **提交日期**：2026-08-31
 - **作者**：Haosheng Xu, Dongheng Qian, Yijun Yu, Jing Wang
@@ -76,7 +98,7 @@ Superconductors with high critical temperatures that emerges beyond the phonon-m
 
 ---
 
-## 7. Magnetic contacts on freestanding superconducting LaAlO${}\_3$/SrTiO${}\_3$ micromembranes
+## 9. Magnetic contacts on freestanding superconducting LaAlO${}\_3$/SrTiO${}\_3$ micromembranes
 
 - **提交日期**：2026-08-30
 - **作者**：Thies Jansen, Pinelopi Konstantinopoulou, Niklas Martin, Fabio Miletto Granozio, Alessia Sambri, Rasmus Bjørk, Felix Trier, Thomas S. Jespersen
@@ -87,7 +109,7 @@ The superconducting two-dimensional electron gas (2DEG) at the LaAlO${}\_3$/SrTi
 
 ---
 
-## 8. Doping-driven evolution of pairing symmetry in pressurized La${}\_3$Ni${}\_2$O${}\_7$
+## 10. Doping-driven evolution of pairing symmetry in pressurized La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-08-29
 - **作者**：Hai-Yang Zhang, Yu-Jie Bai, Fan-Jie Kong
@@ -98,7 +120,7 @@ We investigate the superconducting pairing symmetry and its doping evolution in 
 
 ---
 
-## 9. Weak coupling theory of nickel-based 327 superconductors
+## 11. Weak coupling theory of nickel-based 327 superconductors
 
 - **提交日期**：2026-08-24
 - **作者**：Miao Jianjian, Chen Weiqiang
@@ -109,7 +131,7 @@ This review provides a comprehensive survey of weak-coupling theoretical approac
 
 ---
 
-## 10. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
+## 12. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
 
 - **提交日期**：2026-08-18
 - **作者**：Motoki Osada, Chieko Terakura, Shusaku Imajo, Jean-Baptiste Morée, Akiko Kikkawa, Masamichi Nakajima, Hsiao-Yi Chen, Yusuke Nomura, Koichi Kindo, Ryotaro Arita, Yoshinori Tokura, Atsushi Tsukazaki
@@ -120,7 +142,7 @@ The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity n
 
 ---
 
-## 11. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
+## 13. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
 
 - **提交日期**：2026-08-18
 - **作者**：Xiaoxiang Zhou, Shiyu Xie, Liangxin Qiao, Hengyuan Zhang, Jun Shu, Rui Liu, Mengwu Huo, Deyuan Hu, Hengjie Liu, Chuansheng Hu, Yilin Wang, Ge He, Zeming Qi, Meng Wang, Dong-Lai Feng, Zengyi Du
@@ -131,7 +153,7 @@ The discovery of pressure-induced high temperature superconductivity in the bila
 
 ---
 
-## 12. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
+## 14. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
 
 - **提交日期**：2026-08-14
 - **作者**：I. V. Leonov
