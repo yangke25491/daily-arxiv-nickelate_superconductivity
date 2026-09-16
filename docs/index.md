@@ -5,12 +5,56 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-08-13 至 2026-09-12**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-17 至 2026-09-16**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Competing Interlayer Loop Currents and Superconductivity in the Bilayer $t$-$J\_\perp$-$V$ Model
+## 1. Mode-selective phonon effects on magnetism and superconductivity in trilayer nickelates
+
+- **提交日期**：2026-09-14
+- **作者**：C. Alexander Baum, Jun Zhan, Congcong Le, Ronny Thomale, Xianxin Wu
+- **arXiv链接**：[http://arxiv.org/abs/2609.16143v1](http://arxiv.org/abs/2609.16143v1)
+
+### 摘要
+The discovery of high-$T\_c$ superconductivity in multilayer nickelates has stimulated intense interest, yet the microscopic origins of their correlated states remain debated. Recently the observed isotope effect of the magnetic state in trilayer nickelates highlights the important role of lattice vibrations in shaping these systems. Here, we investigate the impact of electron-phonon coupling (EPC) on magnetism and superconductivity in trilayer nickelates using ab initio and functional renormalization group calculations. We identify out-of-plane oxygen breathing modes with pronounced EPC and construct symmetry-resolved, layer-dependent couplings. Their relative phases across the three layers generate distinct retarded interactions, producing mode-selective enhancement or suppression of spin-density-wave order and $s\_\pm$-wave superconductivity. This selectivity arises from screening-mediated spin-phonon interplay across a hierarchy of energy scales: EPC modifies charge screening at higher energies, reshapes magnetic fluctuations at lower energies, and ultimately influences pairing. Selected modes yield negative isotope coefficients for the magnetic state, qualitatively consistent with experiments. Our results establish how interlayer phonons modify electronically driven order and provide a microscopic framework for understanding isotope effects in trilayer nickelates.
+
+---
+
+## 2. Stripe-Like Superconducting Enhancement and Coexisting Magnetic Texture in an Infinite Layer Nickelate
+
+- **提交日期**：2026-09-14
+- **作者**：Ryan Laing, Dung Vu, Jacob Pfund, Wenzheng Wei, Frederick J. Walker, Haiyan Tan, Pavel Volkov, Menka Jain, Charles Ahn, Ilya Sochnikov
+- **arXiv链接**：[http://arxiv.org/abs/2609.15958v1](http://arxiv.org/abs/2609.15958v1)
+
+### 摘要
+Despite their promise as structural and electronic analogs to cuprates, nickelate thin films consistently exhibit broadened superconducting transitions in many experiments that remain poorly understood. Local measurements are ideal for revealing the presence of defects or competing phases, which may cause this transition broadening through a phase-separation. Here, we use scanning SQUID microscopy to investigate local superfluid density and magnetic texture of optimally doped $\mathrm{Nd}\_{1-x}\mathrm{Eu}\_{x}\mathrm{NiO}\_{2}$ (NENO) (x=0.25) grown via molecular beam epitaxy. We observed a weakly-magnetic texture coexisting with superconductivity. Spatially resolved susceptibility imaging reveals a highly non-uniform superconducting state, characterized by a robust stripe-like enhancement pattern appearing near the phase transition. By resolving the mesoscopic landscape of electronic and magnetic inhomogeneities, these findings suggest that a competing magnetic phase is a primary contributor to the unusually broad superconducting transitions of these optimally doped NENO samples. Understanding the uncovered superconducting enhancement may provide a path to raising superconducting temperatures in these materials.
+
+---
+
+## 3. Layer- and Orbital-Selective Mott Physics Driving Dimensional Crossover in Nickelate Superlattices
+
+- **提交日期**：2026-09-12
+- **作者**：Minjae Kim, Byungmin Sohn, Sangjae Lee
+- **arXiv链接**：[http://arxiv.org/abs/2609.13723v1](http://arxiv.org/abs/2609.13723v1)
+
+### 摘要
+The design of quantum materials to manipulate dimensionality and electronic correlations is a central focus in the exploration of emergent phenomena. We propose a new correlated quantum material platform for realizing a layer- and orbital-selective Mott transition (LOSMT) in a nickelate heterostructure by combining bilayer and monolayer LaNiO${}\_3$ separated by a monolayer LaAlO${}\_3$ spacer under compressive strain from the LaAlO${}\_3$ substrate. The LOSMT emerges from the layer-dependent dimensional confinement of the apical Ni($d$)-$z^2$ orbital and strain-induced lifting of the orbital degeneracy. The monolayer LaNiO${}\_3$ exhibits an orbital-selective Mott insulating phase with a Mott gap in the Ni($d$)-$z^2$ orbital, whereas the bilayer LaNiO${}\_3$ exhibits a multi-orbital metallic phase, triggering the orbital-selective Mott transition upon cooling $via$ inter-layer hybridization of the Ni($d$)-$z^2$ orbitals. Calculations within the density functional theory plus dynamical mean-field theory (DFT+DMFT) framework reveal that the LOSMT drives a dimensional crossover by enabling out-of-plane electronic transport through the metallization of the localized apical Ni($d$)-$z^2$ orbital, while the planar Ni($d$)-$x^2-y^2$ orbital remains itinerant across the transition. The emergence of the LOSMT provides a new pathway for engineering correlated quantum materials toward unconventional superconductivity and Mott-transistor functionalities.
+
+---
+
+## 4. 2D Weak Localization in Trilayer Ruddelsden-Popper Nickelates
+
+- **提交日期**：2026-09-11
+- **作者**：Hyo-Bin Ahn, Xinglong Chen, Yu Zhang, Hong Zheng, Michael R. Norman, J. F. Mitchell, Daniel Phelan, Ulrich Welp
+- **arXiv链接**：[http://arxiv.org/abs/2609.13049v1](http://arxiv.org/abs/2609.13049v1)
+
+### 摘要
+Ruddlesden-Popper (RP) nickelates superconduct when pressure suppresses intertwined charge- and spin-density waves. Here, we employ measurements of quantum corrections to magnetoconductivity as a probe of the dimensionality, phase coherence, and scattering mechanisms of the underlying single crystal trilayer RP nickelate Pr4Ni3O10 and La4Ni3O10. We observe signatures of 2D Weak Localization (WL), implying that the in-plane electron transport is in the quantum diffusive regime, while the out-of-plane transport is incoherent, and the electronic ground state is a quasi-2D disordered Fermi liquid. Application of pressure up to 3 GPa continuously suppresses signatures of WL, potentially signaling a 2D/3D dimensional crossover and an eventual pressure-driven transition into a superconductor.
+
+---
+
+## 5. Competing Interlayer Loop Currents and Superconductivity in the Bilayer $t$-$J\_\perp$-$V$ Model
 
 - **提交日期**：2026-09-10
 - **作者**：Luciano Zinni, Fabricio Gómez, Jun Zhan, Matías Bejas, Xianxin Wu, Andreas P. Schnyder, Andrés Greco
@@ -21,7 +65,7 @@ The recent discovery of high-$T\_c$ superconductivity in pressurized and thin-fi
 
 ---
 
-## 2. Nearly Isotropic Vortex Solid in $\mathbf{(La,Pr)\_{3}Ni\_{2}O\_{7}}$ Thin Films
+## 6. Nearly Isotropic Vortex Solid in $\mathbf{(La,Pr)\_{3}Ni\_{2}O\_{7}}$ Thin Films
 
 - **提交日期**：2026-09-07
 - **作者**：Yaolong Bian, Yaqi Chen, Heng Wang, Guangdi Zhou, Fei Peng, Zichen Lv, Jiaqiang Cai, Yifan Chen, Wenjie Meng, Ze Wang, Haoliang Huang, Daohua Zhang, Mingliang Tian, Jinfeng Jia, Qi-kun Xue, Zhuoyu Chen, Jinglei Zhang
@@ -32,7 +76,7 @@ The discovery of superconductivity in bulk bilayer nickelates has established a 
 
 ---
 
-## 3. $^{139}$La nuclear quadrupole resonance studies of pressurized La${}\_4$Ni${}\_3$O${}\_{10}$
+## 7. $^{139}$La nuclear quadrupole resonance studies of pressurized La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-09-06
 - **作者**：Meng Zhang, Zhuo Wang, Yantao Cao, Yang Yuan, Kangjian Luo, Shanxiang Gao, Hanjie Guo, Yongkang Luo
@@ -43,7 +87,7 @@ Density-wave (DW) orders are considered as competing orders to unconventional su
 
 ---
 
-## 4. Ni-O hybridization as a stabilizer for $s^{\pm}$ superconductivity in La${}\_3$Ni${}\_2$O${}\_7$: a DFT+RPA study
+## 8. Ni-O hybridization as a stabilizer for $s^{\pm}$ superconductivity in La${}\_3$Ni${}\_2$O${}\_7$: a DFT+RPA study
 
 - **提交日期**：2026-09-04
 - **作者**：Lauro B. Braz, Daniel D. Rivera, Emmanuel V. C. Lopes, George B. Martins, Gustavo M. Dalpian, Luis G. G. V. Dias da Silva
@@ -54,7 +98,7 @@ The superconducting gap symmetry of high-pressure bilayer nickelates remains und
 
 ---
 
-## 5. Layer Architecture Shapes Electronic, Magnetic, and Lattice Interactions in Ruddlesden-Popper Nickelates
+## 9. Layer Architecture Shapes Electronic, Magnetic, and Lattice Interactions in Ruddlesden-Popper Nickelates
 
 - **提交日期**：2026-09-03
 - **作者**：W. He, X. Guo, X. Luo, J. Thomas, J. Sears, Sophia F. R. TenHuisen, Ziqiang Guan, Xinglong Chen, D. A. Dahlbom, B. Zager, J. Pelliciari, Yi-Feng Zhao, H. LaBollita, Hong Zheng, M. K. Lajer, J. F. Mitchell, V. Bisogni, A. S. Botana, M. Mitrano, S. Johnston, M. P. M. Dean
@@ -65,7 +109,7 @@ The discovery of superconductivity in Ruddlesden-Popper nickelates has raised a 
 
 ---
 
-## 6. Doping dependence of local moments in infinite layer nickelates
+## 10. Doping dependence of local moments in infinite layer nickelates
 
 - **提交日期**：2026-09-03
 - **作者**：Martin Gonzalez, Andreas Suter, Michal Kiaba, Thomas Prokscha, Zaher Salman, Marc Gabay, Harold Y. Hwang, Jennifer Fowlie
@@ -76,7 +120,7 @@ The infinite layer nickelates are notable for their lack of long-range antiferro
 
 ---
 
-## 7. Expanding the trilayer Ruddlesden-Popper nickelate family: Synthesis and characterization of Sm${}\_4$Ni${}\_3$O${}\_{10-δ}$ single crystals
+## 11. Expanding the trilayer Ruddlesden-Popper nickelate family: Synthesis and characterization of Sm${}\_4$Ni${}\_3$O${}\_{10-δ}$ single crystals
 
 - **提交日期**：2026-09-01
 - **作者**：Yuhang Zhang, Tian-Yi Li, Xiyu Zhu, Ying-Jie Zhang, Shengtai Fan, Qing Li, Hai-Hu Wen
@@ -87,7 +131,7 @@ The discovery of high-temperature superconductivity in Ruddlesden-Popper (RP) ni
 
 ---
 
-## 8. Heavily Sr-Doped La${}\_{2}$SrNi${}\_{2}$O${}\_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure
+## 12. Heavily Sr-Doped La${}\_{2}$SrNi${}\_{2}$O${}\_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure
 
 - **提交日期**：2026-09-01
 - **作者**：Yuhang Zhang, Xue Ming, Cui-Qun Chen, Wei Chen, Tian-Yi Li, Zhe-Ning Xiang, Qing Li, Bing-hui Ge, Dao-Xin Yao, Xiyu Zhu, Hai-Hu Wen
@@ -98,7 +142,7 @@ High-temperature superconductivity has been found in bilayer Ruddlesden-Popper (
 
 ---
 
-## 9. Machine learning reveals common features of unconventional superconductors with high transition temperatures
+## 13. Machine learning reveals common features of unconventional superconductors with high transition temperatures
 
 - **提交日期**：2026-08-31
 - **作者**：Haosheng Xu, Dongheng Qian, Yijun Yu, Jing Wang
@@ -109,7 +153,7 @@ Superconductors with high critical temperatures that emerges beyond the phonon-m
 
 ---
 
-## 10. Magnetic contacts on freestanding superconducting LaAlO${}\_3$/SrTiO${}\_3$ micromembranes
+## 14. Magnetic contacts on freestanding superconducting LaAlO${}\_3$/SrTiO${}\_3$ micromembranes
 
 - **提交日期**：2026-08-30
 - **作者**：Thies Jansen, Pinelopi Konstantinopoulou, Niklas Martin, Fabio Miletto Granozio, Alessia Sambri, Rasmus Bjørk, Felix Trier, Thomas S. Jespersen
@@ -120,7 +164,7 @@ The superconducting two-dimensional electron gas (2DEG) at the LaAlO${}\_3$/SrTi
 
 ---
 
-## 11. Doping-driven evolution of pairing symmetry in pressurized La${}\_3$Ni${}\_2$O${}\_7$
+## 15. Doping-driven evolution of pairing symmetry in pressurized La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-08-29
 - **作者**：Hai-Yang Zhang, Yu-Jie Bai, Fan-Jie Kong
@@ -131,7 +175,7 @@ We investigate the superconducting pairing symmetry and its doping evolution in 
 
 ---
 
-## 12. Weak coupling theory of nickel-based 327 superconductors
+## 16. Weak coupling theory of nickel-based 327 superconductors
 
 - **提交日期**：2026-08-24
 - **作者**：Miao Jianjian, Chen Weiqiang
@@ -142,7 +186,7 @@ This review provides a comprehensive survey of weak-coupling theoretical approac
 
 ---
 
-## 13. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
+## 17. Bridging ambient- and high-pressure superconductivity in La${}\_2$LnNi${}\_2$O${}\_7$ films
 
 - **提交日期**：2026-08-18
 - **作者**：Motoki Osada, Chieko Terakura, Shusaku Imajo, Jean-Baptiste Morée, Akiko Kikkawa, Masamichi Nakajima, Hsiao-Yi Chen, Yusuke Nomura, Koichi Kindo, Ryotaro Arita, Yoshinori Tokura, Atsushi Tsukazaki
@@ -153,7 +197,7 @@ The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity n
 
 ---
 
-## 14. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
+## 18. Unconventional Pressure Evolution of Spin-Density-Wave State in La${}\_{3}$Ni${}\_{2}$O${}\_{7}$
 
 - **提交日期**：2026-08-18
 - **作者**：Xiaoxiang Zhou, Shiyu Xie, Liangxin Qiao, Hengyuan Zhang, Jun Shu, Rui Liu, Mengwu Huo, Deyuan Hu, Hengjie Liu, Chuansheng Hu, Yilin Wang, Ge He, Zeming Qi, Meng Wang, Dong-Lai Feng, Zengyi Du
@@ -161,17 +205,6 @@ The discovery of high critical-temperature $T\_{\mathrm{c}}$ superconductivity n
 
 ### 摘要
 The discovery of pressure-induced high temperature superconductivity in the bilayer nickelate La${}\_{3}$Ni${}\_{2}$O${}\_{7}$ has raised the question of how its spin-density-wave (SDW) state evolves toward the superconducting regime. Here, we report a systematic electronic Raman study of La${}\_{3}$Ni${}\_{2}$O${}\_{7}$ single crystals under hydrostatic pressures up to 16.51 GPa. Both the SDW gap energy and the transition temperature $T\_{\mathrm{SDW}}$ show an overall increase with pressure, while the dimensionless coupling ratio 2$Δ\_{\text{SDW}}/(k\_{\text{B}}T\_{\text{SDW}})$ remains constant around $\sim7.5$, indicating a robust strong-coupling character of SDW state. At the same time, the Raman SDW peak broadens as pressure is applied, indicating a gradual weakening of long-range SDW order. These results reveal an unusual pressure evolution in which the SDW energy scale is enhanced while the SDW state becomes progressively less coherent, providing spectroscopic constraints on the magnetic correlations relevant to superconductivity in bilayer nickelates.
-
----
-
-## 15. Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La${}\_3$Ni${}\_2$O${}\_{7}$
-
-- **提交日期**：2026-08-14
-- **作者**：I. V. Leonov
-- **arXiv链接**：[http://arxiv.org/abs/2608.14810v1](http://arxiv.org/abs/2608.14810v1)
-
-### 摘要
-Using the DFT+dynamical mean-field theory method we study the effects of electron-electron correlations and epitaxial strain of the crystal structure on the normal-state electronic structure, quasiparticle band renormalizations, Fermi surface, and magnetic correlations of the bilayer Ruddlesden-Popper nickelate La${}\_3$Ni${}\_2$O${}\_7$ (LNO). Our results exhibit a remarkable orbital-selective renormalization and strong incoherence of the Ni $3d$ bands, pointing to the proximity of the Ni $x^2-y^2$ and $3z^2-r^2$ states to orbital-selective localization. The electronic properties of LNO show a high sensitivity to the in-plane strain. We note that both a tensile and a moderate compressive strain (up to about $-2$\%) yield a significant enhancement of magnetic correlations compared to the unstrained LNO. Under a large compressive strain of about $-4$\%, we observe a Lifshitz transition characterized by the disappearance of the $γ$ Fermi surface sheet, which is associated with a nearly fully occupied, shallow flat-band of the bonding Ni $3z^2-r^2$ orbital character. As a result, we observe a sharp decrease of magnetic correlations, implying suppression of superconductivity. Overall, our results support the picture of spin- and change-density-wave stripe instability driven by the Fermi surface nesting in LNO. Our results suggest that both pressure and strain can effectively tune (suppress or enhance) spin-change-density-wave ordering, giving rise to enhanced spin fluctuations.
 
 ---
 
