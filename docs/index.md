@@ -5,7 +5,7 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-08-23 至 2026-09-22**
+> 检索时间范围：**2026-08-24 至 2026-09-23**
 > 数据检索到 **20** 篇相关论文，按提交时间降序排列
 
 ---
@@ -14,7 +14,7 @@ title: 镍酸盐超导论文
 
 - **提交日期**：2026-09-21
 - **作者**：Youichi Yamakawa, Hiroshi Kontani
-- **arXiv链接**：[http://arxiv.org/abs/2609.24857v1](http://arxiv.org/abs/2609.24857v1)
+- **arXiv链接**：[http://arxiv.org/abs/2609.24857v2](http://arxiv.org/abs/2609.24857v2)
 
 ### 摘要
 Intertwined charge-density-wave (CDW) and spin-density-wave (SDW) orders are a hallmark of high-temperature superconducting multilayer nickelates. In trilayer La4Ni3O\_\{10\}, charge correlations develop at temperatures above the onset of long-range spin order, and the characteristic ordering wavevectors satisfy $Q\_{cdw} \approx 2Q\_{sdw}$. Here, using a density-wave equation with vertex corrections, we show that quantum interference between short-range SDW fluctuations at $q \approx Q\_{sdw}$ on the outer NiO2 layers generates an inter-outer-layer bond order at $Q\_{cdw} \approx 2 Q\_{sdw}$. This bond order induces a pronounced inner-layer-centered orbital order, with antiphase modulations of the Ni $d\_{3z^2-r^2}$ and $d\_{x^2-y^2}$ occupations, producing strong orbital polarization but only weak total charge modulation. This intertwined bond-and-orbital order accounts for the layer-selective electronic reconstruction inferred from NMR/NQR and is consistent with Raman spectroscopy and scanning tunnelling microscopy measurements. The same orbital and spin fluctuations also cooperate to stabilize $s\_{\pm}$-wave superconductivity through $M\_z$ mirror-parity selection rules. Our results provide a unified microscopic framework for intertwined density-wave order and high-Tc superconductivity in multilayer nickelates.
