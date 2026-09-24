@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-08-24 至 2026-09-23**
-> 数据检索到 **20** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-25 至 2026-09-24**
+> 数据检索到 **19** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -216,17 +216,6 @@ The superconducting two-dimensional electron gas (2DEG) at the LaAlO${}\_3$/SrTi
 
 ### 摘要
 We investigate the superconducting pairing symmetry and its doping evolution in pressurized La${}\_3$Ni${}\_2$O${}\_7$. For the undoped compound, the most favorable pairing state is found to be $s\_{\pm}$-wave, characterized by sign reversal of the gap functions between the Fermi pockets. A detailed analysis of the pairing interactions reveals that this unconventional state originates from repulsive interactions mediated by the magnetic odd modes of the bilayer nickelate. Upon hole doping, the $γ$ Fermi pocket expands, which amplifies the intrapocket repulsions on this pocket. These repulsions, driven by the magnetic even modes, gradually dominates the pairing interactions and ultimately drive a transition in pairing symmetry from $s\_{\pm}$-wave to $d\_{xy}$-wave in the heavily hole-doped regime. In stark contrast, the $s\_{\pm}$-wave pairing persists under electron doping, even deep into the heavily electron-doped regime where a Lifshitz transition occurs. This finding suggests that the $γ$ Fermi pocket is not essential for the emergence of superconductivity in bilayer nickelates. In fact, the $s\_{\pm}$-wave pairing becomes more robust in the absence of the $γ$ pocket, as spin fluctuations are strongly enhanced by the favorable nesting between the $α$ and $β$ pockets --- a condition guaranteed by Luttinger's theorem and the Fermi surface topology. We believe that exploring the doping evolution of superconducting pairing will open a new realm for testing the pairing mechanism in pressurized La${}\_3$Ni${}\_2$O${}\_7$.
-
----
-
-## 20. Weak coupling theory of nickel-based 327 superconductors
-
-- **提交日期**：2026-08-24
-- **作者**：Miao Jianjian, Chen Weiqiang
-- **arXiv链接**：[http://arxiv.org/abs/2608.22759v1](http://arxiv.org/abs/2608.22759v1)
-
-### 摘要
-This review provides a comprehensive survey of weak-coupling theoretical approaches applied to understand the emergent superconductivity in the pressurized nickelate bilayer system $La\_{3}Ni\_{2}O\_{7}$. Following the landmark discovery of its high-Tc superconductivity under pressure, this material has rapidly become a new paradigmatic platform in the field of unconventional superconductivity, joining cuprates and iron-based systems. We focus on three pivotal theoretical frameworks: the random phase approximation (RPA), the fluctuation-exchange approximation (FLEX), and the functional renormalization group (FRG). These methods are deployed to analyze the effective pairing interactions and emergent instabilities arising from the low-energy electronic structure, which is commonly modeled by a bilayer two-orbital Hubbard Hamiltonian incorporating the Ni $d\_{x^2-y^2}$ and $d\_{3z^2-r^2}$ orbitals.
 
 ---
 
