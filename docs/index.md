@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-09-04 至 2026-10-04**
+> 检索时间范围：**2026-09-05 至 2026-10-05**
 > 数据检索到 **16** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Selective suppression of electronic orders via interlayer coupling in superconducting bilayer nickelate thin films
+## 1. Layer-Asymmetry-Induced Topological Superconductivity in High-T${}\_c$ Bilayer Nickelates
+
+- **提交日期**：2026-10-02
+- **作者**：Zhongyi Zhang, Congcong Le, Hoi Chun Po, Jiangping Hu, Xianxin Wu, Shengshan Qin
+- **arXiv链接**：[http://arxiv.org/abs/2610.03601v1](http://arxiv.org/abs/2610.03601v1)
+
+### 摘要
+The recent discovery of high-T${}\_c$ superconductivity in bilayer nickelates has highlighted the crucial role of interlayer coupling and motivated proposals for dominant interlayer pairing. Whether such pairing can support topological superconductivity, however, remains unexplored. Here, we demonstrate that substrate-supported bilayer nickelate thin films can host an intrinsic time-reversal-invariant topological superconducting phase protected by diagonal mirror symmetry. Using a two-orbital model derived from first-principles calculations, we show that a modest layer-asymmetric potential and layer-staggered Rashba spin-orbit coupling drive the system into this topological phase over a broad parameter range with a dominant interlayer pairing. The nontrivial topology arises from a reversal of the pairing sign on one of the spin-split bonding Fermi surfaces and is characterized by a nonzero mirror winding number along the diagonal direction, as well as a Majorana Kramers pair at the [11] edge. The phase also features bulk gap nodes located slightly away from the diagonal directions, featuring chiral charge and zero-energy flat bands. We discuss experimental routes for realizing and tuning this phase. Our results establish high-T${}\_c$ bilayer nickelates as a promising platform for topological superconductivity, where tunable topological transitions and Majorana boundary modes can provide probes of unconventional pairing.
+
+---
+
+## 2. Selective suppression of electronic orders via interlayer coupling in superconducting bilayer nickelate thin films
 
 - **提交日期**：2026-10-01
 - **作者**：Ziao Han, Lifen Xiang, Tianren Wang, Congcong Le, Jun Zhan, Siyi Lei, Sonia Francoual, Qisi Wang, Jiangping Hu, Tao Xiang, Ronny Sutarto, Xianxin Wu, X. J. Zhou, Zhihai Zhu
@@ -21,7 +32,7 @@ The discovery of spin-density-wave (SDW) order in bilayer nickelates has intensi
 
 ---
 
-## 2. Electronic structure and two-orbital model of the quadlayer La${}\_5$Ni${}\_4$O${}\_{13}$
+## 3. Electronic structure and two-orbital model of the quadlayer La${}\_5$Ni${}\_4$O${}\_{13}$
 
 - **提交日期**：2026-09-30
 - **作者**：Jian-Xiang Sun, Haokan Xiao, Cui-Qun Chen, Dao-Xin Yao
@@ -32,7 +43,7 @@ The discovery of pressure-induced superconductivity in Ruddlesden--Popper (RP) n
 
 ---
 
-## 3. Neural-quantum-state based downfolding of the three-band Emery model for cuprates and nickelates
+## 4. Neural-quantum-state based downfolding of the three-band Emery model for cuprates and nickelates
 
 - **提交日期**：2026-09-29
 - **作者**：Hannah Lange, Julius F. A. Tirpitz, Annabelle Bohrdt
@@ -43,7 +54,7 @@ Understanding the physics underlying high-temperature superconductivity in cupra
 
 ---
 
-## 4. Nodal Orbital-Anti-Phase Superconducting State in Bilayer Nickelates
+## 5. Nodal Orbital-Anti-Phase Superconducting State in Bilayer Nickelates
 
 - **提交日期**：2026-09-24
 - **作者**：Marius Scholten, Steffen Bötzel, Frank Lechermann, Rafael M. Fernandes, Ilya M. Eremin
@@ -54,7 +65,7 @@ The recent discovery of high-$T\_c$ superconductivity in the bilayer nickelate L
 
 ---
 
-## 5. Quantum-interference-driven orbital density wave and high-temperature superconductivity in trilayer nickelates
+## 6. Quantum-interference-driven orbital density wave and high-temperature superconductivity in trilayer nickelates
 
 - **提交日期**：2026-09-21
 - **作者**：Youichi Yamakawa, Hiroshi Kontani
@@ -65,7 +76,7 @@ Intertwined charge-density-wave (CDW) and spin-density-wave (SDW) orders are a h
 
 ---
 
-## 6. Hund-driven local-itinerant duality of Eu-4$f$ electrons in infinite-layer nickelates
+## 7. Hund-driven local-itinerant duality of Eu-4$f$ electrons in infinite-layer nickelates
 
 - **提交日期**：2026-09-20
 - **作者**：Yingying Cao, Yi-feng Yang
@@ -76,7 +87,7 @@ Recent discovery of reentrant superconductivity and elevated $T\_c$ in Eu-substi
 
 ---
 
-## 7. Universal Dzyaloshinski-Moriya interaction dictates pairing in unconventional superconductor families
+## 8. Universal Dzyaloshinski-Moriya interaction dictates pairing in unconventional superconductor families
 
 - **提交日期**：2026-09-18
 - **作者**：Baishun Yang, Yida Chu, Xuelei Sui, Haiqing Lin, Shijie Hu, Bing Huang
@@ -87,7 +98,7 @@ The collinear-antiferromagnetic spin-fluctuation paradigm has long guided unconv
 
 ---
 
-## 8. Superconductivity at the metal-insulator phase boundary in a bulk nickelate at ambient pressure
+## 9. Superconductivity at the metal-insulator phase boundary in a bulk nickelate at ambient pressure
 
 - **提交日期**：2026-09-17
 - **作者**：Hyo-Bin Ahn, Xinglong Chen, Hong Zheng, Yu Zhang, Ramakanta Chapai, Yu Li, Arashdeep S. Thind, Robert F. Klie, Michael R. Norman, Ulrich Welp, J. F. Mitchell, Daniel Phelan
@@ -98,7 +109,7 @@ The discovery of superconductivity in nickelates has seeded a new field for expl
 
 ---
 
-## 9. Mode-selective phonon effects on magnetism and superconductivity in trilayer nickelates
+## 10. Mode-selective phonon effects on magnetism and superconductivity in trilayer nickelates
 
 - **提交日期**：2026-09-14
 - **作者**：C. Alexander Baum, Jun Zhan, Congcong Le, Ronny Thomale, Xianxin Wu
@@ -109,7 +120,7 @@ The discovery of high-$T\_c$ superconductivity in multilayer nickelates has stim
 
 ---
 
-## 10. Stripe-Like Superconducting Enhancement and Coexisting Magnetic Texture in an Infinite Layer Nickelate
+## 11. Stripe-Like Superconducting Enhancement and Coexisting Magnetic Texture in an Infinite Layer Nickelate
 
 - **提交日期**：2026-09-14
 - **作者**：Ryan Laing, Dung Vu, Jacob Pfund, Wenzheng Wei, Frederick J. Walker, Haiyan Tan, Pavel Volkov, Menka Jain, Charles Ahn, Ilya Sochnikov
@@ -120,7 +131,7 @@ Despite their promise as structural and electronic analogs to cuprates, nickelat
 
 ---
 
-## 11. Layer- and Orbital-Selective Mott Physics Driving Dimensional Crossover in Nickelate Superlattices
+## 12. Layer- and Orbital-Selective Mott Physics Driving Dimensional Crossover in Nickelate Superlattices
 
 - **提交日期**：2026-09-12
 - **作者**：Minjae Kim, Byungmin Sohn, Sangjae Lee
@@ -131,7 +142,7 @@ The design of quantum materials to manipulate dimensionality and electronic corr
 
 ---
 
-## 12. 2D Weak Localization in Trilayer Ruddelsden-Popper Nickelates
+## 13. 2D Weak Localization in Trilayer Ruddelsden-Popper Nickelates
 
 - **提交日期**：2026-09-11
 - **作者**：Hyo-Bin Ahn, Xinglong Chen, Yu Zhang, Hong Zheng, Michael R. Norman, J. F. Mitchell, Daniel Phelan, Ulrich Welp
@@ -142,7 +153,7 @@ Ruddlesden-Popper (RP) nickelates superconduct when pressure suppresses intertwi
 
 ---
 
-## 13. Competing Interlayer Loop Currents and Superconductivity in the Bilayer $t$-$J\_\perp$-$V$ Model
+## 14. Competing Interlayer Loop Currents and Superconductivity in the Bilayer $t$-$J\_\perp$-$V$ Model
 
 - **提交日期**：2026-09-10
 - **作者**：Luciano Zinni, Fabricio Gómez, Jun Zhan, Matías Bejas, Xianxin Wu, Andreas P. Schnyder, Andrés Greco
@@ -153,7 +164,7 @@ The recent discovery of high-$T\_c$ superconductivity in pressurized and thin-fi
 
 ---
 
-## 14. Nearly Isotropic Vortex Solid in $\mathbf{(La,Pr)\_{3}Ni\_{2}O\_{7}}$ Thin Films
+## 15. Nearly Isotropic Vortex Solid in $\mathbf{(La,Pr)\_{3}Ni\_{2}O\_{7}}$ Thin Films
 
 - **提交日期**：2026-09-07
 - **作者**：Yaolong Bian, Yaqi Chen, Heng Wang, Guangdi Zhou, Fei Peng, Zichen Lv, Jiaqiang Cai, Yifan Chen, Wenjie Meng, Ze Wang, Haoliang Huang, Daohua Zhang, Mingliang Tian, Jinfeng Jia, Qi-kun Xue, Zhuoyu Chen, Jinglei Zhang
@@ -164,7 +175,7 @@ The discovery of superconductivity in bulk bilayer nickelates has established a 
 
 ---
 
-## 15. $^{139}$La nuclear quadrupole resonance studies of pressurized La${}\_4$Ni${}\_3$O${}\_{10}$
+## 16. $^{139}$La nuclear quadrupole resonance studies of pressurized La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-09-06
 - **作者**：Meng Zhang, Zhuo Wang, Yantao Cao, Yang Yuan, Kangjian Luo, Shanxiang Gao, Hanjie Guo, Yongkang Luo
@@ -172,17 +183,6 @@ The discovery of superconductivity in bulk bilayer nickelates has established a 
 
 ### 摘要
 Density-wave (DW) orders are considered as competing orders to unconventional superconductivity and are commonly seen in a variety of superconductors including but not limited to the recently discovered Ruddlesden-Popper-phase nickelates. By utilizing $^{139}$La nuclear quadrupole resonance, we systematically investigate into the nature of DW orders and their evolution under pressure in La${}\_4$Ni${}\_3$O${}\_{10}$. Spin and charge DW orders are found to be intertwined in this material, which is in stark contrast to those in La${}\_3$Ni${}\_2$O${}\_7$. Short-range DW orders are observed near 150 K, well above the development of long-range DW orders at around 139 K. Upon applying a hydrostatic pressure of 2.3 GPa, the transition temperatures of the short-range and long-range orders decrease at rates of 1 K/GPa and 10 K/GPa, respectively. Our results thus affirm that both spin density wave and charge density wave as competing orders with the superconducting state in La${}\_4$Ni${}\_3$O${}\_{10}$, and provide new insights into the interplay between DW orders and unconventional superconductivity.
-
----
-
-## 16. Ni-O hybridization as a stabilizer for $s^{\pm}$ superconductivity in La${}\_3$Ni${}\_2$O${}\_7$: a DFT+RPA study
-
-- **提交日期**：2026-09-04
-- **作者**：Lauro B. Braz, Daniel D. Rivera, Emmanuel V. C. Lopes, George B. Martins, Gustavo M. Dalpian, Luis G. G. V. Dias da Silva
-- **arXiv链接**：[http://arxiv.org/abs/2609.05185v1](http://arxiv.org/abs/2609.05185v1)
-
-### 摘要
-The superconducting gap symmetry of high-pressure bilayer nickelates remains under debate, with weak- and strong-coupling approaches yielding different pairing tendencies. In this work, we investigate how the weak-coupling treatment of electronic states away from the Fermi level influences magnetic fluctuations and superconductivity in La${}\_3$Ni${}\_2$O${}\_7$. We employ a full-spectrum model based on orthonormalized projections of Kohn-Sham states onto local Ni-$e\_g$ orbitals, which preserves the density-functional band structure while redistributing spectral weight over a wide energy range. Compared to a low-energy description, this approach yields enhanced interlayer spin fluctuations and a commensurate magnetic instability. Within a spin-fluctuation framework, these features favor a sign-changing $s^\pm$ superconducting state, whereas low-energy models tend to stabilize $d$-wave pairing. Our results suggest that interlayer coupling in full-energy models may play an important role in shaping the predicted pairing symmetry of bilayer nickelates.
 
 ---
 
