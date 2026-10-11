@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-09-10 至 2026-10-10**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-11 至 2026-10-11**
+> 数据检索到 **15** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -172,17 +172,6 @@ The design of quantum materials to manipulate dimensionality and electronic corr
 
 ### 摘要
 Ruddlesden-Popper (RP) nickelates superconduct when pressure suppresses intertwined charge- and spin-density waves. Here, we employ measurements of quantum corrections to magnetoconductivity as a probe of the dimensionality, phase coherence, and scattering mechanisms of the underlying single crystal trilayer RP nickelate Pr4Ni3O10 and La4Ni3O10. We observe signatures of 2D Weak Localization (WL), implying that the in-plane electron transport is in the quantum diffusive regime, while the out-of-plane transport is incoherent, and the electronic ground state is a quasi-2D disordered Fermi liquid. Application of pressure up to 3 GPa continuously suppresses signatures of WL, potentially signaling a 2D/3D dimensional crossover and an eventual pressure-driven transition into a superconductor.
-
----
-
-## 16. Competing Interlayer Loop Currents and Superconductivity in the Bilayer $t$-$J\_\perp$-$V$ Model
-
-- **提交日期**：2026-09-10
-- **作者**：Luciano Zinni, Fabricio Gómez, Jun Zhan, Matías Bejas, Xianxin Wu, Andreas P. Schnyder, Andrés Greco
-- **arXiv链接**：[http://arxiv.org/abs/2609.10926v1](http://arxiv.org/abs/2609.10926v1)
-
-### 摘要
-The recent discovery of high-$T\_c$ superconductivity in pressurized and thin-film bilayer nickelates, featuring a strong interlayer exchange coupling, and their potential similarities with cuprate superconductors, has made this a very active topic in condensed matter physics. In the present paper we study the strongly correlated one-orbital ($d\_{x^2-y^2}$) bilayer $t$-$J\_\perp$-$V$ model for nickelates, where $V$ denotes the Coulomb interactions, using a controlled large-$N$ expansion at and beyond the mean-field level. Focusing on the out-of-plane spin exchange interaction ($J\_\perp$), we find that it triggers both out-of-plane $s$-wave superconductivity and an out-of-plane bond-order phase ($z$-BOP) instability. The $z$-BOP gives rise to a complex $z$-axis hopping dominated by its imaginary component, which drives out-of-plane currents and induces in-plane ones, spontaneously forming on the vertical plaquettes a loop-current state that breaks time-reversal symmetry. Competition between this loop-current phase and superconductivity yields a dome-shaped superconducting region, with optimal superconductivity occurring near the $z$-BOP quantum critical point. The resulting phase diagram features a pure loop-current region, a low-doping coexistence phase, a pure superconducting state at higher doping, and a correlated metallic state.
 
 ---
 
