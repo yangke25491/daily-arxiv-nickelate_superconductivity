@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-09-11 至 2026-10-11**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-12 至 2026-10-12**
+> 数据检索到 **14** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -161,17 +161,6 @@ Despite their promise as structural and electronic analogs to cuprates, nickelat
 
 ### 摘要
 The design of quantum materials to manipulate dimensionality and electronic correlations is a central focus in the exploration of emergent phenomena. We propose a new correlated quantum material platform for realizing a layer- and orbital-selective Mott transition (LOSMT) in a nickelate heterostructure by combining bilayer and monolayer LaNiO${}\_3$ separated by a monolayer LaAlO${}\_3$ spacer under compressive strain from the LaAlO${}\_3$ substrate. The LOSMT emerges from the layer-dependent dimensional confinement of the apical Ni($d$)-$z^2$ orbital and strain-induced lifting of the orbital degeneracy. The monolayer LaNiO${}\_3$ exhibits an orbital-selective Mott insulating phase with a Mott gap in the Ni($d$)-$z^2$ orbital, whereas the bilayer LaNiO${}\_3$ exhibits a multi-orbital metallic phase, triggering the orbital-selective Mott transition upon cooling $via$ inter-layer hybridization of the Ni($d$)-$z^2$ orbitals. Calculations within the density functional theory plus dynamical mean-field theory (DFT+DMFT) framework reveal that the LOSMT drives a dimensional crossover by enabling out-of-plane electronic transport through the metallization of the localized apical Ni($d$)-$z^2$ orbital, while the planar Ni($d$)-$x^2-y^2$ orbital remains itinerant across the transition. The emergence of the LOSMT provides a new pathway for engineering correlated quantum materials toward unconventional superconductivity and Mott-transistor functionalities.
-
----
-
-## 15. 2D Weak Localization in Trilayer Ruddelsden-Popper Nickelates
-
-- **提交日期**：2026-09-11
-- **作者**：Hyo-Bin Ahn, Xinglong Chen, Yu Zhang, Hong Zheng, Michael R. Norman, J. F. Mitchell, Daniel Phelan, Ulrich Welp
-- **arXiv链接**：[http://arxiv.org/abs/2609.13049v1](http://arxiv.org/abs/2609.13049v1)
-
-### 摘要
-Ruddlesden-Popper (RP) nickelates superconduct when pressure suppresses intertwined charge- and spin-density waves. Here, we employ measurements of quantum corrections to magnetoconductivity as a probe of the dimensionality, phase coherence, and scattering mechanisms of the underlying single crystal trilayer RP nickelate Pr4Ni3O10 and La4Ni3O10. We observe signatures of 2D Weak Localization (WL), implying that the in-plane electron transport is in the quantum diffusive regime, while the out-of-plane transport is incoherent, and the electronic ground state is a quasi-2D disordered Fermi liquid. Application of pressure up to 3 GPa continuously suppresses signatures of WL, potentially signaling a 2D/3D dimensional crossover and an eventual pressure-driven transition into a superconductor.
 
 ---
 
