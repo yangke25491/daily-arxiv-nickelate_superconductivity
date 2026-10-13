@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-09-12 至 2026-10-12**
-> 数据检索到 **14** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-13 至 2026-10-13**
+> 数据检索到 **13** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -150,17 +150,6 @@ The discovery of high-$T\_c$ superconductivity in multilayer nickelates has stim
 
 ### 摘要
 Despite their promise as structural and electronic analogs to cuprates, nickelate thin films consistently exhibit broadened superconducting transitions in many experiments that remain poorly understood. Local measurements are ideal for revealing the presence of defects or competing phases, which may cause this transition broadening through a phase-separation. Here, we use scanning SQUID microscopy to investigate local superfluid density and magnetic texture of optimally doped $\mathrm{Nd}\_{1-x}\mathrm{Eu}\_{x}\mathrm{NiO}\_{2}$ (NENO) (x=0.25) grown via molecular beam epitaxy. We observed a weakly-magnetic texture coexisting with superconductivity. Spatially resolved susceptibility imaging reveals a highly non-uniform superconducting state, characterized by a robust stripe-like enhancement pattern appearing near the phase transition. By resolving the mesoscopic landscape of electronic and magnetic inhomogeneities, these findings suggest that a competing magnetic phase is a primary contributor to the unusually broad superconducting transitions of these optimally doped NENO samples. Understanding the uncovered superconducting enhancement may provide a path to raising superconducting temperatures in these materials.
-
----
-
-## 14. Layer- and Orbital-Selective Mott Physics Driving Dimensional Crossover in Nickelate Superlattices
-
-- **提交日期**：2026-09-12
-- **作者**：Minjae Kim, Byungmin Sohn, Sangjae Lee
-- **arXiv链接**：[http://arxiv.org/abs/2609.13723v1](http://arxiv.org/abs/2609.13723v1)
-
-### 摘要
-The design of quantum materials to manipulate dimensionality and electronic correlations is a central focus in the exploration of emergent phenomena. We propose a new correlated quantum material platform for realizing a layer- and orbital-selective Mott transition (LOSMT) in a nickelate heterostructure by combining bilayer and monolayer LaNiO${}\_3$ separated by a monolayer LaAlO${}\_3$ spacer under compressive strain from the LaAlO${}\_3$ substrate. The LOSMT emerges from the layer-dependent dimensional confinement of the apical Ni($d$)-$z^2$ orbital and strain-induced lifting of the orbital degeneracy. The monolayer LaNiO${}\_3$ exhibits an orbital-selective Mott insulating phase with a Mott gap in the Ni($d$)-$z^2$ orbital, whereas the bilayer LaNiO${}\_3$ exhibits a multi-orbital metallic phase, triggering the orbital-selective Mott transition upon cooling $via$ inter-layer hybridization of the Ni($d$)-$z^2$ orbitals. Calculations within the density functional theory plus dynamical mean-field theory (DFT+DMFT) framework reveal that the LOSMT drives a dimensional crossover by enabling out-of-plane electronic transport through the metallization of the localized apical Ni($d$)-$z^2$ orbital, while the planar Ni($d$)-$x^2-y^2$ orbital remains itinerant across the transition. The emergence of the LOSMT provides a new pathway for engineering correlated quantum materials toward unconventional superconductivity and Mott-transistor functionalities.
 
 ---
 
