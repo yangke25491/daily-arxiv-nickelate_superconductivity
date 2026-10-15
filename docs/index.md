@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-09-14 至 2026-10-14**
-> 数据检索到 **13** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-15 至 2026-10-15**
+> 数据检索到 **12** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Multiorbital Anisotropy and Magnetic Excitations in Trilayer Nickelate Pr${}\_4$Ni${}\_3$O${}\_{10}$
+## 1. Bulk superconductivity in quintuple-layer square-planar nickelate La6Ni5O12
+
+- **提交日期**：2026-10-14
+- **作者**：Mengzhu Shi, Mei Du, Hongyu Li, Zhiwei Wang, Zhengjie Wang, Ziji Xiang, Tao Wu, Xianhui Chen
+- **arXiv链接**：[http://arxiv.org/abs/2610.20249v1](http://arxiv.org/abs/2610.20249v1)
+
+### 摘要
+Nickelate superconductors, sharing a similar electronic environment with cuprate superconductors, offer a promising platform for unraveling the mechanism of high-temperature superconductivity. However, the realization of superconductivity in these systems has so far been restricted to thin films or bulk samples under high-pressure. This limits the applicability of various experimental probes to study the mechanism of superconductivity, and hinders the potential application of the nickelate superconductors. Exploring bulk superconductivity at ambient pressure is therefore essential to understand its origin and enable broader experimental research. Here, we report the realization of bulk superconductivity at ambient-pressure in quintuple-layer square-planar (SP) nickelate La6Ni5O12. The SP phase is obtained by performing topotactic reaction on the quintuple-layer Ruddlesden-Popper (RP) compound La6Ni5O16. Optimized reduction condition endows La6Ni5O12 with a superconducting state that exhibits onset transition temperature of ~ 18 K, as verified by both zero resistance and diamagnetic shielding effect. Pronounced hysteresis loops revealed by magnetization and torque magnetometry demonstrate the occurrence of vortex pinning. Specific heat measurements on a polycrystalline pellet of La6Ni5O12 reveal a clear superconducting transition at ~18 K and a superconducting volume fraction of ~ 25%, which strongly supports the presence of bulk superconductivity. Our results establish an unprecedented bulk sample platform for investigating superconductivity in nickelates at ambient pressure, which paves the way for further experimental studies into the superconducting mechanism.
+
+---
+
+## 2. Multiorbital Anisotropy and Magnetic Excitations in Trilayer Nickelate Pr${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-06
 - **作者**：Ziqiang Guan, Sophia F. R. TenHuisen, Xuefei Guo, Wei He, Aulden K. Jones, Marli dos Reis Cantarino, Xinglong Chen, Hong Zheng, J. F. Mitchell, Nicholas B. Brookes, Mark P. M. Dean, Matteo Mitrano
@@ -21,7 +32,7 @@ Rare-earth substitution strongly modifies the structure, metallicity, and superc
 
 ---
 
-## 2. Luttinger Liquid Behavior in a Single-Layer Nickelate La1.4Sr0.6NiO4
+## 3. Luttinger Liquid Behavior in a Single-Layer Nickelate La1.4Sr0.6NiO4
 
 - **提交日期**：2026-10-06
 - **作者**：Yinqi Hu, Yidian Li, Xian Du, Wenxuan Zhao, Kaiyi Zhai, Senyao Zhang, Jiawei Shao, Mingxin Mao, Houke Chen, Jieyi Liu, Donghui Lu, Makoto Hashimoto, Fangyuan Zhu, Zhengtai Liu, Dawei Shen, Yaobo Huang, Zhongkai Liu, D. Prabhakaran, Yanpeng Qi, Yilin Wang, Yulin Chen, Lexian Yang
@@ -32,7 +43,7 @@ The discovery of high-temperature superconductivity in bilayer and trilayer nick
 
 ---
 
-## 3. Layer-Asymmetry-Induced Topological Superconductivity in High-T${}\_c$ Bilayer Nickelates
+## 4. Layer-Asymmetry-Induced Topological Superconductivity in High-T${}\_c$ Bilayer Nickelates
 
 - **提交日期**：2026-10-02
 - **作者**：Zhongyi Zhang, Congcong Le, Hoi Chun Po, Jiangping Hu, Xianxin Wu, Shengshan Qin
@@ -43,7 +54,7 @@ The recent discovery of high-T${}\_c$ superconductivity in bilayer nickelates ha
 
 ---
 
-## 4. Selective suppression of electronic orders via interlayer coupling in superconducting bilayer nickelate thin films
+## 5. Selective suppression of electronic orders via interlayer coupling in superconducting bilayer nickelate thin films
 
 - **提交日期**：2026-10-01
 - **作者**：Ziao Han, Lifen Xiang, Tianren Wang, Congcong Le, Jun Zhan, Siyi Lei, Sonia Francoual, Qisi Wang, Jiangping Hu, Tao Xiang, Ronny Sutarto, Xianxin Wu, X. J. Zhou, Zhihai Zhu
@@ -54,7 +65,7 @@ The discovery of spin-density-wave (SDW) order in bilayer nickelates has intensi
 
 ---
 
-## 5. Electronic structure and two-orbital model of the quadlayer La${}\_5$Ni${}\_4$O${}\_{13}$
+## 6. Electronic structure and two-orbital model of the quadlayer La${}\_5$Ni${}\_4$O${}\_{13}$
 
 - **提交日期**：2026-09-30
 - **作者**：Jian-Xiang Sun, Haokan Xiao, Cui-Qun Chen, Dao-Xin Yao
@@ -65,7 +76,7 @@ The discovery of pressure-induced superconductivity in Ruddlesden--Popper (RP) n
 
 ---
 
-## 6. Neural-quantum-state based downfolding of the three-band Emery model for cuprates and nickelates
+## 7. Neural-quantum-state based downfolding of the three-band Emery model for cuprates and nickelates
 
 - **提交日期**：2026-09-29
 - **作者**：Hannah Lange, Julius F. A. Tirpitz, Annabelle Bohrdt
@@ -76,7 +87,7 @@ Understanding the physics underlying high-temperature superconductivity in cupra
 
 ---
 
-## 7. Nodal Orbital-Anti-Phase Superconducting State in Bilayer Nickelates
+## 8. Nodal Orbital-Anti-Phase Superconducting State in Bilayer Nickelates
 
 - **提交日期**：2026-09-24
 - **作者**：Marius Scholten, Steffen Bötzel, Frank Lechermann, Rafael M. Fernandes, Ilya M. Eremin
@@ -87,7 +98,7 @@ The recent discovery of high-$T\_c$ superconductivity in the bilayer nickelate L
 
 ---
 
-## 8. Quantum-interference-driven orbital density wave and high-temperature superconductivity in trilayer nickelates
+## 9. Quantum-interference-driven orbital density wave and high-temperature superconductivity in trilayer nickelates
 
 - **提交日期**：2026-09-21
 - **作者**：Youichi Yamakawa, Hiroshi Kontani
@@ -98,7 +109,7 @@ Intertwined charge-density-wave (CDW) and spin-density-wave (SDW) orders are a h
 
 ---
 
-## 9. Hund-driven local-itinerant duality of Eu-4$f$ electrons in infinite-layer nickelates
+## 10. Hund-driven local-itinerant duality of Eu-4$f$ electrons in infinite-layer nickelates
 
 - **提交日期**：2026-09-20
 - **作者**：Yingying Cao, Yi-feng Yang
@@ -109,7 +120,7 @@ Recent discovery of reentrant superconductivity and elevated $T\_c$ in Eu-substi
 
 ---
 
-## 10. Universal Dzyaloshinski-Moriya interaction dictates pairing in unconventional superconductor families
+## 11. Universal Dzyaloshinski-Moriya interaction dictates pairing in unconventional superconductor families
 
 - **提交日期**：2026-09-18
 - **作者**：Baishun Yang, Yida Chu, Xuelei Sui, Haiqing Lin, Shijie Hu, Bing Huang
@@ -120,7 +131,7 @@ The collinear-antiferromagnetic spin-fluctuation paradigm has long guided unconv
 
 ---
 
-## 11. Superconductivity at the metal-insulator phase boundary in a bulk nickelate at ambient pressure
+## 12. Superconductivity at the metal-insulator phase boundary in a bulk nickelate at ambient pressure
 
 - **提交日期**：2026-09-17
 - **作者**：Hyo-Bin Ahn, Xinglong Chen, Hong Zheng, Yu Zhang, Ramakanta Chapai, Yu Li, Arashdeep S. Thind, Robert F. Klie, Michael R. Norman, Ulrich Welp, J. F. Mitchell, Daniel Phelan
@@ -128,28 +139,6 @@ The collinear-antiferromagnetic spin-fluctuation paradigm has long guided unconv
 
 ### 摘要
 The discovery of superconductivity in nickelates has seeded a new field for exploring unconventional superconductivity in transition metal oxides. However, to date superconductivity has only been realized in thin films or under extreme pressure in the bulk. Here we report signatures of superconductivity at ambient pressure in bulk nickelate single crystals of (La1-xPrx)4Ni3O8 and (La1-xYx)4Ni3O8, whose crystal structure comprises interleaving trilayers of square-planar nickel oxide and fluorite-like spacer layers. The parent compound La4Ni3O8 exhibits an insulating ground state, where electrons order into intertwined, insulating charge/spin stripes. Substitution of smaller lanthanide ions disrupts this order, eventually leading to a metallic ground-state. We find that superconductivity emerges in a narrow window proximate to the insulator-metal phase boundary, where both metallic and charge-stripe phases co-exist. The observed low volume-fraction superconductivity is non-percolative, suggesting the prospect of filamentary superconductivity nucleated at the boundary between these phases. However, intergrowth defects that approximate the known infinite layer nickelates are observed in TEM, leaving open the possibility that superconductivity resides here rather than in the trilayer matrix. Remarkably, the electronic phase diagrams of both the Y and Pr series coincide when parameterized by the volume of the fluorite like spacer layers, revealing that this steric parameter profoundly modifies the nickel oxide trilayer electronic structure. Our results identify better understanding of the co-existence region between metallic and charge-ordered phases as a priority for expanding the range of bulk, ambient-pressure nickelate superconductivity and establish spacer-layer engineering as a design tool for exploring this regime of phase competition.
-
----
-
-## 12. Mode-selective phonon effects on magnetism and superconductivity in trilayer nickelates
-
-- **提交日期**：2026-09-14
-- **作者**：C. Alexander Baum, Jun Zhan, Congcong Le, Ronny Thomale, Xianxin Wu
-- **arXiv链接**：[http://arxiv.org/abs/2609.16143v1](http://arxiv.org/abs/2609.16143v1)
-
-### 摘要
-The discovery of high-$T\_c$ superconductivity in multilayer nickelates has stimulated intense interest, yet the microscopic origins of their correlated states remain debated. Recently the observed isotope effect of the magnetic state in trilayer nickelates highlights the important role of lattice vibrations in shaping these systems. Here, we investigate the impact of electron-phonon coupling (EPC) on magnetism and superconductivity in trilayer nickelates using ab initio and functional renormalization group calculations. We identify out-of-plane oxygen breathing modes with pronounced EPC and construct symmetry-resolved, layer-dependent couplings. Their relative phases across the three layers generate distinct retarded interactions, producing mode-selective enhancement or suppression of spin-density-wave order and $s\_\pm$-wave superconductivity. This selectivity arises from screening-mediated spin-phonon interplay across a hierarchy of energy scales: EPC modifies charge screening at higher energies, reshapes magnetic fluctuations at lower energies, and ultimately influences pairing. Selected modes yield negative isotope coefficients for the magnetic state, qualitatively consistent with experiments. Our results establish how interlayer phonons modify electronically driven order and provide a microscopic framework for understanding isotope effects in trilayer nickelates.
-
----
-
-## 13. Stripe-Like Superconducting Enhancement and Coexisting Magnetic Texture in an Infinite Layer Nickelate
-
-- **提交日期**：2026-09-14
-- **作者**：Ryan Laing, Dung Vu, Jacob Pfund, Wenzheng Wei, Frederick J. Walker, Haiyan Tan, Pavel Volkov, Menka Jain, Charles Ahn, Ilya Sochnikov
-- **arXiv链接**：[http://arxiv.org/abs/2609.15958v1](http://arxiv.org/abs/2609.15958v1)
-
-### 摘要
-Despite their promise as structural and electronic analogs to cuprates, nickelate thin films consistently exhibit broadened superconducting transitions in many experiments that remain poorly understood. Local measurements are ideal for revealing the presence of defects or competing phases, which may cause this transition broadening through a phase-separation. Here, we use scanning SQUID microscopy to investigate local superfluid density and magnetic texture of optimally doped $\mathrm{Nd}\_{1-x}\mathrm{Eu}\_{x}\mathrm{NiO}\_{2}$ (NENO) (x=0.25) grown via molecular beam epitaxy. We observed a weakly-magnetic texture coexisting with superconductivity. Spatially resolved susceptibility imaging reveals a highly non-uniform superconducting state, characterized by a robust stripe-like enhancement pattern appearing near the phase transition. By resolving the mesoscopic landscape of electronic and magnetic inhomogeneities, these findings suggest that a competing magnetic phase is a primary contributor to the unusually broad superconducting transitions of these optimally doped NENO samples. Understanding the uncovered superconducting enhancement may provide a path to raising superconducting temperatures in these materials.
 
 ---
 
