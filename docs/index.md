@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-09-18 至 2026-10-18**
-> 数据检索到 **12** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-19 至 2026-10-19**
+> 数据检索到 **11** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -128,17 +128,6 @@ Intertwined charge-density-wave (CDW) and spin-density-wave (SDW) orders are a h
 
 ### 摘要
 Recent discovery of reentrant superconductivity and elevated $T\_c$ in Eu-substituted infinite-layer nickelates raises a critical question concerning the nature of Eu-4$f$ states and their potential interaction with Ni-$d$ electrons. Here we combine density functional theory with the dynamical mean-field theory (DFT+DMFT) calculations to investigate the valence and magnetic properties of Eu-ions in the nickelate 112 structure, explicitly treating the Coulomb repulsion in both Ni-3$d$ and Eu-4$f$ shells. We find a three-regime evolution of the Eu-4$f$ configuration driven by its Hund's rule coupling $J\_{\rm H}$. The magnetic and mixed-valence Eu ionic state inferred by experiments only occurs for moderate $J\_{\rm H}$, with coexisting local moments and strongly correlated $j=7/2$ quasiparticles, in contrast to the nonmagnetic state at small $J\_{\rm H}$ and the fully spin-polarized divalent state at large $J\_{\rm H}$. This local-itinerant duality arises from an effectively hole-doped orbital-selective Mott state induced by the intra-4$f$ charge transfer between $j=5/2$ and $7/2$ manifolds. It not only explains the origin of the mixed-valence and local moment behaviors of the Eu-ions observed experimentally, but also predicts low-energy 4$f$ quasiparticles that may hybridize with the Ni-3$d$ electrons and contribute to the elevated $T\_c$. Our work provides a basis for understanding the unusual ferromagnetic and superconducting properties of Eu-substituted infinite-layer nickelates.
-
----
-
-## 12. Universal Dzyaloshinski-Moriya interaction dictates pairing in unconventional superconductor families
-
-- **提交日期**：2026-09-18
-- **作者**：Baishun Yang, Yida Chu, Xuelei Sui, Haiqing Lin, Shijie Hu, Bing Huang
-- **arXiv链接**：[http://arxiv.org/abs/2609.21731v1](http://arxiv.org/abs/2609.21731v1)
-
-### 摘要
-The collinear-antiferromagnetic spin-fluctuation paradigm has long guided unconventional superconductivity research, yet fails to reconcile the noncollinear spin phenomena observed across cuprates, iron-based superconductors, and nickelates. Using extensive first-principles calculations and unbiased large-scale DMRG simulations, we show that Dzyaloshinski-Moriya interaction (DMI)-arising from local inversion-symmetry breaking-is a common ingredient across these families. This DMI unifies hallmark observations in parent compounds-incommensurate orders, spin-wave gaps, and noncollinear textures. Under hole doping, strong DMI drives spin vortices to merge with pi-shifted hole stripes, forming hybrid vortex-hole stripe phases. These phases stabilize charge order while supporting, not suppressing, superconductivity. By contrast, under electron doping, these vortices pin holes and suppress long-range superconductivity. Our results establish DMI as a unifying link between noncollinear magnetism and superconductivity, identifying hole-strip-vortex coupling as a microscopic pairing engine. Given that DMI is common across major superconductor families, these findings challenge the prevailing pairing mechanism and offer an experimentally testable roadmap for materials optimization.
 
 ---
 
