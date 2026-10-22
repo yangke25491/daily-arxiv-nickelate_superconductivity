@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-09-21 至 2026-10-21**
-> 数据检索到 **11** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-22 至 2026-10-22**
+> 数据检索到 **10** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -117,17 +117,6 @@ Understanding the physics underlying high-temperature superconductivity in cupra
 
 ### 摘要
 The recent discovery of high-$T\_c$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$ (La-327) under applied pressure and compressive strain opened a new avenue to elucidate the interplay between multiorbital intralayer and interlayer electronically driven Cooper-pairing in bilayer systems. Depending on the details of the electronic structure in the normal state, the superconducting gap in bilayer nickelates is predicted to have either bonding-antibonding $s\_{\pm}$-wave symmetry, driven by dominant interlayer Cooper-pairing, or $d$-wave symmetry with substantial intralayer Cooper-pairing. Despite this general picture, the orbital structure of the superconducting gap in these multiorbital systems has been less explored. Here, we analyze the consequences of an orbital-anti-phase structure of the superconducting gap and discuss its possible experimental signatures. We demonstrate that additional pairs of nodes may appear on the $α$ and/or $β$ Fermi surface sheets due to the sign change of the superconducting gap between the involved orbitals. Apart from this additional nodal structure, which is not enforced by the symmetries of the gap function and can be probed in ARPES experiments, the orbital-anti-phase gap modifies the temperature dependence of the superfluid stiffness at low temperatures, providing a concrete experimental prediction to test its realization in bilayer nickelates and related multiorbital systems.
-
----
-
-## 11. Quantum-interference-driven orbital density wave and high-temperature superconductivity in trilayer nickelates
-
-- **提交日期**：2026-09-21
-- **作者**：Youichi Yamakawa, Hiroshi Kontani
-- **arXiv链接**：[http://arxiv.org/abs/2609.24857v2](http://arxiv.org/abs/2609.24857v2)
-
-### 摘要
-Intertwined charge-density-wave (CDW) and spin-density-wave (SDW) orders are a hallmark of high-temperature superconducting multilayer nickelates. In trilayer La4Ni3O\_\{10\}, charge correlations develop at temperatures above the onset of long-range spin order, and the characteristic ordering wavevectors satisfy $Q\_{cdw} \approx 2Q\_{sdw}$. Here, using a density-wave equation with vertex corrections, we show that quantum interference between short-range SDW fluctuations at $q \approx Q\_{sdw}$ on the outer NiO2 layers generates an inter-outer-layer bond order at $Q\_{cdw} \approx 2 Q\_{sdw}$. This bond order induces a pronounced inner-layer-centered orbital order, with antiphase modulations of the Ni $d\_{3z^2-r^2}$ and $d\_{x^2-y^2}$ occupations, producing strong orbital polarization but only weak total charge modulation. This intertwined bond-and-orbital order accounts for the layer-selective electronic reconstruction inferred from NMR/NQR and is consistent with Raman spectroscopy and scanning tunnelling microscopy measurements. The same orbital and spin fluctuations also cooperate to stabilize $s\_{\pm}$-wave superconductivity through $M\_z$ mirror-parity selection rules. Our results provide a unified microscopic framework for intertwined density-wave order and high-Tc superconductivity in multilayer nickelates.
 
 ---
 
