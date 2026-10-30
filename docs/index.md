@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-09-29 至 2026-10-29**
+> 检索时间范围：**2026-09-30 至 2026-10-30**
 > 数据检索到 **10** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
+## 1. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
+
+- **提交日期**：2026-10-28
+- **作者**：P. Puphal, A. Suthar, B. Wehinger, V. Sundaramurthy, T. Priessnitz, M. Knauft, P. Sosa-Lizama, Y. -M. Wu, M. Hepting, J. Nuss, M. Isobe, P. A. van Aken, Y. E. Suyolcu, B. Keimer, H. Takagi, P. Reiss
+- **arXiv链接**：[http://arxiv.org/abs/2610.38959v1](http://arxiv.org/abs/2610.38959v1)
+
+### 摘要
+Identifying the key ingredients for superconductivity under pressure in the Ruddlesden-Popper nickelates remains a formidable challenge, due to a complex interplay between structural variations, oxygen content and location, electronically ordered phases, and the need for high pressures to reach the superconducting phase. To disentangle these complex inter-dependencies, here we study a series of clean single crystals of trilayer La${}\_4$Ni${}\_3$O${}\_{10}$. We discover that enhanced biaxial, compressive pressures induce a zero-resistance state at a 60\% lower pressure compared to previous reports. At the same time, we completely separate the low-pressure density wave phase from superconductivity, effectively ruling out that soft, quantum critical fluctuations of the density wave order parameter act as the pairing glue in this system. Our results establish biaxial, in-plane pressures as a powerful tool for promoting superconductivity in nickelates, unifying the required pressure scales for superconductivity in different Ruddlesden-Popper structures, and providing a connection to the recently discovered thin film samples.
+
+---
+
+## 2. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-26
 - **作者**：Kaustubh Roy, Piers Coleman
@@ -21,7 +32,7 @@ Motivated by the recent measurement of high-temperature superconductivity in the
 
 ---
 
-## 2. Superconducting weak links at substrate steps in bilayer nickelate films
+## 3. Superconducting weak links at substrate steps in bilayer nickelate films
 
 - **提交日期**：2026-10-20
 - **作者**：Yidi Liu, Yaoju Tarn, Lopa Bhatt, Puhua Zhang, Joonseo Song, Berit H. Goodge, David A. Muller, Harold Y. Hwang, Yijun Yu
@@ -32,7 +43,7 @@ Ambient-pressure superconductivity above 40 K has been realized in bilayer nicke
 
 ---
 
-## 3. $d$-wave superconductivity in quintuple-layer bulk superconductor La${}\_6$Ni${}\_5$O${}\_{12}$
+## 4. $d$-wave superconductivity in quintuple-layer bulk superconductor La${}\_6$Ni${}\_5$O${}\_{12}$
 
 - **提交日期**：2026-10-15
 - **作者**：Zhan Wang, Yuxin Wang, Hui-Ke Jin, Kun Jiang, Jiangping Hu
@@ -43,7 +54,7 @@ The recent realization of bulk superconductivity in the quintuple-layer nickelat
 
 ---
 
-## 4. Bulk superconductivity in quintuple-layer square-planar nickelate La6Ni5O12
+## 5. Bulk superconductivity in quintuple-layer square-planar nickelate La6Ni5O12
 
 - **提交日期**：2026-10-14
 - **作者**：Mengzhu Shi, Mei Du, Hongyu Li, Zhiwei Wang, Zhengjie Wang, Ziji Xiang, Tao Wu, Xianhui Chen
@@ -54,7 +65,7 @@ Nickelate superconductors, sharing a similar electronic environment with cuprate
 
 ---
 
-## 5. Multiorbital Anisotropy and Magnetic Excitations in Trilayer Nickelate Pr${}\_4$Ni${}\_3$O${}\_{10}$
+## 6. Multiorbital Anisotropy and Magnetic Excitations in Trilayer Nickelate Pr${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-06
 - **作者**：Ziqiang Guan, Sophia F. R. TenHuisen, Xuefei Guo, Wei He, Aulden K. Jones, Marli dos Reis Cantarino, Xinglong Chen, Hong Zheng, J. F. Mitchell, Nicholas B. Brookes, Mark P. M. Dean, Matteo Mitrano
@@ -65,7 +76,7 @@ Rare-earth substitution strongly modifies the structure, metallicity, and superc
 
 ---
 
-## 6. Luttinger Liquid Behavior in a Single-Layer Nickelate La1.4Sr0.6NiO4
+## 7. Luttinger Liquid Behavior in a Single-Layer Nickelate La1.4Sr0.6NiO4
 
 - **提交日期**：2026-10-06
 - **作者**：Yinqi Hu, Yidian Li, Xian Du, Wenxuan Zhao, Kaiyi Zhai, Senyao Zhang, Jiawei Shao, Mingxin Mao, Houke Chen, Jieyi Liu, Donghui Lu, Makoto Hashimoto, Fangyuan Zhu, Zhengtai Liu, Dawei Shen, Yaobo Huang, Zhongkai Liu, D. Prabhakaran, Yanpeng Qi, Yilin Wang, Yulin Chen, Lexian Yang
@@ -76,7 +87,7 @@ The discovery of high-temperature superconductivity in bilayer and trilayer nick
 
 ---
 
-## 7. Layer-Asymmetry-Induced Topological Superconductivity in High-T${}\_c$ Bilayer Nickelates
+## 8. Layer-Asymmetry-Induced Topological Superconductivity in High-T${}\_c$ Bilayer Nickelates
 
 - **提交日期**：2026-10-02
 - **作者**：Zhongyi Zhang, Congcong Le, Hoi Chun Po, Jiangping Hu, Xianxin Wu, Shengshan Qin
@@ -87,7 +98,7 @@ The recent discovery of high-T${}\_c$ superconductivity in bilayer nickelates ha
 
 ---
 
-## 8. Selective suppression of electronic orders via interlayer coupling in superconducting bilayer nickelate thin films
+## 9. Selective suppression of electronic orders via interlayer coupling in superconducting bilayer nickelate thin films
 
 - **提交日期**：2026-10-01
 - **作者**：Ziao Han, Lifen Xiang, Tianren Wang, Congcong Le, Jun Zhan, Siyi Lei, Sonia Francoual, Qisi Wang, Jiangping Hu, Tao Xiang, Ronny Sutarto, Xianxin Wu, X. J. Zhou, Zhihai Zhu
@@ -98,7 +109,7 @@ The discovery of spin-density-wave (SDW) order in bilayer nickelates has intensi
 
 ---
 
-## 9. Electronic structure and two-orbital model of the quadlayer La${}\_5$Ni${}\_4$O${}\_{13}$
+## 10. Electronic structure and two-orbital model of the quadlayer La${}\_5$Ni${}\_4$O${}\_{13}$
 
 - **提交日期**：2026-09-30
 - **作者**：Jian-Xiang Sun, Haokan Xiao, Cui-Qun Chen, Dao-Xin Yao
@@ -106,17 +117,6 @@ The discovery of spin-density-wave (SDW) order in bilayer nickelates has intensi
 
 ### 摘要
 The discovery of pressure-induced superconductivity in Ruddlesden--Popper (RP) nickelates has stimulated extensive interest in high-T${}\_c$ superconductors. Here, we systematically study the electronic properties of the quadlayer RP nickelate La${}\_5$Ni${}\_4$O${}\_{13}$ under ambient pressure, 5% isotropic compressive strain, and 4% $c$-axis uniaxial strain using density functional theory (DFT) and random phase approximation (RPA) calculations. DFT calculations show that isotropic strain broadens the Ni-$e\_g$ bands and induces charge transfer from O-$p$ to Ni-$d$ orbitals, whereas $c$-axis uniaxial strain selectively shifts the $d\_{z^2}$-derived bonding1 band upward while leaving the $d\_{x^2-y^2}$ dispersion nearly unchanged. From Wannier downfolding, we construct a quadlayer two-orbital model that reproduces the low-energy Ni-$e\_g$ bands. Our model reveals that under ambient pressure and 5% isotropic strain, the Fermi surface consists of two electron pockets ($α$ and $δ$) and three hole pockets ($β$, $β^{\prime}$, and $β^{\prime \prime}$), while under uniaxial strain, a $γ$ hole pocket with $d\_{z^2}$ orbital character emerges. RPA calculations reveal that the leading spin response shifts from $\mathbf{q}\approx(2π/3,2π/3)$ at ambient pressure to $\mathbf{q}\approx(π,π)$ under both strain conditions and is enhanced under $c$-axis compression. These results suggest that $c$-axis compression may provide a favorable route to superconductivity in the quadlayer nickelate analogous to that in bilayer and trilayer nickelates.
-
----
-
-## 10. Neural-quantum-state based downfolding of the three-band Emery model for cuprates and nickelates
-
-- **提交日期**：2026-09-29
-- **作者**：Hannah Lange, Julius F. A. Tirpitz, Annabelle Bohrdt
-- **arXiv链接**：[http://arxiv.org/abs/2609.38150v1](http://arxiv.org/abs/2609.38150v1)
-
-### 摘要
-Understanding the physics underlying high-temperature superconductivity in cuprates and, more recently, infinite-layer nickelates has remained a central challenge in condensed-matter physics. We establish neural quantum states (NQS), specifically Hidden Fermion Determinant States (HFDS), as a scalable variational approach to the three-band Emery model of the copper- and nickel-oxide layers in these materials. After benchmarking HFDS against matrix product states on width-two geometries, we study ground states of fully two-dimensional (2D) systems of up to $10\times10$ unit cells ($300$ sites). We characterize the momentum-space distribution of dopants and find a pronounced electron-hole dichotomy similar to cuprate experiments. We further downfold the three-band model to effective single-band descriptions by constructing interacting Wannier functions. We consider a wide range of parameters -- from the charge-transfer regime relevant to cuprates to the Hubbard-Mott regime of nickelates, as well as systematic scans of the charge-transfer gap that has been demonstrated to impact the critical superconducting temperatures. Across all regimes, the effective model significantly deviates from the usual Fermi-Hubbard model: The typical ratio $U/t$ is enhanced, some parameters experience a significant doping dependence, and sizable terms beyond the conventional Hubbard model are present, most notably a density-assisted hopping $t\_n$. Notably, in all effective models, $t\_n$ has the largest contribution to particle-hole asymmetry, rather than next-nearest-neighbor hopping contributions. The effective parameters sensitively depend on the charge-transfer energy, doping, and interaction ratios. Our results establish HFDS as an efficient tool for studying the 2D Emery model and demonstrate that single-band descriptions can require interaction terms generated by the underlying multi-band models.
 
 ---
 
