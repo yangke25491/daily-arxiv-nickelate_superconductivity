@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-09-30 至 2026-10-30**
-> 数据检索到 **10** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-01 至 2026-10-31**
+> 数据检索到 **9** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -106,17 +106,6 @@ The recent discovery of high-T${}\_c$ superconductivity in bilayer nickelates ha
 
 ### 摘要
 The discovery of spin-density-wave (SDW) order in bilayer nickelates has intensified interest in its interplay with superconductivity. Unlike cuprates, where doping rapidly suppresses the Néel temperature, the SDW transition temperature ($T\_{\mathrm{SDW}}$) in bilayer nickelates is robust against oxygen annealing and even increases under pressure. Here, we combine oxygen annealing with isovalent rare-earth ($A$-site) substitution to effectively apply $c$-axis uniaxial pressure, realizing superconducting bilayer nickelate films with $T\_{\mathrm{SDW}}$ suppressed from 150 K to 70 K. Notably, while SDW order is weakened but remains, a second charge-like anisotropy order is completely eliminated in the superconducting state. Polarization-resolved O $K$-edge X-ray absorption and electronic structure calculations show that strengthened interlayer coupling reconstructs the Fermi surface and weakens the SDW. These findings, consistent with a spin-spinless stripe ground state, provide new insight into the mechanism of density wave formation and their interplay with superconductivity.
-
----
-
-## 10. Electronic structure and two-orbital model of the quadlayer La${}\_5$Ni${}\_4$O${}\_{13}$
-
-- **提交日期**：2026-09-30
-- **作者**：Jian-Xiang Sun, Haokan Xiao, Cui-Qun Chen, Dao-Xin Yao
-- **arXiv链接**：[http://arxiv.org/abs/2610.00489v1](http://arxiv.org/abs/2610.00489v1)
-
-### 摘要
-The discovery of pressure-induced superconductivity in Ruddlesden--Popper (RP) nickelates has stimulated extensive interest in high-T${}\_c$ superconductors. Here, we systematically study the electronic properties of the quadlayer RP nickelate La${}\_5$Ni${}\_4$O${}\_{13}$ under ambient pressure, 5% isotropic compressive strain, and 4% $c$-axis uniaxial strain using density functional theory (DFT) and random phase approximation (RPA) calculations. DFT calculations show that isotropic strain broadens the Ni-$e\_g$ bands and induces charge transfer from O-$p$ to Ni-$d$ orbitals, whereas $c$-axis uniaxial strain selectively shifts the $d\_{z^2}$-derived bonding1 band upward while leaving the $d\_{x^2-y^2}$ dispersion nearly unchanged. From Wannier downfolding, we construct a quadlayer two-orbital model that reproduces the low-energy Ni-$e\_g$ bands. Our model reveals that under ambient pressure and 5% isotropic strain, the Fermi surface consists of two electron pockets ($α$ and $δ$) and three hole pockets ($β$, $β^{\prime}$, and $β^{\prime \prime}$), while under uniaxial strain, a $γ$ hole pocket with $d\_{z^2}$ orbital character emerges. RPA calculations reveal that the leading spin response shifts from $\mathbf{q}\approx(2π/3,2π/3)$ at ambient pressure to $\mathbf{q}\approx(π,π)$ under both strain conditions and is enhanced under $c$-axis compression. These results suggest that $c$-axis compression may provide a favorable route to superconductivity in the quadlayer nickelate analogous to that in bilayer and trilayer nickelates.
 
 ---
 
