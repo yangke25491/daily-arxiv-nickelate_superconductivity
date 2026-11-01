@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-01 至 2026-10-31**
-> 数据检索到 **9** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-02 至 2026-11-01**
+> 数据检索到 **8** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -95,17 +95,6 @@ The discovery of high-temperature superconductivity in bilayer and trilayer nick
 
 ### 摘要
 The recent discovery of high-T${}\_c$ superconductivity in bilayer nickelates has highlighted the crucial role of interlayer coupling and motivated proposals for dominant interlayer pairing. Whether such pairing can support topological superconductivity, however, remains unexplored. Here, we demonstrate that substrate-supported bilayer nickelate thin films can host an intrinsic time-reversal-invariant topological superconducting phase protected by diagonal mirror symmetry. Using a two-orbital model derived from first-principles calculations, we show that a modest layer-asymmetric potential and layer-staggered Rashba spin-orbit coupling drive the system into this topological phase over a broad parameter range with a dominant interlayer pairing. The nontrivial topology arises from a reversal of the pairing sign on one of the spin-split bonding Fermi surfaces and is characterized by a nonzero mirror winding number along the diagonal direction, as well as a Majorana Kramers pair at the [11] edge. The phase also features bulk gap nodes located slightly away from the diagonal directions, featuring chiral charge and zero-energy flat bands. We discuss experimental routes for realizing and tuning this phase. Our results establish high-T${}\_c$ bilayer nickelates as a promising platform for topological superconductivity, where tunable topological transitions and Majorana boundary modes can provide probes of unconventional pairing.
-
----
-
-## 9. Selective suppression of electronic orders via interlayer coupling in superconducting bilayer nickelate thin films
-
-- **提交日期**：2026-10-01
-- **作者**：Ziao Han, Lifen Xiang, Tianren Wang, Congcong Le, Jun Zhan, Siyi Lei, Sonia Francoual, Qisi Wang, Jiangping Hu, Tao Xiang, Ronny Sutarto, Xianxin Wu, X. J. Zhou, Zhihai Zhu
-- **arXiv链接**：[http://arxiv.org/abs/2610.01757v1](http://arxiv.org/abs/2610.01757v1)
-
-### 摘要
-The discovery of spin-density-wave (SDW) order in bilayer nickelates has intensified interest in its interplay with superconductivity. Unlike cuprates, where doping rapidly suppresses the Néel temperature, the SDW transition temperature ($T\_{\mathrm{SDW}}$) in bilayer nickelates is robust against oxygen annealing and even increases under pressure. Here, we combine oxygen annealing with isovalent rare-earth ($A$-site) substitution to effectively apply $c$-axis uniaxial pressure, realizing superconducting bilayer nickelate films with $T\_{\mathrm{SDW}}$ suppressed from 150 K to 70 K. Notably, while SDW order is weakened but remains, a second charge-like anisotropy order is completely eliminated in the superconducting state. Polarization-resolved O $K$-edge X-ray absorption and electronic structure calculations show that strengthened interlayer coupling reconstructs the Fermi surface and weakens the SDW. These findings, consistent with a spin-spinless stripe ground state, provide new insight into the mechanism of density wave formation and their interplay with superconductivity.
 
 ---
 
