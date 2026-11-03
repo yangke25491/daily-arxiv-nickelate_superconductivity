@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-03 至 2026-11-02**
-> 数据检索到 **7** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-04 至 2026-11-03**
+> 数据检索到 **8** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
+## 1. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
+
+- **提交日期**：2026-10-31
+- **作者**：Ethan Saïman, Feiyu Li, Junjie Zhang, Jean-Pascal Rueff, Victor Balédent
+- **arXiv链接**：[http://arxiv.org/abs/2611.01118v1](http://arxiv.org/abs/2611.01118v1)
+
+### 摘要
+Models of unconventional superconductivity in cuprates and nickelates depend sensitively on the distribution of valence electrons among the $d$ orbitals. But accurately determining the orbital electron or hole occupations in these systems remains a difficult and unresolved task. Here, using $s$-core-level non-resonant inelastic x-ray scattering at the Ni $M\_1$ edge, we determine the angular distribution of the Ni $3d$ holes in a single crystal of La${}\_2$SmNi${}\_2$O${}\_7$. Our results demonstrate that the hole occupation ratio $\hz/\hx = 0.94\pm0.06$, thus significantly above the expected value of $2/3$ for a filled $d\_{z^2}$ orbitals models and close to value expected in a Hund's-coupling picture. Our results support superconductivity scenarios in which both $e\_g$ orbitals contribute to the electron-pairing mechanism in La${}\_2$SmNi${}\_2$O${}\_7$.
+
+---
+
+## 2. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-28
 - **作者**：P. Puphal, A. Suthar, B. Wehinger, V. Sundaramurthy, T. Priessnitz, M. Knauft, P. Sosa-Lizama, Y. -M. Wu, M. Hepting, J. Nuss, M. Isobe, P. A. van Aken, Y. E. Suyolcu, B. Keimer, H. Takagi, P. Reiss
@@ -21,7 +32,7 @@ Identifying the key ingredients for superconductivity under pressure in the Rudd
 
 ---
 
-## 2. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
+## 3. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-26
 - **作者**：Kaustubh Roy, Piers Coleman
@@ -32,7 +43,7 @@ Motivated by the recent measurement of high-temperature superconductivity in the
 
 ---
 
-## 3. Superconducting weak links at substrate steps in bilayer nickelate films
+## 4. Superconducting weak links at substrate steps in bilayer nickelate films
 
 - **提交日期**：2026-10-20
 - **作者**：Yidi Liu, Yaoju Tarn, Lopa Bhatt, Puhua Zhang, Joonseo Song, Berit H. Goodge, David A. Muller, Harold Y. Hwang, Yijun Yu
@@ -43,7 +54,7 @@ Ambient-pressure superconductivity above 40 K has been realized in bilayer nicke
 
 ---
 
-## 4. $d$-wave superconductivity in quintuple-layer bulk superconductor La${}\_6$Ni${}\_5$O${}\_{12}$
+## 5. $d$-wave superconductivity in quintuple-layer bulk superconductor La${}\_6$Ni${}\_5$O${}\_{12}$
 
 - **提交日期**：2026-10-15
 - **作者**：Zhan Wang, Yuxin Wang, Hui-Ke Jin, Kun Jiang, Jiangping Hu
@@ -54,7 +65,7 @@ The recent realization of bulk superconductivity in the quintuple-layer nickelat
 
 ---
 
-## 5. Bulk superconductivity in quintuple-layer square-planar nickelate La6Ni5O12
+## 6. Bulk superconductivity in quintuple-layer square-planar nickelate La6Ni5O12
 
 - **提交日期**：2026-10-14
 - **作者**：Mengzhu Shi, Mei Du, Hongyu Li, Zhiwei Wang, Zhengjie Wang, Ziji Xiang, Tao Wu, Xianhui Chen
@@ -65,7 +76,7 @@ Nickelate superconductors, sharing a similar electronic environment with cuprate
 
 ---
 
-## 6. Multiorbital Anisotropy and Magnetic Excitations in Trilayer Nickelate Pr${}\_4$Ni${}\_3$O${}\_{10}$
+## 7. Multiorbital Anisotropy and Magnetic Excitations in Trilayer Nickelate Pr${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-06
 - **作者**：Ziqiang Guan, Sophia F. R. TenHuisen, Xuefei Guo, Wei He, Aulden K. Jones, Marli dos Reis Cantarino, Xinglong Chen, Hong Zheng, J. F. Mitchell, Nicholas B. Brookes, Mark P. M. Dean, Matteo Mitrano
@@ -76,7 +87,7 @@ Rare-earth substitution strongly modifies the structure, metallicity, and superc
 
 ---
 
-## 7. Luttinger Liquid Behavior in a Single-Layer Nickelate La1.4Sr0.6NiO4
+## 8. Luttinger Liquid Behavior in a Single-Layer Nickelate La1.4Sr0.6NiO4
 
 - **提交日期**：2026-10-06
 - **作者**：Yinqi Hu, Yidian Li, Xian Du, Wenxuan Zhao, Kaiyi Zhai, Senyao Zhang, Jiawei Shao, Mingxin Mao, Houke Chen, Jieyi Liu, Donghui Lu, Makoto Hashimoto, Fangyuan Zhu, Zhengtai Liu, Dawei Shen, Yaobo Huang, Zhongkai Liu, D. Prabhakaran, Yanpeng Qi, Yilin Wang, Yulin Chen, Lexian Yang
