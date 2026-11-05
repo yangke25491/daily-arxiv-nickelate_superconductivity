@@ -5,7 +5,7 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-05 至 2026-11-04**
+> 检索时间范围：**2026-10-06 至 2026-11-05**
 > 数据检索到 **8** 篇相关论文，按提交时间降序排列
 
 ---
@@ -58,10 +58,10 @@ Ambient-pressure superconductivity above 40 K has been realized in bilayer nicke
 
 - **提交日期**：2026-10-15
 - **作者**：Zhan Wang, Yuxin Wang, Hui-Ke Jin, Kun Jiang, Jiangping Hu
-- **arXiv链接**：[http://arxiv.org/abs/2610.22212v1](http://arxiv.org/abs/2610.22212v1)
+- **arXiv链接**：[http://arxiv.org/abs/2610.22212v2](http://arxiv.org/abs/2610.22212v2)
 
 ### 摘要
-The recent realization of bulk superconductivity in the quintuple-layer nickelate La${}\_6$Ni${}\_5$O${}\_{12}$ opens new opportunities to probe the pairing symmetry of the reduced Ruddlesden--Popper (RP) nickelate family. Using an effective five-layer Hubbard model and variational Monte Carlo calculations, we find that a spin-singlet $d\_{x^2-y^2}$-wave state is energetically favored, while extended-$s$-wave pairing is strongly suppressed. Based on the optimized superconducting state, we further calculate several experimentally accessible observables. The tunneling density of states exhibits a characteristic V-shaped low-energy spectrum, the superfluid density shows a linear low-temperature depletion, the Knight shift decreases below $T\_c$, and the spin-lattice relaxation rate follows $1/T\_1T\propto T^2$, together providing consistent signatures of a clean nodal superconductor. Extending the same framework to related reduced RP nickelates, we find a robust $d$-wave tendency in infinite-layer LaNiO${}\_{2}$, while trilayer La${}\_4$Ni${}\_3$O${}\_{8}$ at its nominal filling lies close to the boundary between $d$-wave superconductivity and a non-superconducting state. These results establish bulk La${}\_6$Ni${}\_5$O${}\_{12}$ as a promising platform for determining the pairing symmetry of nickelate superconductors and suggest a common $d\_{x^2-y^2}$-wave pairing tendency across the reduced RP nickelate family.
+The recent realization of bulk superconductivity in the quintuple-layer nickelate La${}\_6$Ni${}\_5$O${}\_{12}$ opens new opportunities to probe the pairing symmetry of the reduced Ruddlesden--Popper (RP) nickelate family. Using an effective five-layer Hubbard model and variational Monte Carlo calculations, we find that a spin-singlet $d\_{x^2-y^2}$-wave state is energetically favored, while extended $s$-wave pairing is strongly suppressed. Based on the optimized superconducting state, we further calculate several experimentally accessible observables. The tunneling density of states exhibits a characteristic V-shaped low-energy spectrum, the superfluid density shows a linear low-temperature depletion, the Knight shift decreases below $T\_c$, and the spin-lattice relaxation rate follows $1/T\_1T\propto T^2$, together providing consistent signatures of a clean nodal superconductor. Extending the same framework to related reduced RP nickelates, we find a robust $d$-wave tendency in infinite-layer LaNiO${}\_{2}$, while trilayer La${}\_4$Ni${}\_3$O${}\_{8}$ at its nominal filling lies close to the boundary between $d$-wave superconductivity and a non-superconducting state. These results establish bulk La${}\_6$Ni${}\_5$O${}\_{12}$ as a promising platform for determining the pairing symmetry of nickelate superconductors and suggest a common $d\_{x^2-y^2}$-wave pairing tendency across the reduced RP nickelate family.
 
 ---
 
