@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-06 至 2026-11-05**
-> 数据检索到 **8** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-07 至 2026-11-06**
+> 数据检索到 **6** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -73,28 +73,6 @@ The recent realization of bulk superconductivity in the quintuple-layer nickelat
 
 ### 摘要
 Nickelate superconductors, sharing a similar electronic environment with cuprate superconductors, offer a promising platform for unraveling the mechanism of high-temperature superconductivity. However, the realization of superconductivity in these systems has so far been restricted to thin films or bulk samples under high-pressure. This limits the applicability of various experimental probes to study the mechanism of superconductivity, and hinders the potential application of the nickelate superconductors. Exploring bulk superconductivity at ambient pressure is therefore essential to understand its origin and enable broader experimental research. Here, we report the realization of bulk superconductivity at ambient-pressure in quintuple-layer square-planar (SP) nickelate La6Ni5O12. The SP phase is obtained by performing topotactic reaction on the quintuple-layer Ruddlesden-Popper (RP) compound La6Ni5O16. Optimized reduction condition endows La6Ni5O12 with a superconducting state that exhibits onset transition temperature of ~ 18 K, as verified by both zero resistance and diamagnetic shielding effect. Pronounced hysteresis loops revealed by magnetization and torque magnetometry demonstrate the occurrence of vortex pinning. Specific heat measurements on a polycrystalline pellet of La6Ni5O12 reveal a clear superconducting transition at ~18 K and a superconducting volume fraction of ~ 25%, which strongly supports the presence of bulk superconductivity. Our results establish an unprecedented bulk sample platform for investigating superconductivity in nickelates at ambient pressure, which paves the way for further experimental studies into the superconducting mechanism.
-
----
-
-## 7. Multiorbital Anisotropy and Magnetic Excitations in Trilayer Nickelate Pr${}\_4$Ni${}\_3$O${}\_{10}$
-
-- **提交日期**：2026-10-06
-- **作者**：Ziqiang Guan, Sophia F. R. TenHuisen, Xuefei Guo, Wei He, Aulden K. Jones, Marli dos Reis Cantarino, Xinglong Chen, Hong Zheng, J. F. Mitchell, Nicholas B. Brookes, Mark P. M. Dean, Matteo Mitrano
-- **arXiv链接**：[http://arxiv.org/abs/2610.09210v1](http://arxiv.org/abs/2610.09210v1)
-
-### 摘要
-Rare-earth substitution strongly modifies the structure, metallicity, and superconducting behavior of Ruddlesden-Popper (RP) nickelates, but its impact on their magnetic interactions remains unclear. Here, we combine x-ray absorption spectroscopy (XAS) and resonant inelastic x-ray scattering (RIXS) to resolve the multiorbital electronic structure and magnetic excitations of Pr${}\_4$Ni${}\_3$O${}\_{10}$. The absence of an overlapping rare-earth resonance provides direct access to the Ni $L\_3$ edge, while polarization-dependent measurements at the Ni $L$- and O $K$-edges resolve distinct planar and out-of-plane Ni-O hybridization channels. Momentum-resolved RIXS reveals dispersive magnetic excitations that soften toward the incommensurate spin-density-wave wave vector. An effective spin-wave analysis yields a sizable intra-trilayer exchange coupling, comparable to the leading in-plane interactions and robust against rare-earth substitution. Our results identify the multilayer architecture, rather than rare-earth substitution alone, as a key control knob of the magnetic interactions in these materials.
-
----
-
-## 8. Luttinger Liquid Behavior in a Single-Layer Nickelate La1.4Sr0.6NiO4
-
-- **提交日期**：2026-10-06
-- **作者**：Yinqi Hu, Yidian Li, Xian Du, Wenxuan Zhao, Kaiyi Zhai, Senyao Zhang, Jiawei Shao, Mingxin Mao, Houke Chen, Jieyi Liu, Donghui Lu, Makoto Hashimoto, Fangyuan Zhu, Zhengtai Liu, Dawei Shen, Yaobo Huang, Zhongkai Liu, D. Prabhakaran, Yanpeng Qi, Yilin Wang, Yulin Chen, Lexian Yang
-- **arXiv链接**：[http://arxiv.org/abs/2610.07656v1](http://arxiv.org/abs/2610.07656v1)
-
-### 摘要
-The discovery of high-temperature superconductivity in bilayer and trilayer nickelates has spurred intense interest in the Ruddlesden-Popper nickelates; yet the fundamental properties of the NiO2 layer remain obscured by interlayer coupling. It is therefore imperative to investigate the electronic properties of their single-layer counterpart to isolate the intrinsic physics of the NiO layer. In this work, we present a systematic study of the single-layer nickelate La1.4Sr0.6NiO4 using high-resolution angle-resolved photoemission spectroscopy (ARPES) and theoretical calculations. We reveal strong electron correlation effects, manifested by high-energy kinks in band dispersions and a pronounced orbital-dependent band renormalization. Interestingly, we observe a quasi-one-dimensional electronic structure characterized by straight Fermi surface sheets along the diagonal momentum directions. Such square Fermi surface topology facilitates non-Fermi liquid behavior consistent with the Luttinger liquid model, as evidenced by the power-law spectral function, robust temperature scaling, and the observation of spin-charge separation. Our results therefore not only unveil an exotic Luttinger liquid behavior emerging from the unexpected dimensional reduction in an intrinsically quasi-two-dimensional nickelate but also provide a new perspective for understanding the intriguing physics in multilayer nickelates.
 
 ---
 
