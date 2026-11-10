@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-10 至 2026-11-09**
-> 数据检索到 **6** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-11 至 2026-11-10**
+> 数据检索到 **8** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
+## 1. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
+
+- **提交日期**：2026-11-09
+- **作者**：R. Zhang, P. Reiss, A. Krajewska, M. Isobe, H. Takagi, P. Puphal
+- **arXiv链接**：[http://arxiv.org/abs/2611.12788v1](http://arxiv.org/abs/2611.12788v1)
+
+### 摘要
+Superconductivity in the Ruddlesden-Popper (RP) nickelates has so far been confined either to multilayer compounds under high pressure or to square-planar infinite-layer-type films stabilized by epitaxial strain. Here we report the high-pressure high-temperature (HPHT) growth of bulk single crystals of the quadruple-layer RP nickelate La${}\_5$Ni${}\_4$O${}\_{13}$ ($n=4$) and reproduce the quintuple-layer La${}\_6$Ni${}\_5$O${}\_{16}$ ($n=5$) synthesis, two members of the series that had previously been accessible only as thin films. Topotactic reduction of La${}\_5$Ni${}\_4$O${}\_{13}$ single crystals with CaH${}\_2$ yields the square-planar phase La${}\_5$Ni${}\_4$O${}\_{10}$, which we show to be a bulk, ambient-pressure superconductor with $T\_\mathrm{c}^\mathrm{onset} \approx 18\,\mathrm{K}$, a shielding fraction above 60\%, and a specific-heat jump that confirms a bulk pairing transition. All crystals show besides superconductivity a coexistence with a density-wave or metal-insulator transition. The upper critical field shows a small anisotropy, $γ\approx 2.4$, which remains finite as $T \to T\_c$, indicating three-dimensional superconductivity with substantial coupling between the four-layer blocks. These results identify the square-planar nickelates $R\_{n+1}$Ni${}\_n$O${}\_{2n+2}$ as a bulk platform in which the layer number alone tunes the nickel valence into the superconducting regime, without chemical substitution, pressure, or epitaxial constraint.
+
+---
+
+## 2. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
+
+- **提交日期**：2026-11-06
+- **作者**：Zhongyi Zhang, Shengshan Qin, Chui-Zhen Chen, Hoi Chun Po, Jiangping Hu, Xianxin Wu
+- **arXiv链接**：[http://arxiv.org/abs/2611.10130v1](http://arxiv.org/abs/2611.10130v1)
+
+### 摘要
+The recent discovery of high-$T\_{\rm c}$ superconductivity in bilayer nickelates has attracted enormous attention. Despite dominant theoretical studies pointing to interlayer pairing, the pairing symmetry is strongly debated due to conflicting evidence on nodeless bulk gaps and $d$-wave-like transport signatures. Here, we demonstrate that a nodeless interlayer pairing can naturally mimic $d$-wave Andreev signatures when the point contact is not evenly coupled to the two layers. The phenomenon can be understood by recognizing how a contact potential, which is odd under the layer-exchanging mirror symmetry, acts like an effective Zeeman field on the layer pseudospin. This pseudo field then binds in-gap Andreev states that sweep through the gap with the width and strength of the barrier. We further demonstrate in a realistic model for La${}\_3$Ni${}\_2$O${}\_7$ that the simulated subgap conductance for a top-layer barrier can reproduce the orientation dependent ZBCP usually interpreted as a fingerprint of $\textit{d}$-wave pairing. By revealing this mirror-selective Andreev response from an interlayer pairing state, our work offers a natural scenario to reconcile the conflicting experimental evidence in bilayer nickelates and advances our understanding of unconventional superconductivity.
+
+---
+
+## 3. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-31
 - **作者**：Ethan Saïman, Feiyu Li, Junjie Zhang, Jean-Pascal Rueff, Victor Balédent
@@ -21,7 +43,7 @@ Models of unconventional superconductivity in cuprates and nickelates depend sen
 
 ---
 
-## 2. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
+## 4. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-28
 - **作者**：P. Puphal, A. Suthar, B. Wehinger, V. Sundaramurthy, T. Priessnitz, M. Knauft, P. Sosa-Lizama, Y. -M. Wu, M. Hepting, J. Nuss, M. Isobe, P. A. van Aken, Y. E. Suyolcu, B. Keimer, H. Takagi, P. Reiss
@@ -32,7 +54,7 @@ Identifying the key ingredients for superconductivity under pressure in the Rudd
 
 ---
 
-## 3. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
+## 5. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-26
 - **作者**：Kaustubh Roy, Piers Coleman
@@ -43,7 +65,7 @@ Motivated by the recent measurement of high-temperature superconductivity in the
 
 ---
 
-## 4. Superconducting weak links at substrate steps in bilayer nickelate films
+## 6. Superconducting weak links at substrate steps in bilayer nickelate films
 
 - **提交日期**：2026-10-20
 - **作者**：Yidi Liu, Yaoju Tarn, Lopa Bhatt, Puhua Zhang, Joonseo Song, Berit H. Goodge, David A. Muller, Harold Y. Hwang, Yijun Yu
@@ -54,7 +76,7 @@ Ambient-pressure superconductivity above 40 K has been realized in bilayer nicke
 
 ---
 
-## 5. $d$-wave superconductivity in quintuple-layer bulk superconductor La${}\_6$Ni${}\_5$O${}\_{12}$
+## 7. $d$-wave superconductivity in quintuple-layer bulk superconductor La${}\_6$Ni${}\_5$O${}\_{12}$
 
 - **提交日期**：2026-10-15
 - **作者**：Zhan Wang, Yuxin Wang, Hui-Ke Jin, Kun Jiang, Jiangping Hu
@@ -65,7 +87,7 @@ The recent realization of bulk superconductivity in the quintuple-layer nickelat
 
 ---
 
-## 6. Bulk superconductivity in quintuple-layer square-planar nickelate La6Ni5O12
+## 8. Bulk superconductivity in quintuple-layer square-planar nickelate La6Ni5O12
 
 - **提交日期**：2026-10-14
 - **作者**：Mengzhu Shi, Mei Du, Hongyu Li, Zhiwei Wang, Zhengjie Wang, Ziji Xiang, Tao Wu, Xianhui Chen
