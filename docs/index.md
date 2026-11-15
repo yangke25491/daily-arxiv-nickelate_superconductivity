@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-15 至 2026-11-14**
-> 数据检索到 **7** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-16 至 2026-11-15**
+> 数据检索到 **6** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -73,17 +73,6 @@ Motivated by the recent measurement of high-temperature superconductivity in the
 
 ### 摘要
 Ambient-pressure superconductivity above 40 K has been realized in bilayer nickelate thin films on SrLaAlO${}\_4$ (001), yet resistive measurements often exhibit incomplete zero-resistance states and/or two-step superconducting transitions of unresolved origin. We show that these features arise from superconducting weak links at substrate step-terrace structures. A direct correlation between the azimuthal-angle-dependent two-step transition and step-terrace orientation establishes this connection, further supported by atomic-scale visualization of structurally disrupted regions at step terraces. Modeling the films as pristine (weak-link) regions with higher (lower) transition temperature reproduces essential features of the two-step transition using both a simple model and finite-element simulations. Transport measurements further reveal a strong dependence of transition characteristics - and even the occurrence of superconductivity itself - on average terrace width. These results identify step-induced weak links as the microscopic origin of two-step transitions in bilayer nickelate films, providing a framework for understanding anisotropic and percolative transport, and a route to superconducting devices.
-
----
-
-## 7. $d$-wave superconductivity in quintuple-layer bulk superconductor La${}\_6$Ni${}\_5$O${}\_{12}$
-
-- **提交日期**：2026-10-15
-- **作者**：Zhan Wang, Yuxin Wang, Hui-Ke Jin, Kun Jiang, Jiangping Hu
-- **arXiv链接**：[http://arxiv.org/abs/2610.22212v2](http://arxiv.org/abs/2610.22212v2)
-
-### 摘要
-The recent realization of bulk superconductivity in the quintuple-layer nickelate La${}\_6$Ni${}\_5$O${}\_{12}$ opens new opportunities to probe the pairing symmetry of the reduced Ruddlesden--Popper (RP) nickelate family. Using an effective five-layer Hubbard model and variational Monte Carlo calculations, we find that a spin-singlet $d\_{x^2-y^2}$-wave state is energetically favored, while extended $s$-wave pairing is strongly suppressed. Based on the optimized superconducting state, we further calculate several experimentally accessible observables. The tunneling density of states exhibits a characteristic V-shaped low-energy spectrum, the superfluid density shows a linear low-temperature depletion, the Knight shift decreases below $T\_c$, and the spin-lattice relaxation rate follows $1/T\_1T\propto T^2$, together providing consistent signatures of a clean nodal superconductor. Extending the same framework to related reduced RP nickelates, we find a robust $d$-wave tendency in infinite-layer LaNiO${}\_{2}$, while trilayer La${}\_4$Ni${}\_3$O${}\_{8}$ at its nominal filling lies close to the boundary between $d$-wave superconductivity and a non-superconducting state. These results establish bulk La${}\_6$Ni${}\_5$O${}\_{12}$ as a promising platform for determining the pairing symmetry of nickelate superconductors and suggest a common $d\_{x^2-y^2}$-wave pairing tendency across the reduced RP nickelate family.
 
 ---
 
