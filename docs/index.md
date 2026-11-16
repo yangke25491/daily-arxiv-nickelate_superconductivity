@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-16 至 2026-11-15**
-> 数据检索到 **6** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-17 至 2026-11-16**
+> 数据检索到 **7** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
+## 1. Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure
+
+- **提交日期**：2026-11-13
+- **作者**：Tomo-Hiko Hamada, Kensei Ushio, Shu Kamiyama, Kazuhiko Kuroki, Hirofumi Sakakibara
+- **arXiv链接**：[http://arxiv.org/abs/2611.17709v1](http://arxiv.org/abs/2611.17709v1)
+
+### 摘要
+The possibility of ambient-pressure superconductivity in $\mathrm{La\_3Ni\_2O\_7}$ is theoretically explored via chemical substitution. Using first-principles and many-body calculations, we propose substituting $\mathrm{Ba}$ at the lanthanide site to exert chemical pressure, thereby mitigating the octahedral distortions that suppress superconductivity. Phonon calculations demonstrate the dynamical stability of the high-symmetry tetragonal phase in $\mathrm{La\_{3-\it{x}}Ba\_{\it{x}}Ni\_2O\_7}$ at a small doping ratio of $x \sim 0.15$. By applying the fluctuation exchange approximation to an effective model Hamiltonian derived from this stable structure, we calculate the Eliashberg eigenvalue $λ$ to evaluate the relative superconducting transition temperature $T\_\mathrm{c}$ to existing unconventional superconductors. We conclude that $s\_\pm$-wave superconductivity is likely to emerge, as the required $\mathrm{Ba}$ concentration ($x \sim 0.15$) is sufficiently small to minimize the detrimental suppression of superconductivity induced by hole doping.
+
+---
+
+## 2. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
 
 - **提交日期**：2026-11-09
 - **作者**：R. Zhang, P. Reiss, A. Krajewska, M. Isobe, H. Takagi, P. Puphal
@@ -21,7 +32,7 @@ Superconductivity in the Ruddlesden-Popper (RP) nickelates has so far been confi
 
 ---
 
-## 2. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
+## 3. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
 
 - **提交日期**：2026-11-06
 - **作者**：Zhongyi Zhang, Shengshan Qin, Chui-Zhen Chen, Hoi Chun Po, Jiangping Hu, Xianxin Wu
@@ -32,7 +43,7 @@ The recent discovery of high-$T\_{\rm c}$ superconductivity in bilayer nickelate
 
 ---
 
-## 3. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
+## 4. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-31
 - **作者**：Ethan Saïman, Feiyu Li, Junjie Zhang, Jean-Pascal Rueff, Victor Balédent
@@ -43,7 +54,7 @@ Models of unconventional superconductivity in cuprates and nickelates depend sen
 
 ---
 
-## 4. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
+## 5. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-28
 - **作者**：P. Puphal, A. Suthar, B. Wehinger, V. Sundaramurthy, T. Priessnitz, M. Knauft, P. Sosa-Lizama, Y. -M. Wu, M. Hepting, J. Nuss, M. Isobe, P. A. van Aken, Y. E. Suyolcu, B. Keimer, H. Takagi, P. Reiss
@@ -54,7 +65,7 @@ Identifying the key ingredients for superconductivity under pressure in the Rudd
 
 ---
 
-## 5. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
+## 6. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-26
 - **作者**：Kaustubh Roy, Piers Coleman
@@ -65,7 +76,7 @@ Motivated by the recent measurement of high-temperature superconductivity in the
 
 ---
 
-## 6. Superconducting weak links at substrate steps in bilayer nickelate films
+## 7. Superconducting weak links at substrate steps in bilayer nickelate films
 
 - **提交日期**：2026-10-20
 - **作者**：Yidi Liu, Yaoju Tarn, Lopa Bhatt, Puhua Zhang, Joonseo Song, Berit H. Goodge, David A. Muller, Harold Y. Hwang, Yijun Yu
