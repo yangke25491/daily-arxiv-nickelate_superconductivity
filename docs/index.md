@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-17 至 2026-11-16**
-> 数据检索到 **7** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-18 至 2026-11-17**
+> 数据检索到 **8** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure
+## 1. Failure of Mean-Field Critical Scaling and Two Distinct Dissipation Regimes in La${}\_2$SmNi${}\_2$O${}\_{7-δ}$
+
+- **提交日期**：2026-11-16
+- **作者**：Yongze Ye, Feiyu Li, Di Peng, Junjie Zhang, Hai-Hu Wen
+- **arXiv链接**：[http://arxiv.org/abs/2611.21536v1](http://arxiv.org/abs/2611.21536v1)
+
+### 摘要
+Recently, superconductivity with an onset transition temperature ($T\_{\mathrm{c}}^{\mathrm{onset}}$) up to 96 K has been observed in the $\mathrm{La}\_{2-x}\mathrm{Sm}\_{1+x}\mathrm{Ni}\_2\mathrm{O}\_{7-δ}$ system under pressure, providing an attractive platform for investigating superconducting mechanisms in nickelates. Here, we systematically analyzed the critical scaling and vortex dynamics for the $\mathrm{La}\_2\mathrm{Sm}\mathrm{Ni}\_2\mathrm{O}\_{7-δ}$ single crystal with $T\_{\mathrm{c}}^{\mathrm{onset}}=92.5$ K under pressure. Within the Ullah--Dorsey framework, neither the two-dimensional nor three-dimensional scaling provides a good collapse near $T\_{\mathrm{c}}^{\mathrm{MF}}$. This failure may be associated with the multiband composite order parameter of bilayer nickelates, in which pairing is mainly driven by antiferromagnetic exchange in the $d\_{z^2}$ orbital, whereas the superfluid stiffness is mainly governed by the $d\_{x^2-y^2}$ orbital. The two-step decrease in the logarithmic resistivity reveals two distinct dissipative regimes. The low-temperature regime is well described by the thermally assisted flux flow (TAFF) model, whereas the high-temperature regime cannot be explained by the vortex dynamics involved with the superconducting fluctuation. The crossover between the two regimes may be associated with the orbital-dependent evolution of vortex cores. These results suggest the significant role of the composite order parameter in critical fluctuations and vortex-motion dissipation in nickelates.
+
+---
+
+## 2. Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure
 
 - **提交日期**：2026-11-13
 - **作者**：Tomo-Hiko Hamada, Kensei Ushio, Shu Kamiyama, Kazuhiko Kuroki, Hirofumi Sakakibara
@@ -21,7 +32,7 @@ The possibility of ambient-pressure superconductivity in $\mathrm{La\_3Ni\_2O\_7
 
 ---
 
-## 2. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
+## 3. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
 
 - **提交日期**：2026-11-09
 - **作者**：R. Zhang, P. Reiss, A. Krajewska, M. Isobe, H. Takagi, P. Puphal
@@ -32,7 +43,7 @@ Superconductivity in the Ruddlesden-Popper (RP) nickelates has so far been confi
 
 ---
 
-## 3. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
+## 4. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
 
 - **提交日期**：2026-11-06
 - **作者**：Zhongyi Zhang, Shengshan Qin, Chui-Zhen Chen, Hoi Chun Po, Jiangping Hu, Xianxin Wu
@@ -43,7 +54,7 @@ The recent discovery of high-$T\_{\rm c}$ superconductivity in bilayer nickelate
 
 ---
 
-## 4. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
+## 5. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-31
 - **作者**：Ethan Saïman, Feiyu Li, Junjie Zhang, Jean-Pascal Rueff, Victor Balédent
@@ -54,7 +65,7 @@ Models of unconventional superconductivity in cuprates and nickelates depend sen
 
 ---
 
-## 5. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
+## 6. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-28
 - **作者**：P. Puphal, A. Suthar, B. Wehinger, V. Sundaramurthy, T. Priessnitz, M. Knauft, P. Sosa-Lizama, Y. -M. Wu, M. Hepting, J. Nuss, M. Isobe, P. A. van Aken, Y. E. Suyolcu, B. Keimer, H. Takagi, P. Reiss
@@ -65,7 +76,7 @@ Identifying the key ingredients for superconductivity under pressure in the Rudd
 
 ---
 
-## 6. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
+## 7. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-26
 - **作者**：Kaustubh Roy, Piers Coleman
@@ -76,7 +87,7 @@ Motivated by the recent measurement of high-temperature superconductivity in the
 
 ---
 
-## 7. Superconducting weak links at substrate steps in bilayer nickelate films
+## 8. Superconducting weak links at substrate steps in bilayer nickelate films
 
 - **提交日期**：2026-10-20
 - **作者**：Yidi Liu, Yaoju Tarn, Lopa Bhatt, Puhua Zhang, Joonseo Song, Berit H. Goodge, David A. Muller, Harold Y. Hwang, Yijun Yu
