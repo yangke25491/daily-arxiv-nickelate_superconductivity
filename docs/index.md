@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-19 至 2026-11-18**
-> 数据检索到 **8** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-20 至 2026-11-19**
+> 数据检索到 **10** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Failure of Mean-Field Critical Scaling and Two Distinct Dissipation Regimes in La${}\_2$SmNi${}\_2$O${}\_{7-δ}$
+## 1. Reconciling Models for Infinite-Layer Nickelate Superconductors: Role of Interstitial-$s$ Band or $A$-Pocket
+
+- **提交日期**：2026-11-18
+- **作者**：Ao Zhang, Chao Deng, Leonard M. Verhoff, Mi Jiang, Run Yang, Zhixiang Shi, Karsten Held, Liang Si
+- **arXiv链接**：[http://arxiv.org/abs/2611.24288v1](http://arxiv.org/abs/2611.24288v1)
+
+### 摘要
+Understanding the minimal model that captures the essential physics of infinite-layer nickelate superconductors remains a central challenge. Using first-principles density-functional theory combined with dynamical mean-field theory (DFT+DMFT), we compute and compare the strongly correlated electronic structures and optical spectra of various effective models for the infinite-layer nickelate LaNiO${}\_2$, ranging from a $d\_{x^2-y^2}$ 1-band model to a full 6-band model with all Ni-$3d$ plus an interstitial-$s$ orbital. The results demonstrate that Ni-$3d$ 5-band models overestimate the Hundness picture, whereas 6-band models, which explicitly include the interstitial-$s$ band and have an $A$-pocket, recover the characteristic Mottness physics. Importantly, the influence of the interstitial-$s$ band on the correlations of the $d\_{x^2-y^2}$ band is negligible. Thus, superconductivity in infinite-layer nickelates can be reliably described within a single-band Hubbard framework, while the accurate description of inter-orbital properties such as (optical) conductivities requires the inclusion of at least the interstitial-$s$ band.
+
+---
+
+## 2. Layer-dependent $s^{\pm}$ superconducting pairing and influence of incipient bands in La${}\_3$Ni${}\_2$O${}\_7$ thin films on real LaSrAlO${}\_4$ substrate
+
+- **提交日期**：2026-11-17
+- **作者**：Yang Zhang, Philip M. Dee, Ling-Fang Lin, Adriana Moreo, Thomas A. Maier, Elbio Dagotto
+- **arXiv链接**：[http://arxiv.org/abs/2611.23595v1](http://arxiv.org/abs/2611.23595v1)
+
+### 摘要
+Motivated by recent advances in ambient-pressure superconducting La${}\_3$Ni${}\_2$O${}\_7$ (LNO) thin films, we theoretically investigate these films by explicitly incorporating the realistic LaSrAlO${}\_4$ (LSAO) substrate. The Fermi-surface topology of the nickelate thin film closely resembles that of the high-pressure bulk phase, with similar $α$ and $β$ sheets and a small hole-like $γ$ pocket originating from the surface bilayer (BL3). The bonding $d\_{3z^2-r^2}$ state of the interfacial bilayer (BL1, adjacent to the LSAO substrate) lies only $\sim 5$ meV below the Fermi level, giving rise to an incipient $γ$ band, while for the middle bilayer (BL2) its energy is much lower ($\sim 95$ meV). Remarkably, no significant spontaneous charge transfer from the LSAO substrate to the LNO film is found. Instead, \{\it symmetry-allowed charge disproportionation\} occurs between the BLs, with hole doping in BL3 and electron doping in BL1 and BL2. Via the weak-coupling Random Phase Approximation, we find a strong $s^{\pm}$-wave superconducting pairing instability in BL3, while $d\_{x^2-y^2}$ and $s^{\pm}$ are nearly degenerate in the other bilayers BL1 and BL2. Including the incipient $γ$ band via the Dynamical Cluster Approximation beyond weak coupling, robust $s^{\pm}$-wave pairing is observed in all three layers
+
+---
+
+## 3. Failure of Mean-Field Critical Scaling and Two Distinct Dissipation Regimes in La${}\_2$SmNi${}\_2$O${}\_{7-δ}$
 
 - **提交日期**：2026-11-16
 - **作者**：Yongze Ye, Feiyu Li, Di Peng, Junjie Zhang, Hai-Hu Wen
@@ -21,7 +43,7 @@ Recently, superconductivity with an onset transition temperature ($T\_{\mathrm{c
 
 ---
 
-## 2. Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure
+## 4. Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure
 
 - **提交日期**：2026-11-13
 - **作者**：Tomo-Hiko Hamada, Kensei Ushio, Shu Kamiyama, Kazuhiko Kuroki, Hirofumi Sakakibara
@@ -32,7 +54,7 @@ The possibility of ambient-pressure superconductivity in $\mathrm{La\_3Ni\_2O\_7
 
 ---
 
-## 3. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
+## 5. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
 
 - **提交日期**：2026-11-09
 - **作者**：R. Zhang, P. Reiss, A. Krajewska, M. Isobe, H. Takagi, P. Puphal
@@ -43,7 +65,7 @@ Superconductivity in the Ruddlesden-Popper (RP) nickelates has so far been confi
 
 ---
 
-## 4. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
+## 6. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
 
 - **提交日期**：2026-11-06
 - **作者**：Zhongyi Zhang, Shengshan Qin, Chui-Zhen Chen, Hoi Chun Po, Jiangping Hu, Xianxin Wu
@@ -54,7 +76,7 @@ The recent discovery of high-$T\_{\rm c}$ superconductivity in bilayer nickelate
 
 ---
 
-## 5. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
+## 7. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-31
 - **作者**：Ethan Saïman, Feiyu Li, Junjie Zhang, Jean-Pascal Rueff, Victor Balédent
@@ -65,7 +87,7 @@ Models of unconventional superconductivity in cuprates and nickelates depend sen
 
 ---
 
-## 6. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
+## 8. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-28
 - **作者**：P. Puphal, A. Suthar, B. Wehinger, V. Sundaramurthy, T. Priessnitz, M. Knauft, P. Sosa-Lizama, Y. -M. Wu, M. Hepting, J. Nuss, M. Isobe, P. A. van Aken, Y. E. Suyolcu, B. Keimer, H. Takagi, P. Reiss
@@ -76,7 +98,7 @@ Identifying the key ingredients for superconductivity under pressure in the Rudd
 
 ---
 
-## 7. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
+## 9. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-26
 - **作者**：Kaustubh Roy, Piers Coleman
@@ -87,7 +109,7 @@ Motivated by the recent measurement of high-temperature superconductivity in the
 
 ---
 
-## 8. Superconducting weak links at substrate steps in bilayer nickelate films
+## 10. Superconducting weak links at substrate steps in bilayer nickelate films
 
 - **提交日期**：2026-10-20
 - **作者**：Yidi Liu, Yaoju Tarn, Lopa Bhatt, Puhua Zhang, Joonseo Song, Berit H. Goodge, David A. Muller, Harold Y. Hwang, Yijun Yu
