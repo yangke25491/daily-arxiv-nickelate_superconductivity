@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-20 至 2026-11-19**
-> 数据检索到 **10** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-21 至 2026-11-20**
+> 数据检索到 **9** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -106,17 +106,6 @@ Identifying the key ingredients for superconductivity under pressure in the Rudd
 
 ### 摘要
 Motivated by the recent measurement of high-temperature superconductivity in the bilayer nickelate system La${}\_3$Ni${}\_2$O${}\_7$ in the bulk as well as thin film samples, we seek to understand the role of the interlayer coupling in this system in dictating the pairing symmetry. Many proposals posit the existence of an $s\_\pm$ superconducting phase in close competition with the mroe conventional cuprate-like $d$-wave state in both weak- and strong-coupling theories. However, at least in the latter, the effects of Coulomb repulsion and the double occupancy constraint have been largely neglected. In this manuscript, we propose a mean-field fractionalization treatment that captures the full $SU(2)$ particle-hole symmetry of the t-J model at half-filling, and show how a systematic treatment of this new symmetry leads to an added Coulomb pseudopotential constraint - one that is absent in the usual $U(1)$ treatment. We then apply this new fractionalization scheme to a simplified bilayer t-J model of La${}\_3$Ni${}\_2$O${}\_7$, showing how the Coulomb pseudopotential suppresses the existence of $s\_\pm$ symmetry in favor of $d$-wave pairing.
-
----
-
-## 10. Superconducting weak links at substrate steps in bilayer nickelate films
-
-- **提交日期**：2026-10-20
-- **作者**：Yidi Liu, Yaoju Tarn, Lopa Bhatt, Puhua Zhang, Joonseo Song, Berit H. Goodge, David A. Muller, Harold Y. Hwang, Yijun Yu
-- **arXiv链接**：[http://arxiv.org/abs/2610.27729v1](http://arxiv.org/abs/2610.27729v1)
-
-### 摘要
-Ambient-pressure superconductivity above 40 K has been realized in bilayer nickelate thin films on SrLaAlO${}\_4$ (001), yet resistive measurements often exhibit incomplete zero-resistance states and/or two-step superconducting transitions of unresolved origin. We show that these features arise from superconducting weak links at substrate step-terrace structures. A direct correlation between the azimuthal-angle-dependent two-step transition and step-terrace orientation establishes this connection, further supported by atomic-scale visualization of structurally disrupted regions at step terraces. Modeling the films as pristine (weak-link) regions with higher (lower) transition temperature reproduces essential features of the two-step transition using both a simple model and finite-element simulations. Transport measurements further reveal a strong dependence of transition characteristics - and even the occurrence of superconductivity itself - on average terrace width. These results identify step-induced weak links as the microscopic origin of two-step transitions in bilayer nickelate films, providing a framework for understanding anisotropic and percolative transport, and a route to superconducting devices.
 
 ---
 
