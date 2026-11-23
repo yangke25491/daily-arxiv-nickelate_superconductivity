@@ -5,7 +5,7 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-23 至 2026-11-22**
+> 检索时间范围：**2026-10-24 至 2026-11-23**
 > 数据检索到 **9** 篇相关论文，按提交时间降序排列
 
 ---
@@ -58,10 +58,10 @@ The possibility of ambient-pressure superconductivity in $\mathrm{La\_3Ni\_2O\_7
 
 - **提交日期**：2026-11-09
 - **作者**：R. Zhang, P. Reiss, A. Krajewska, M. Isobe, H. Takagi, P. Puphal
-- **arXiv链接**：[http://arxiv.org/abs/2611.12788v1](http://arxiv.org/abs/2611.12788v1)
+- **arXiv链接**：[http://arxiv.org/abs/2611.12788v2](http://arxiv.org/abs/2611.12788v2)
 
 ### 摘要
-Superconductivity in the Ruddlesden-Popper (RP) nickelates has so far been confined either to multilayer compounds under high pressure or to square-planar infinite-layer-type films stabilized by epitaxial strain. Here we report the high-pressure high-temperature (HPHT) growth of bulk single crystals of the quadruple-layer RP nickelate La${}\_5$Ni${}\_4$O${}\_{13}$ ($n=4$) and reproduce the quintuple-layer La${}\_6$Ni${}\_5$O${}\_{16}$ ($n=5$) synthesis, two members of the series that had previously been accessible only as thin films. Topotactic reduction of La${}\_5$Ni${}\_4$O${}\_{13}$ single crystals with CaH${}\_2$ yields the square-planar phase La${}\_5$Ni${}\_4$O${}\_{10}$, which we show to be a bulk, ambient-pressure superconductor with $T\_\mathrm{c}^\mathrm{onset} \approx 18\,\mathrm{K}$, a shielding fraction above 60\%, and a specific-heat jump that confirms a bulk pairing transition. All crystals show besides superconductivity a coexistence with a density-wave or metal-insulator transition. The upper critical field shows a small anisotropy, $γ\approx 2.4$, which remains finite as $T \to T\_c$, indicating three-dimensional superconductivity with substantial coupling between the four-layer blocks. These results identify the square-planar nickelates $R\_{n+1}$Ni${}\_n$O${}\_{2n+2}$ as a bulk platform in which the layer number alone tunes the nickel valence into the superconducting regime, without chemical substitution, pressure, or epitaxial constraint.
+Superconductivity in the Ruddlesden--Popper (RP) nickelates has so far been confined either to multilayer compounds under high pressure or to square-planar infinite-layer-type films stabilized by epitaxial strain. Here, we report the high-pressure high-temperature (HPHT) growth of bulk single crystals of the quadruple-layer RP nickelate La${}\_5$Ni${}\_4$O${}\_{13}$ ($n=4$) and reproduce the quintuple-layer La${}\_6$Ni${}\_5$O${}\_{16}$ ($n=5$) synthesis, phases previously accessible only as thin films. Topotactic reduction of La${}\_5$Ni${}\_4$O${}\_{13}$ single crystals with CaH${}\_2$ yields the square-planar La${}\_5$Ni${}\_4$O${}\_{10}$, which we show to be a bulk, ambient-pressure superconductor with $T\_\mathrm{c}^\mathrm{onset}\approx18.7$\,K, a shielding fraction above 60\%, and a specific-heat jump that confirms a bulk pairing transition. In transport, all crystals show an anomaly near 90~K reminiscent of a density-wave like transition, which may arise from a partially gapped Fermi surface or from the non-superconducting volume fraction. The upper critical field shows a small anisotropy, $γ\approx 2.4$, which remains finite as $T \to T\_c$, indicating three-dimensional superconductivity with substantial coupling between the four-layer blocks. These results identify the square-planar nickelates $R\_{n+1}$Ni${}\_n$O${}\_{2n+2}$ as a bulk platform in which the layer number alone tunes the nickel valence into the superconducting regime, without chemical substitution, pressure, or epitaxial constraint.
 
 ---
 
