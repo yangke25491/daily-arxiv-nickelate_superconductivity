@@ -5,12 +5,34 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-24 至 2026-11-23**
-> 数据检索到 **9** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-25 至 2026-11-24**
+> 数据检索到 **11** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Reconciling Models for Infinite-Layer Nickelate Superconductors: Role of Interstitial-$s$ Band or $A$-Pocket
+## 1. Valence band, electron correlation, and possible temperature dependent change in the electronic structure near $E\_F$ of a candidate of ambient-pressure nickelate superconductors Sr${}\_3$Ni${}\_2$O${}\_5$Cl${}\_2$
+
+- **提交日期**：2026-11-23
+- **作者**：Ryota Goban, Daiki Ootsuki, Kenichi Ozawa, Akira Yasui, Masayuki Ochi, Kazuhiko Kuroki, Ryo Matsumoto, Kensei Terashima, Yoshihiko Takano, Yuji Muraoka, Takayoshi Yokoya
+- **arXiv链接**：[http://arxiv.org/abs/2611.30088v1](http://arxiv.org/abs/2611.30088v1)
+
+### 摘要
+Photoemission spectroscopy (PES) studies of Sr${}\_3$Ni${}\_2$O${}\_5$Cl${}\_2$ (Sr3252), a candidate ambient-pressure bilayer nickelate superconductor, have been performed to investigate the electronic structure. Valence band spectra, which are compared with DFT and DFT+U calculations, reveal dominant Ni 3$d$ $t\_{2g}$-derived states located around 0.6 eV binding energy with a shoulder around 0.2 eV that can be attributed to states with a dominant Ni 3$d\_{3z2-r2}$ character. The overall valence band shape is better reproduced by the simulated spectrum of DFT+U (= 3 eV), providing an experimental estimation of the strength of electron correlation. High-resolution PES near the Fermi level ($E\_F$) exhibits marked temperature dependence, which cannot be fully understood by a broadening due to coupling of a photo-hole to phonons alone and suggests change in electronic structure. The results provide fundamental electronic structure information of Sr3252, which is useful to further explore the superconductivity of Sr3252.
+
+---
+
+## 2. Minimal Three-Band Model and $d$-Wave Superconductivity in La${}\_4$Ni${}\_3$O${}\_8$
+
+- **提交日期**：2026-11-21
+- **作者**：Ao Zhang, Chao Deng, Wenfeng Wu, Run Yang, Zhixiang Shi, Liang Si
+- **arXiv链接**：[http://arxiv.org/abs/2611.28747v1](http://arxiv.org/abs/2611.28747v1)
+
+### 摘要
+Motivated by the recent observation of ambient-pressure superconductivity in Pr- and Y-substituted La${}\_4$Ni${}\_3$O${}\_8$, we combined density-functional theory (DFT), dynamical mean-field theory (DMFT), random phase approximation (RPA), and fluctuation exchange approximation (FLEX) methods to study its electronic structure and superconducting pairing symmetry. DFT band analysis indicates that the low-energy states are mainly dominated by three Ni-3$d\_{x^2-y^2}$ orbitals with weak $d$-$p$ hybridization. Multi-orbital DMFT calculations yield an average $d\_{x^2-y^2}$ filling of about 0.87, close to the optimal value for infinite-layer nickelates. By comparing the DMFT results of $d\_{x^2-y^2}$ only and full Ni-3$d$ models, we find that their electronic properties are almost completely consistent, demonstrating the effectiveness of the simplified $d\_{x^2-y^2}$ model. RPA and FLEX calculations based on this model consistently indicate a dominant $d\_{x^2-y^2}$-wave pairing instability. These results establish La${}\_4$Ni${}\_3$O${}\_8$ as a system whose electronic structure closely resembles that of hole-doped cuprates, suggesting that the electronic pockets near the $Γ$- and $A$-points, which are characteristic of infinite-layer nickelates, may not be essential for superconductivity. The calculated superconducting transition temperature ($T\_C$) is approximately 10\,K, in good agreement with experimental observations.
+
+---
+
+## 3. Reconciling Models for Infinite-Layer Nickelate Superconductors: Role of Interstitial-$s$ Band or $A$-Pocket
 
 - **提交日期**：2026-11-18
 - **作者**：Ao Zhang, Chao Deng, Leonard M. Verhoff, Mi Jiang, Run Yang, Zhixiang Shi, Karsten Held, Liang Si
@@ -21,7 +43,7 @@ Understanding the minimal model that captures the essential physics of infinite-
 
 ---
 
-## 2. Layer-dependent $s^{\pm}$ superconducting pairing and influence of incipient bands in La${}\_3$Ni${}\_2$O${}\_7$ thin films on real LaSrAlO${}\_4$ substrate
+## 4. Layer-dependent $s^{\pm}$ superconducting pairing and influence of incipient bands in La${}\_3$Ni${}\_2$O${}\_7$ thin films on real LaSrAlO${}\_4$ substrate
 
 - **提交日期**：2026-11-17
 - **作者**：Yang Zhang, Philip M. Dee, Ling-Fang Lin, Adriana Moreo, Thomas A. Maier, Elbio Dagotto
@@ -32,7 +54,7 @@ Motivated by recent advances in ambient-pressure superconducting La${}\_3$Ni${}\
 
 ---
 
-## 3. Failure of Mean-Field Critical Scaling and Two Distinct Dissipation Regimes in La${}\_2$SmNi${}\_2$O${}\_{7-δ}$
+## 5. Failure of Mean-Field Critical Scaling and Two Distinct Dissipation Regimes in La${}\_2$SmNi${}\_2$O${}\_{7-δ}$
 
 - **提交日期**：2026-11-16
 - **作者**：Yongze Ye, Feiyu Li, Di Peng, Junjie Zhang, Hai-Hu Wen
@@ -43,7 +65,7 @@ Recently, superconductivity with an onset transition temperature ($T\_{\mathrm{c
 
 ---
 
-## 4. Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure
+## 6. Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure
 
 - **提交日期**：2026-11-13
 - **作者**：Tomo-Hiko Hamada, Kensei Ushio, Shu Kamiyama, Kazuhiko Kuroki, Hirofumi Sakakibara
@@ -54,7 +76,7 @@ The possibility of ambient-pressure superconductivity in $\mathrm{La\_3Ni\_2O\_7
 
 ---
 
-## 5. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
+## 7. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
 
 - **提交日期**：2026-11-09
 - **作者**：R. Zhang, P. Reiss, A. Krajewska, M. Isobe, H. Takagi, P. Puphal
@@ -65,7 +87,7 @@ Superconductivity in the Ruddlesden--Popper (RP) nickelates has so far been conf
 
 ---
 
-## 6. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
+## 8. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
 
 - **提交日期**：2026-11-06
 - **作者**：Zhongyi Zhang, Shengshan Qin, Chui-Zhen Chen, Hoi Chun Po, Jiangping Hu, Xianxin Wu
@@ -76,7 +98,7 @@ The recent discovery of high-$T\_{\rm c}$ superconductivity in bilayer nickelate
 
 ---
 
-## 7. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
+## 9. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-31
 - **作者**：Ethan Saïman, Feiyu Li, Junjie Zhang, Jean-Pascal Rueff, Victor Balédent
@@ -87,7 +109,7 @@ Models of unconventional superconductivity in cuprates and nickelates depend sen
 
 ---
 
-## 8. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
+## 10. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-28
 - **作者**：P. Puphal, A. Suthar, B. Wehinger, V. Sundaramurthy, T. Priessnitz, M. Knauft, P. Sosa-Lizama, Y. -M. Wu, M. Hepting, J. Nuss, M. Isobe, P. A. van Aken, Y. E. Suyolcu, B. Keimer, H. Takagi, P. Reiss
@@ -98,7 +120,7 @@ Identifying the key ingredients for superconductivity under pressure in the Rudd
 
 ---
 
-## 9. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
+## 11. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-26
 - **作者**：Kaustubh Roy, Piers Coleman
