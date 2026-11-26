@@ -5,12 +5,23 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-26 至 2026-11-25**
+> 检索时间范围：**2026-10-27 至 2026-11-26**
 > 数据检索到 **11** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Valence band, electron correlation, and possible temperature dependent change in the electronic structure near $E\_F$ of a candidate of ambient-pressure nickelate superconductors Sr${}\_3$Ni${}\_2$O${}\_5$Cl${}\_2$
+## 1. Signatures of multiorbital density waves in the electronic Raman response of bilayer nickelates
+
+- **提交日期**：2026-11-25
+- **作者**：Lauro B. Braz, Ge He, Luis G. G. V. Dias da Silva, Ilya M. Eremin
+- **arXiv链接**：[http://arxiv.org/abs/2611.34471v1](http://arxiv.org/abs/2611.34471v1)
+
+### 摘要
+Recent Raman scattering experiments on bilayer nickelates have revealed pronounced spectral features in the spin-density-wave state, whose microscopic origin remains controversial, with interpretations ranging from two-magnon excitations to electronic transitions across SDW-induced gaps. Here, we demonstrate that the multiorbital electronic structure of low-pressure bilayer nickelates naturally generates distinct orbital-selective Raman signatures in different symmetry channels. Using a two-orbital bilayer model incorporating the $d\_{3z^2-r^2}$ and $d\_{x^2-y^2}$ orbitals in the orthorhombic structure, we analyze the electronic Raman response of the multiorbital spin-spinless double stripe SDW state and show that the $B\_{2g}$ response exhibits a peak at the energy scale $(M\_{z^2}+M\_{x^2})/2$, associated with SDW gap openings in weakly hybridized bands. In contrast, the dominant peak in the $B\_{1g}$ channel emerges at the multiorbital energy scale $(M\_{z^2}^2+M\_{x^2}^2)^{1/2}$, reflecting the strongly hybridized character of the relevant electronic states. These distinct energy scales provide a unified interpretation of several Raman signatures observed in La${}\_3$Ni${}\_2$O${}\_7$ and offer a means of disentangling the orbital contributions to the SDW order parameters. Our results highlight that in contrast to the superconducting state, Raman peak positions in the SDW state cannot generally be identified with a single SDW gap and establish symmetry-resolved electronic Raman scattering as a sensitive probe of multiorbital density-wave order.
+
+---
+
+## 2. Valence band, electron correlation, and possible temperature dependent change in the electronic structure near $E\_F$ of a candidate of ambient-pressure nickelate superconductors Sr${}\_3$Ni${}\_2$O${}\_5$Cl${}\_2$
 
 - **提交日期**：2026-11-23
 - **作者**：Ryota Goban, Daiki Ootsuki, Kenichi Ozawa, Akira Yasui, Masayuki Ochi, Kazuhiko Kuroki, Ryo Matsumoto, Kensei Terashima, Yoshihiko Takano, Yuji Muraoka, Takayoshi Yokoya
@@ -21,7 +32,7 @@ Photoemission spectroscopy (PES) studies of Sr${}\_3$Ni${}\_2$O${}\_5$Cl${}\_2$ 
 
 ---
 
-## 2. Minimal Three-Band Model and $d$-Wave Superconductivity in La${}\_4$Ni${}\_3$O${}\_8$
+## 3. Minimal Three-Band Model and $d$-Wave Superconductivity in La${}\_4$Ni${}\_3$O${}\_8$
 
 - **提交日期**：2026-11-21
 - **作者**：Ao Zhang, Chao Deng, Wenfeng Wu, Run Yang, Zhixiang Shi, Liang Si
@@ -32,7 +43,7 @@ Motivated by the recent observation of ambient-pressure superconductivity in Pr-
 
 ---
 
-## 3. Reconciling Models for Infinite-Layer Nickelate Superconductors: Role of Interstitial-$s$ Band or $A$-Pocket
+## 4. Reconciling Models for Infinite-Layer Nickelate Superconductors: Role of Interstitial-$s$ Band or $A$-Pocket
 
 - **提交日期**：2026-11-18
 - **作者**：Ao Zhang, Chao Deng, Leonard M. Verhoff, Mi Jiang, Run Yang, Zhixiang Shi, Karsten Held, Liang Si
@@ -43,7 +54,7 @@ Understanding the minimal model that captures the essential physics of infinite-
 
 ---
 
-## 4. Layer-dependent $s^{\pm}$ superconducting pairing and influence of incipient bands in La${}\_3$Ni${}\_2$O${}\_7$ thin films on real LaSrAlO${}\_4$ substrate
+## 5. Layer-dependent $s^{\pm}$ superconducting pairing and influence of incipient bands in La${}\_3$Ni${}\_2$O${}\_7$ thin films on real LaSrAlO${}\_4$ substrate
 
 - **提交日期**：2026-11-17
 - **作者**：Yang Zhang, Philip M. Dee, Ling-Fang Lin, Adriana Moreo, Thomas A. Maier, Elbio Dagotto
@@ -54,7 +65,7 @@ Motivated by recent advances in ambient-pressure superconducting La${}\_3$Ni${}\
 
 ---
 
-## 5. Failure of Mean-Field Critical Scaling and Two Distinct Dissipation Regimes in La${}\_2$SmNi${}\_2$O${}\_{7-δ}$
+## 6. Failure of Mean-Field Critical Scaling and Two Distinct Dissipation Regimes in La${}\_2$SmNi${}\_2$O${}\_{7-δ}$
 
 - **提交日期**：2026-11-16
 - **作者**：Yongze Ye, Feiyu Li, Di Peng, Junjie Zhang, Hai-Hu Wen
@@ -65,7 +76,7 @@ Recently, superconductivity with an onset transition temperature ($T\_{\mathrm{c
 
 ---
 
-## 6. Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure
+## 7. Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure
 
 - **提交日期**：2026-11-13
 - **作者**：Tomo-Hiko Hamada, Kensei Ushio, Shu Kamiyama, Kazuhiko Kuroki, Hirofumi Sakakibara
@@ -76,7 +87,7 @@ The possibility of ambient-pressure superconductivity in $\mathrm{La\_3Ni\_2O\_7
 
 ---
 
-## 7. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
+## 8. Ambient-pressure superconductivity in bulk single crystals of La${}\_5$Ni${}\_4$O${}\_{10}$
 
 - **提交日期**：2026-11-09
 - **作者**：R. Zhang, P. Reiss, A. Krajewska, M. Isobe, H. Takagi, P. Puphal
@@ -87,7 +98,7 @@ Superconductivity in the Ruddlesden--Popper (RP) nickelates has so far been conf
 
 ---
 
-## 8. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
+## 9. Mimicry of $\textit{d}$-wave Andreev Signatures by Interlayer Pairing
 
 - **提交日期**：2026-11-06
 - **作者**：Zhongyi Zhang, Shengshan Qin, Chui-Zhen Chen, Hoi Chun Po, Jiangping Hu, Xianxin Wu
@@ -98,7 +109,7 @@ The recent discovery of high-$T\_{\rm c}$ superconductivity in bilayer nickelate
 
 ---
 
-## 9. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
+## 10. Direct imaging of the Ni $e\_g$ hole orbitals in the bilayer nickelate La${}\_2$SmNi${}\_2$O${}\_7$
 
 - **提交日期**：2026-10-31
 - **作者**：Ethan Saïman, Feiyu Li, Junjie Zhang, Jean-Pascal Rueff, Victor Balédent
@@ -109,7 +120,7 @@ Models of unconventional superconductivity in cuprates and nickelates depend sen
 
 ---
 
-## 10. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
+## 11. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
 
 - **提交日期**：2026-10-28
 - **作者**：P. Puphal, A. Suthar, B. Wehinger, V. Sundaramurthy, T. Priessnitz, M. Knauft, P. Sosa-Lizama, Y. -M. Wu, M. Hepting, J. Nuss, M. Isobe, P. A. van Aken, Y. E. Suyolcu, B. Keimer, H. Takagi, P. Reiss
@@ -117,17 +128,6 @@ Models of unconventional superconductivity in cuprates and nickelates depend sen
 
 ### 摘要
 Identifying the key ingredients for superconductivity under pressure in the Ruddlesden-Popper nickelates remains a formidable challenge, due to a complex interplay between structural variations, oxygen content and location, electronically ordered phases, and the need for high pressures to reach the superconducting phase. To disentangle these complex inter-dependencies, here we study a series of clean single crystals of trilayer La${}\_4$Ni${}\_3$O${}\_{10}$. We discover that enhanced biaxial, compressive pressures induce a zero-resistance state at a 60\% lower pressure compared to previous reports. At the same time, we completely separate the low-pressure density wave phase from superconductivity, effectively ruling out that soft, quantum critical fluctuations of the density wave order parameter act as the pairing glue in this system. Our results establish biaxial, in-plane pressures as a powerful tool for promoting superconductivity in nickelates, unifying the required pressure scales for superconductivity in different Ruddlesden-Popper structures, and providing a connection to the recently discovered thin film samples.
-
----
-
-## 11. The fate of $s\_{\pm}$ superconductivity in the bilayer nickelate La${}\_3$Ni${}\_2$O${}\_7$
-
-- **提交日期**：2026-10-26
-- **作者**：Kaustubh Roy, Piers Coleman
-- **arXiv链接**：[http://arxiv.org/abs/2610.35814v1](http://arxiv.org/abs/2610.35814v1)
-
-### 摘要
-Motivated by the recent measurement of high-temperature superconductivity in the bilayer nickelate system La${}\_3$Ni${}\_2$O${}\_7$ in the bulk as well as thin film samples, we seek to understand the role of the interlayer coupling in this system in dictating the pairing symmetry. Many proposals posit the existence of an $s\_\pm$ superconducting phase in close competition with the mroe conventional cuprate-like $d$-wave state in both weak- and strong-coupling theories. However, at least in the latter, the effects of Coulomb repulsion and the double occupancy constraint have been largely neglected. In this manuscript, we propose a mean-field fractionalization treatment that captures the full $SU(2)$ particle-hole symmetry of the t-J model at half-filling, and show how a systematic treatment of this new symmetry leads to an added Coulomb pseudopotential constraint - one that is absent in the usual $U(1)$ treatment. We then apply this new fractionalization scheme to a simplified bilayer t-J model of La${}\_3$Ni${}\_2$O${}\_7$, showing how the Coulomb pseudopotential suppresses the existence of $s\_\pm$ symmetry in favor of $d$-wave pairing.
 
 ---
 
