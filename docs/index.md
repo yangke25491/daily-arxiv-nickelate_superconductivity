@@ -5,8 +5,8 @@ title: 镍酸盐超导论文
 
 # 凝聚态物理-镍酸盐高温超导相关论文
 
-> 检索时间范围：**2026-10-28 至 2026-11-27**
-> 数据检索到 **11** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-29 至 2026-11-28**
+> 数据检索到 **10** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -117,17 +117,6 @@ The recent discovery of high-$T\_{\rm c}$ superconductivity in bilayer nickelate
 
 ### 摘要
 Models of unconventional superconductivity in cuprates and nickelates depend sensitively on the distribution of valence electrons among the $d$ orbitals. But accurately determining the orbital electron or hole occupations in these systems remains a difficult and unresolved task. Here, using $s$-core-level non-resonant inelastic x-ray scattering at the Ni $M\_1$ edge, we determine the angular distribution of the Ni $3d$ holes in a single crystal of La${}\_2$SmNi${}\_2$O${}\_7$. Our results demonstrate that the hole occupation ratio $\hz/\hx = 0.94\pm0.06$, thus significantly above the expected value of $2/3$ for a filled $d\_{z^2}$ orbitals models and close to value expected in a Hund's-coupling picture. Our results support superconductivity scenarios in which both $e\_g$ orbitals contribute to the electron-pairing mechanism in La${}\_2$SmNi${}\_2$O${}\_7$.
-
----
-
-## 11. Separating the Density Wave Phase from Zero-Resistance Superconductivity in La${}\_4$Ni${}\_3$O${}\_{10}$
-
-- **提交日期**：2026-10-28
-- **作者**：P. Puphal, A. Suthar, B. Wehinger, V. Sundaramurthy, T. Priessnitz, M. Knauft, P. Sosa-Lizama, Y. -M. Wu, M. Hepting, J. Nuss, M. Isobe, P. A. van Aken, Y. E. Suyolcu, B. Keimer, H. Takagi, P. Reiss
-- **arXiv链接**：[http://arxiv.org/abs/2610.38959v1](http://arxiv.org/abs/2610.38959v1)
-
-### 摘要
-Identifying the key ingredients for superconductivity under pressure in the Ruddlesden-Popper nickelates remains a formidable challenge, due to a complex interplay between structural variations, oxygen content and location, electronically ordered phases, and the need for high pressures to reach the superconducting phase. To disentangle these complex inter-dependencies, here we study a series of clean single crystals of trilayer La${}\_4$Ni${}\_3$O${}\_{10}$. We discover that enhanced biaxial, compressive pressures induce a zero-resistance state at a 60\% lower pressure compared to previous reports. At the same time, we completely separate the low-pressure density wave phase from superconductivity, effectively ruling out that soft, quantum critical fluctuations of the density wave order parameter act as the pairing glue in this system. Our results establish biaxial, in-plane pressures as a powerful tool for promoting superconductivity in nickelates, unifying the required pressure scales for superconductivity in different Ruddlesden-Popper structures, and providing a connection to the recently discovered thin film samples.
 
 ---
 
